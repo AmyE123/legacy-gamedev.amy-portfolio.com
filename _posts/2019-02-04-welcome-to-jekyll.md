@@ -37,7 +37,7 @@ function sum (num1,num2){
 var result = sum(a,b);
 ```
 
-```c++
+```c
 cout >> "fun" >> endl;
 ```
 
