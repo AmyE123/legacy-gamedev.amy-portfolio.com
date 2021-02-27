@@ -9,16 +9,52 @@ layout: default
     });
   });
 </script>
-    <div class="jumbotron" style="text-align: center;">
-        <video id="video-background" autoplay muted playsinline loop>
-            <source src="{{site.url}}{{site.baseurl}}/assets/img/showreel.mp4" type="video/mp4">
-            <source src="{{site.url}}{{site.baseurl}}/assets/img/showreel.ogg" type="video/ogg">
-            Your browser does not support the video tag.
-        </video> <script>document.getElementById('myvideo').play();</script>
-      <img class="author-profile-img" src="{{site.url}}{{site.baseurl}}/assets/img/profile.png" />
-      <p class="jumbotron-heading">Hi, I am {{site.author}} !</p>
-      <p class="lead" id="typewriteText"></p>
-    </div>
+<div class="jumbotron" style="text-align: center;">
+
+    <!---------------------------------------->
+    <!--MASTHEAD VIDEO ON BACKGROUND-->
+    <!---------------------------------------->
+    <video id="video-background" autoplay muted playsinline loop>
+        <source src="{{site.url}}{{site.baseurl}}/assets/img/showreel.mp4" type="video/mp4">
+        <source src="{{site.url}}{{site.baseurl}}/assets/img/showreel.ogg" type="video/ogg">
+        Your browser does not support the video tag.
+    </video>
+    <script>document.getElementById('myvideo').play();</script>
+
+    <!---------------------------------------->
+    <!--TEXT AND PROFILE PICTURE-->
+    <!---------------------------------------->
+    <img class="author-profile-img" src="{{site.url}}{{site.baseurl}}/assets/img/profile.png" />
+    <p class="jumbotron-heading">Hi, I am {{site.author}} !</p>
+    <p class="lead" id="typewriteText"></p>
+
+    <!---------------------------------------->
+    <!--SOCIAL MEDIA LINKS-->
+    <!---------------------------------------->
+    <p class="profile-links">
+        {% if site.twitter_username %}
+        <a class="social-link"
+           href="http://twitter.com/{{ site.twitter_username }}">
+            <i class="fab fa-twitter"></i>
+        </a>
+        {% endif %} {% if site.instagram_username %}
+        <a class="social-link"
+           href="http://instagram.com/{{ site.instagram_username }}">
+            <i class="fab fa-instagram"></i>
+        </a>
+        {% endif %} {% if site.github_username %}
+        <a class="social-link"
+           href="http://github.com/{{ site.github_username }}">
+            <i class="fab fa-github"></i>
+        </a>
+        {% endif %} {% if site.linkedin_username %}
+        <a class="social-link"
+           href="http://linkedin.com/in/{{ site.linkedin_username }}">
+            <i class="fab fa-linkedin-in"></i>
+        </a>
+        {% endif %}
+    </p>
+</div>
     <div class="col-lg-8 offset-md-2">
       <section id="recent-articles">
         <div id="recent-articles-header">
