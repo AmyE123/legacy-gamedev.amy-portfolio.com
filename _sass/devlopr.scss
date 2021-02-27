@@ -493,6 +493,10 @@ header {
     background-color: black !important;
 }
 
+//--------------------------------------------------------------------------
+// This sets the background masthead video position stuff
+// Jumbotron, #video-background & jumbotron container
+//--------------------------------------------------------------------------
 /* jumbotron */
 .jumbotron {
     //background-color: var(--main-background-color) !important;
@@ -515,6 +519,7 @@ header {
     overflow: hidden;
     z-index: -100;
     width: 100%;
+    height: 100%;
     object-fit: cover;
     opacity: 0.1;
 }
