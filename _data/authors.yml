@@ -4,7 +4,7 @@ amyelliott:
    username: amyelliott
    site: http://amy-portfolio.com
    avatar: profile.png
-   bio: "Hi I am Amy Elliott, a Gameplay Programmer and Artist"
+   bio: "My name is Amy, and I'm a gameplay programmer and artist from the UK. I've published my first game on the Google Playstore when I was 17, and I'm currently a first-year student at the University of Portsmouth studying Computer Games Technology BSc (Hons), as well as doing Commission Artwork and working retail. I've recently graduated from Northbrook Metropolitan College with a Disctinction grade, studying Creative Media Technology (Games Development). I love learning new skills and taking on challenges, I achieve this by working hard and doing lots of self-directed study in hopes to have T shaped knowledge"
    email: amy.elliott2002@yahoo.co.uk
    social:
       - title: "github"
@@ -18,7 +18,7 @@ amyelliott:
 
 
 
-
+# Other authors...
 
 johndoe:
    name: John Doe
