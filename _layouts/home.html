@@ -10,11 +10,13 @@ layout: default
   });
 </script>
     <div class="jumbotron" style="text-align: center;">
+        <video id="video-background" preload muted autoplay loop>
+            <source src="http://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+            <source src="http://www.w3schools.com/html/mov_bbb.ogg" type="video/ogg">
+        </video>
       <img class="author-profile-img" src="{{site.url}}{{site.baseurl}}/assets/img/profile.png" />
       <p class="jumbotron-heading">Hi, I am {{site.author}} !</p>
       <p class="lead" id="typewriteText"></p>
-         {%- include github_star_button.html -%}
-         {%- include github_fork_button.html -%}
     </div>
     <div class="col-lg-8 offset-md-2">
       <section id="recent-articles">

@@ -35,7 +35,7 @@ author_bio: My name is Amy, and I'm a gameplay programmer and artist from the UK
 author_email: "amy.elliott2002@yahoo.co.uk"
 author_location: United Kingdom
 author_website_url: "https://amy-portfolio.com"
-typewrite-text: my name is Amy Elliott!
+typewrite-text: I'm a Gameplay Programmer, and Artist!
 
 # Experiences
 author_work_experiences:
@@ -69,43 +69,40 @@ author_education_details:
 
 
 # Projects
-#author_project_details:
-              #- project_thumbnail: gamershub.png
-              #  project_title: Gamers Hub
-              #  project_description: A Platform built for Gamers and Game Devs
-              #  project_url: https://gamershub.in
-              #  visibility: true
-             # - project_thumbnail: hack4r.PNG
-              #  project_title: Hack4r
-              #  project_description: A Platform built for Hackers and Penetration Testers
-              #  project_url: https://hack4r.com
-              #  visibility: true
+author_project_details:
+              - project_thumbnail: tsh.png
+                project_title: Team Swap Heroes
+                project_description: A teamwork-based puzzle game made for Minijam 48.
+                project_url: https://horsehead.itch.io/team-swap-heroes
+                visibility: true
+              - project_thumbnail: blocky.png
+                project_title: Blocky Road
+                project_description: A hyper-casual puzzle game, developed by myself in 15 hours.
+                project_url: https://amy-elliott.itch.io/blockyroads
+                visibility: true
+              - project_thumbnail: BeatCity.png
+                project_title: Beat City
+                project_description: A music based platformer game, developed by myself to experiment with music manipulation.
+                project_url: https://amy-elliott.itch.io/beat-city
+                visibility: false
+              - project_thumbnail: capsays.png
+                project_title: Captain Says
+                project_description: An educational action game, published to the Google Playstore.
+                project_url: https://amy-elliott.itch.io/captain-says
+                visibility: true
+              - project_thumbnail: pop.png
+                project_title: Poppin Hoppin Unlockin
+                project_description: A fantasy-platformer game, developed for a University Gamejam by a group which I lead.
+                project_url: https://amy-elliott.itch.io/poppin-hoppin-unlockin
+                visibility: false
+
 
 # social links
 twitter_username: amyelliott_
 github_username:  AmyE123
 facebook_username: amy.elliott.773981
 linkedin_username: amy-m-elliott
-#behance_username: johndoe
 instagram_username: amy.m.elliott
-#medium_username: johndoe
-#telegram_username: johndoe
-#dribbble_username: johndoe
-#flickr_username: johndoe
-
-#for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
-
-# disqus_shortname: sujay-kundu
-#hyvor_talk_website_id: 476
-
-# wakatime username (coding activity)
-#wakatime_username: sujaykundu777
-
-# mailchimp embedded form url (newsletter):
-#mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
-
-# formspree (contact form)
-formspree_email: amy.elliott2002@yahoo.co.uk
 
 # syntax highlighter
 markdown: kramdown

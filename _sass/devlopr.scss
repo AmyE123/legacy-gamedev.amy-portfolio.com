@@ -17,7 +17,7 @@ html[data-theme="dark"] {
     --main-background-color: rgb(28, 28, 30);
     --main-text-color: rgb(139, 139, 139);
     --medium-text-color: hsl(0, 0%, 70%);
-    --underline-color: hsl(0, 0%, 50%);
+    --underline-color: hsl(0, 0%, 98%);
     --social-link-color: #ffffff;
     --card-background-color: rgb(32, 32, 34);
     --newsletter-background-color: #222324;
@@ -37,7 +37,7 @@ html[data-theme="light"] {
     --main-text-color: rgb(51, 51, 51);
     --medium-text-color: hsl(0, 40%, 2%);
     --sidebar-color: hsl(0, 0%, 90%);
-    --underline-color: hsl(0, 0%, 60%);
+    --underline-color: hsl(0, 0%, 98%);
     --social-link-color: #262222;
     --card-background-color: rgb(250, 250, 250);
     --newsletter-background-color: #00000008;
@@ -61,7 +61,7 @@ html[data-theme="light"] {
         --main-background-color: rgb(28, 28, 30);
         --main-text-color: rgb(139, 139, 139);
         --medium-text-color: hsl(0, 0%, 70%);
-        --underline-color: hsl(0, 0%, 50%);
+        --underline-color: hsl(0, 0%, 98%);
         --social-link-color: #ffffff;
         --card-background-color: rgb(32, 32, 34);
         --newsletter-background-color: #222324;
@@ -84,7 +84,7 @@ html[data-theme="light"] {
         --main-text-color: rgb(51, 51, 51);
         --medium-text-color: hsl(0, 0%, 20%);
         --sidebar-color: hsl(0, 0%, 90%);
-        --underline-color: hsl(0, 0%, 60%);
+        --underline-color: hsl(0, 0%, 98%);
         --social-link-color: #262222;
         --card-background-color: rgb(250, 250, 250);
         --button-background-color: #fff;
@@ -495,12 +495,36 @@ header {
 
 /* jumbotron */
 .jumbotron {
-    background-color: var(--main-background-color) !important;
-    background-image: url('https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    //background-color: var(--main-background-color) !important;
+    //background-image: url('https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
     background-attachment: fixed;
     background-size: cover;
-    background-position: center;
+    background-position: center top;
+    position: relative;
+    overflow: hidden;
+    z-index: -101;
+    background-color: black;
 }
+
+#video-background {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+    width: 100%;
+    object-fit: cover;
+    opacity: 0.1;
+}
+
+.jumbotron .container 
+{
+    z-index: -10;
+    position: relative;
+}
+
 /* pagination */
 .pagination-link{
     padding:15px;
