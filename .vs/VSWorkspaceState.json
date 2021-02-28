@@ -1,13 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\assets",
-    "\\assets\\bower_components",
-    "\\assets\\bower_components\\font-awesome",
-    "\\assets\\bower_components\\icono",
-    "\\assets\\bower_components\\lightgallery",
-    "\\assets\\css"
+    ""
   ],
-  "SelectedNode": "\\_sass\\devlopr.scss",
+  "SelectedNode": "\\gallery\\Artwork.md",
   "PreviewInSolutionExplorer": false
 }
