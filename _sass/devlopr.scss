@@ -187,7 +187,7 @@ h1, h2, h3, h4, h5, h6 {
 
 a{
     //color: var(--link-color) !important;
-    color: black !important;
+    color: orangered !important;
     padding: 15px;
 }
 /* Navigation Header */
@@ -243,6 +243,7 @@ header {
 .btn-dark {
     background-color:var(--button-background-color) !important;
     color: var(--bold-color) !important;
+    width: 100%;
 }
 
 .img-thumbnail {
@@ -260,7 +261,7 @@ header {
 }
 .card-title {
     margin-bottom: .75rem !important;
-    margin-left: 30px !important;
+    margin-left: 0px !important;
 }
 
 /* Search Overlay */
@@ -647,7 +648,7 @@ header {
 }
 
 #blog-posts-container{
-    margin-left:20px !important;
+    margin-left: -20px !important;
 }
 
 #article-container{
