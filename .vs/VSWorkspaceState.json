@@ -1,13 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\bower_components",
-    "\\assets\\bower_components\\font-awesome",
-    "\\assets\\bower_components\\icono",
-    "\\assets\\bower_components\\lightgallery",
-    "\\assets\\css"
+    "\\blog",
+    "\\categories",
+    "\\categories\\gamedev",
+    "\\game-development",
+    "\\_posts",
+    "\\_posts-gamedevelopment"
   ],
-  "SelectedNode": "\\_sass\\devlopr.scss",
+  "SelectedNode": "\\_posts-gamedevelopment\\2021-02-21-test.md",
   "PreviewInSolutionExplorer": false
 }

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Blocky Road"
-summary: "Blocky Road Web Page"
+title:  "Blocky Road BLOG TEST"
+summary: "Blocky Road BLOG TEST"
 author: amyelliott
 date: '2021-02-28'
-category: ['Browser_Game', 'Process', 'Test']
+category: ['Cplusplus', 'Csharp', 'Blueprints', 'Design', 'Level-Design', 'Game-Jam', '3D-Modelling', 'UI-UX', 'University']
 thumbnail: /assets/img/blocky.png
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
 permalink: /blog/test-post/
