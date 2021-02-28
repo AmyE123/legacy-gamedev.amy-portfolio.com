@@ -68,20 +68,20 @@ xplor4r:
       - title: "facebook"
         url: "https://www.facebook.com/sujay.kundu2"
 
-#amyelliott:
-    #name: Amy Elliott
-    #username: amyelliott
-    #site: https://adobe-portfolio.com
-    #avatar: profile.png
-    #bio: "Gameplay Programmer and Artist, based in the United Kingdom"
-    #email: amy.elliott2002@yahoo.co.uk
-    #social:
-       #- title: "github"
-         #url: "https://github.com/AmyE123"
-      #- title: "linkedin"
-        #url: "https://www.linkedin.com/in/amy-m-elliott/"
-      #- title: "twitter"
-        #url: "https://twitter.com/AmyElliott_"
-      #- title: "instagram"
-        #url: "https://www.instagram.com/amy.m.elliott/"
+teamhorsehead:
+   name: Team Horsehead
+   username: teamhorsehead
+   site: https://horsehead.itch.io/
+   avatar: horsehead.png
+   bio: "Team Horsehead is a Game Development Team which I am a part of.<br/>
+		I joined these amazing guys back in 2019 for my first GameJam (Portsmouth University Gamejam 2019), and ever since then, we join to make gamejams a few times a year! These people are great friends to me.<br/>
+
+		<ul>
+		<li> <strong>Joe Shanahan</strong> - Programmer </li>
+		<li> <strong>Scott Richards</strong> - Programmer </li>
+		<li> <strong>Oliver Thurston</strong> - Artist </li>
+		<li> <strong>Louise Hunnisett</strong> - Artist </li>
+		<li> <strong>Melina Sputz</strong> - Artist </li>
+		<li> <strong>James Thurston</strong> - Audio </li>
+		</ul>"
 

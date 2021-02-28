@@ -5,7 +5,7 @@ summary: "Blocky Road Web Page"
 author: amyelliott
 date: '2021-02-28'
 category: ['Browser_Game', 'Process', 'Test']
-thumbnail: /assets/img/posts/code.jpg
+thumbnail: /assets/img/blocky.png
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
 permalink: /blog/test-post/
 usemathjax: true
