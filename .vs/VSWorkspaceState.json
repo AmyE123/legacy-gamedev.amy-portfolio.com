@@ -1,13 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\blog",
-    "\\categories",
-    "\\categories\\gamedev",
-    "\\game-development",
-    "\\_posts",
-    "\\_posts-gamedevelopment"
+    ""
   ],
-  "SelectedNode": "\\_posts-gamedevelopment\\2021-02-21-test.md",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
