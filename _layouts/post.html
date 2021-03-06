@@ -4,7 +4,7 @@ layout: default
 
 <div class="row" id="blog-post-container">
   <div class="col-lg-8 offset-md-2">
-    {%- include blog_post_article.html -%}
+     {%- include blog_post_article.html -%}
      {%- include blog_post_comments.html-%}
   </div>
 </div>
@@ -14,7 +14,6 @@ layout: default
       <div class="card-header">About {{site.author}}</div>
       <div class="card-body">
         <p class="author_bio">{{ site.author_bio }}</p>
-        {%- include github_star_button.html -%}
       </div>
     </div>
   </div>

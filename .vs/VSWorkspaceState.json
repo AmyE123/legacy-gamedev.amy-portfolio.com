@@ -1,13 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\blog",
-    "\\categories",
-    "\\categories\\gamedev",
-    "\\game-development",
-    "\\_posts",
-    "\\_posts-gamedevelopment"
+    "\\_sass"
   ],
-  "SelectedNode": "\\_posts-gamedevelopment\\2021-02-21-test.md",
+  "SelectedNode": "\\assets\\css\\main.scss",
   "PreviewInSolutionExplorer": false
 }

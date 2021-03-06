@@ -185,6 +185,11 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
 }
 
+//The colour for the horizontal rule.
+hr {
+    border: 0.1px solid rgb(46, 46, 46) !important;
+}
+
 a{
     //color: var(--link-color) !important;
     color: orangered !important;
@@ -212,6 +217,17 @@ header {
     margin: 20px !important;
     padding: 20px !important;
     background-color: var(--card-background-color) !important;
+}
+
+//This is the status-card for the blogs
+.status-card {
+    margin: 20px !important;
+    padding: 20px !important;
+    //width: fit-content !important;
+    // background-color: var(--card-background-color) !important;
+    border: dashed;
+    border-width: 2px;
+    border-color: orangered;
 }
 
 #topNav{
