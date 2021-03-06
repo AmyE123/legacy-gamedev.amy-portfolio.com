@@ -190,11 +190,64 @@ hr {
     border: 0.1px solid rgb(46, 46, 46) !important;
 }
 
-a{
+a {
     //color: var(--link-color) !important;
     color: orangered !important;
     padding: 15px;
 }
+
+//Part of the collapsible group items
+body {
+    padding: 50px;
+    background: #fff;
+}
+
+//Part of the collapsible group items
+.wrapper {
+    width: 100%;
+}
+
+//Part of the collapsible group items
+@media(max-width:992px) {
+    .wrapper {
+        width: 100%;
+    }
+}
+
+//Part of the collapsible group items
+.panel-heading {
+    padding: 0;
+    border: 0;
+}
+
+//Part of the collapsible group items
+.panel-title > a, .panel-title > a:active {
+    display: block !important;
+    padding: 15px;
+    color: #bbbbbb !important;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    text-decoration: none;
+}
+
+//Part of the collapsible group items
+.panel-heading a:before {
+    content: "+";
+    float: right;
+    transition: all 0.5s;
+}
+
+//Part of the collapsible group items
+.panel-heading.active a:before {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    transform: rotate(180deg);
+} 
+
+
 /* Navigation Header */
 header {
     background-color: var(--main-background-color);
