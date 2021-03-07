@@ -2,7 +2,6 @@
 layout: page
 menus: header
 title: Styleguide
-permalink: /styleguide/
 ---
 
 <h1 class="text-center"> devlopr jekyll - Styleguide </h1>
