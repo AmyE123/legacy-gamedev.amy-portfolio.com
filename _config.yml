@@ -1,7 +1,7 @@
 title: Amy Elliott
-subtitle: Gameplay Programmer and Artist
+subtitle: Gameplay Programmer
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  amy elliott
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -30,19 +30,19 @@ urls:
 
 author_logo: profile.png
 author: Amy Elliott
-author_bio: My name is Amy, and I'm a gameplay programmer and artist from the UK.<br />
+author_bio: My name is Amy, and I'm a gameplay programmer from the UK.<br />
             I've published my first game on the Google Playstore when I was 17, and I'm currently a first-year student at the University of Portsmouth studying Computer Games Technology BSc (Hons), as well as doing Commission Artwork and working retail.<br /> 
             I've recently graduated from Northbrook Metropolitan College with a Disctinction grade, studying Games Development.<br />
             I love learning new skills and taking on challenges, I achieve this by working hard and doing lots of self-directed study in hopes to have T shaped knowledge.
 author_email: "amy.elliott2002@yahoo.co.uk"
 author_location: United Kingdom
 author_website_url: "https://amy-portfolio.com"
-typewrite-text: I'm a Gameplay Programmer, and Artist!
+typewrite-text: I'm a Gameplay Programmer!
 
 # Experiences
 author_work_experiences:
             - company_name: Freelance Artist
-              company_logo: google.png
+              company_logo: commission.png
               company_url: https://google.com
               designation: Commission Work
               description: Worked with clients to produce character designs and illustrative pieces.
