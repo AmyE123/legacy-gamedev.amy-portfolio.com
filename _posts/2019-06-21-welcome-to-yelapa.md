@@ -5,7 +5,7 @@ summary: "Welcome To Yelapa is a Legend of Zelda inspired puzzle game, and it wa
 author: amyelliott
 date: '2019-06-21'
 category: ['CSharp', 'Design', 'Level-Design', 'UI-UX', 'Game-Jam']
-thumbnail: /assets/img/WelcomeToYelapa.png
+thumbnail: /assets/img/welcometoyelapa.PNG
 keywords: csharp, game design, design, level design, ui, ux, game jam
 permalink: /blog/welcome-to-yelapa/
 usemathjax: true
