@@ -91,7 +91,7 @@ usemathjax: true
           </div>
 
           <div class="column">
-            <img src="/assets/img/posts/WelcomeToYelapa/10.png">
+            <img src="/assets/img/posts/WelcomeToYelapa/10.PNG">
           </div>
         </div>      
       </div>
