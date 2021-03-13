@@ -353,6 +353,17 @@ header {
     border-color: orangered;
 }
 
+//This is the control-card for the blogs
+.control-card {
+    margin: 20px !important;
+    padding: 20px !important;
+    //width: fit-content !important;
+    // background-color: var(--card-background-color) !important;
+    border: dashed;
+    border-width: 2px;
+    border-color: rgb(46, 46, 46) !important;
+}
+
 #topNav{
     padding-left: 100px;
     padding-right: 100px;

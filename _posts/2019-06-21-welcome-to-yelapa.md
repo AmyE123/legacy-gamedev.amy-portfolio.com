@@ -22,6 +22,8 @@ usemathjax: true
       });
 </script>
 
+<hr>
+
 <!--- -------------------------------------------------------------- -->
 <!--- This is for the status of the game, every game should have one -->
 <!--- -------------------------------------------------------------- -->
@@ -50,7 +52,14 @@ usemathjax: true
 <!--- --------------------------------------------------------------------------------------------------------- -->
 <!--- This is the Youtube footage of the game, followed by a collapsible with the gallery, which starts as open -->
 <!--- --------------------------------------------------------------------------------------------------------- -->
-<div style="text-align: center;"> <iframe width= "100%" height="600px" src="https://www.youtube.com/embed/XYSKAmaXCms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+<div style="text-align: center;"><iframe frameborder="0" src="https://itch.io/embed-upload/1501772?color=333333" allowfullscreen="" width="1044" height="664"><a href="https://horsehead.itch.io/gamejam-2019">Play Welcome to Yelapa on itch.io</a></iframe> </div>
+<div class="control-card">  
+    <h4 style="text-align: center;">Controls</h4>
+    <li style="text-align: center;"> <strong>Move:</strong> Arrow Keys / W A S D</li>
+    <li style="text-align: center;"> <strong>Pick up:</strong> Space</li>
+    <li style="text-align: center;"> <strong>Throw:</strong> Space</li> 
+    <p style="text-align: center;">The controls were designed to be as simple as possible, other than moving there is just one button.</p>
+</div>
 
 <div class="wrapper center-block">
   <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
