@@ -43,7 +43,7 @@ typewrite-text: I'm a Gameplay Programmer!
 author_work_experiences:
             - company_name: Freelance Artist
               company_logo: commission.png
-              company_url: https://google.com
+              company_url: https://https://art.amy-portfolio.com
               designation: Commission Work
               description: Worked with clients to produce character designs and illustrative pieces.
               visibility: true

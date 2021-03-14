@@ -1,13 +1,13 @@
 ﻿---
 layout: post
-title:  "The Dragonsitter"
-summary: "The Dragonsitter is a Tamagotchi inspired game, made for the 'Keep it alive' theme. <small>(Ludum Dare 46)</small>"
+title:  "Somewhere In Berkshire"
+summary: "Somewhere in Berkshire is an exploration game designed to fit around a few randomly selected tricky themes. <small>(Portsmouth University Game Jam 2020)</small>"
 author: amyelliott
-date: '2020-04-18'
-category: ['CSharp', 'Modelling', 'UI-UX', 'Game-Jam', 'Unity']
-thumbnail: /assets/img/posts/TheDragonsitter/1.png
+date: '2020-06-15'
+category: ['CSharp', 'Modelling', 'UI-UX', 'Shaders', 'Game-Jam', 'Unity']
+thumbnail: /assets/img/posts/SomewhereInBerkshire/cover.png
 keywords: dragonsitter, gamejam, here
-permalink: /blog/the-dragonsitter/
+permalink: /blog/somewhere-in-berkshire/
 usemathjax: true
 ---
 <!---Keep this here-->
@@ -34,13 +34,11 @@ usemathjax: true
 
     <h6 style="text-align: center;">Project Type <a style="text-align: center;">Game Jam</a> </h6>   
 
-    <h6 style="text-align: center;">GJ Rank <a style="text-align: center;">614th of 4959 entries</a> </h6> 
+    <h6 style="text-align: center;">Game Jam Duration <a style="text-align: center;">5 days</a> </h6>    
 
-    <h6 style="text-align: center;">Game Jam Duration <a style="text-align: center;">72 hours</a> </h6>    
+    <h6 style="text-align: center;">Software Used <a style="text-align: center;">Unity, Photoshop</a> </h6>    
 
-    <h6 style="text-align: center;">Software Used <a style="text-align: center;">Unity, Photoshop, Maya</a> </h6>    
-
-    <h6 style="text-align: center;">Primary Roles <a style="text-align: center;">Programming, Design, 3D, UI</a> </h6> 
+    <h6 style="text-align: center;">Primary Roles <a style="text-align: center;">Programming, Design, UI, Shaders, Art</a> </h6> 
 </div>
 
 <!--- This HR is nice to have here, to seperate the status of the game -->
@@ -50,23 +48,21 @@ usemathjax: true
 <!--- This is for the main description of the game, this is very important -->
 <!--- -------------------------------------------------------------------- -->
 <div class = "card">
-    <h2 style="text-align: center;">About The Dragonsitter</h2>
-    <p style="text-align: center;">The Dragonsitter is a Tamagotchi inspired game, made for the 'Keep it alive' theme. I ended up working on all sorts of things for this game, including programming, 3D and art. <br />This game was made with a team of 4, including me. <br />This game was great fun to plan out and produce, I felt like we worked very well as a team to make this!</p>
+    <h2 style="text-align: center;">About Somewhere In Berkshire</h2>
+    <p style="text-align: center;">Somewhere in Berkshire is an exploration game designed to fit around a few randomly selected tricky themes. The three themes were picked randomly from Wikipedia. <br /> The themes which were picked for this were: The 1999 Saskatchewan Scott Tournament of Hearts, Bockhampton Berkshire, and finally a Professor called Jillian Banfield. In this gamejam, I worked with Team Horsehead, there was 5 of us on the team, including me. I mostly worked on Programming, Design, UI Shaders and Art for the game. <br />Through making this game I learnt a lot more about shaders in Unity.</p>
 </div>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- This is the Embed or Youtube Footage of the game, followed by controls and a collapsible with the gallery, which starts as open -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------- -->
-<div style="text-align: center;"><iframe frameborder="0" src="https://itch.io/embed-upload/2159156?color=333333" allowfullscreen="" width="980" height="688"><a href="https://horsehead.itch.io/keep-it-alive">Play The Dragonsitter on itch.io</a></iframe></div>
+<div style="text-align: center;"><iframe frameborder="0" src="https://itch.io/embed-upload/2385357?color=333333" allowfullscreen="" width="980" height="688"><a href="https://horsehead.itch.io/somewhere-in-berkshire">Play Somewhere in Berkshire on itch.io</a></iframe></div>
 
 <div class="control-card">  
     <h4 style="text-align: center;">Controls</h4>
     <li style="text-align: center;"> <strong>Move:</strong> Arrow Keys / W A S D</li>
-    <li style="text-align: center;"> <strong>Throw/Action:</strong> Space</li>
-    <li style="text-align: center;"> <strong>C:</strong> Crafting Menu</li> 
-    <li style="text-align: center;"> <strong>Shift:</strong> Sprint</li> 
-    <li style="text-align: center;"> <strong>M:</strong> Mute Audio</li> 
-    <p style="text-align: center;">The controls were designed to be as simple as possible, other than moving there is just one button.</p>
+    <li style="text-align: center;"> <strong>Shoot Lightning:</strong> Arrow Keys / W A S D</li>
+    <li style="text-align: center;"> <strong>Close Menu:</strong> Space</li> 
+    <li style="text-align: center;"> <strong>Skip Cutscene:</strong> Space(x4)</li> 
 </div>
 
 <div class="wrapper center-block">
