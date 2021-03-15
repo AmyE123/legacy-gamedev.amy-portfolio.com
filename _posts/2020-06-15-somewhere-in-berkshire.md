@@ -77,26 +77,23 @@ usemathjax: true
     </div>
     <div id="collapseGallery" class="panel-collapse collapse in collapse show" role="tabpanel" aria-labelledby="headingOne">
       <div class="panel-body">
-        <p>Here is a gallery of pictures displaying the different types of weather and interactions in the game along with some concept art. <br /> </p>
+        <p>Here is a gallery of gifs, showing gameplay <br /> </p>
         
         <div class = "row">
-          <div class="column-one">
-            <img src="/assets/img/posts/TheDragonsitter/2.png">
+          <div class="column-two">
+            <img src="/assets/img/posts/SomewhereInBerkshire/berkshire.gif">
+          </div>
+          <div class="column-two">
+            <img src="/assets/img/posts/SomewhereInBerkshire/berkshire2.gif">
           </div>
         </div>        
         <br />
         <div class="row">
-          <div class="column">
-            <img src="/assets/img/posts/TheDragonsitter/g1.gif">
+          <div class="column-two">
+            <img src="/assets/img/posts/SomewhereInBerkshire/berkshire3.gif">
           </div>
-          <div class="column">
-            <img src="/assets/img/posts/TheDragonsitter/g2.gif">
-          </div>
-          <div class="column">
-            <img src="/assets/img/posts/TheDragonsitter/g3.gif">
-          </div>
-          <div class="column">
-            <img src="/assets/img/posts/TheDragonsitter/g4.gif">
+          <div class="column-two">
+            <img src="/assets/img/posts/SomewhereInBerkshire/berkshire4.gif">
           </div>
         </div>  
       </div>
@@ -117,51 +114,44 @@ usemathjax: true
     <div class="panel-heading active" role="tab" id="headingOne">
       <h4 class="panel-title">
         <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOverview" aria-expanded="true" aria-controls="collapseOverview">
-          The Dragonsitter: Development Overview
+          Somewhere In Berkshire: Development Overview
         </a>
       </h4>
     </div>
     <div id="collapseOverview" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
       <div class="panel-body">
-        <p>Our team of 4 entered this Gamejam in April of 2020, this Gamejam was a 72 -hour Gamejam, and much like our other Ludum Dare gamejam entry (Village Simulator) – We decided to each get a good amount of sleep each night, resulting on us working on the game each day for 12 or so hours, 48 hours in total. <br /> For this Gamejam, the theme was ‘Keep it alive’ – and that reminded most of our team of Tamagotchis! So that is where planning for this game began.<br /> </p>
+        <p>This game is an action-adventure game where you must travel around Bockhampton, a tiny abandoned village in Berkshire. <br /> Some mysterious person called Jillian is texting you, but how are you getting these messages when there is no signal in this village? <br /> </p>
+        <p> This GameJam is usually a GameJam which is held in person at the University of Portsmouth, and it runs for a whole week, but considering this jam was running during the Covid-19 pandemic we had to run this online. <br />The three themes were picked randomly from Wikipedia, the themes which were picked for this were: The 1999 Saskatchewan Scott Tournament of Hearts, Bockhampton Berkshire, and finally a Professor called Jillian Banfield.<br /> </p>
       </div>
     </div>
   </div>
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingTwo">
       <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsePlan" aria-expanded="false" aria-controls="collapsePlan">
-          Planning & Concepting
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseGrass" aria-expanded="false" aria-controls="collapseGrass">
+          Flowing 2D Grass
         </a>
       </h4>
     </div>
-    <div id="collapsePlan" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+    <div id="collapseGrass" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
       <div class="panel-body">
-        <p>Our planning was mostly done on a document we all had access to over a Skype call, writing down random words, and pictures, and a list of words, and once we done that, we had our idea. <br /> The idea of our game is similar to Tamagotchi and Sims, since you have to take care and keep alive both your Tamagotchi and Sim, and we already had an idea how to do some of the mechanics which would be required since we had made the Village Simulator game previously. <br /> For the main ‘thing’ we had to keep alive, we all began making suggestions on animals and creatures which we all really liked from other games, we had the Chocobo from Final Fantasy suggested, along with some Pokemon (most notably Snorlax!) and Valoo from Wind Waker. <br /></p>        
+        <p>On the first day, we had got given the themes, so we were all planning out what we could do with them, a ideas document was made where stuff was planned. <br /> I knew we were going for an abandoned village, so I began right away with making a grass texture for the ground, along with this I <i>attempted</i> to make a shader which would make the grass flow in the wind, but it never ended up working with 3D. <br /></p>        
         <div class = "row">
-          <div class="column-three">
-            <img src="/assets/img/posts/TheDragonsitter/fatchocobo.png">
+          <div class="column-two">
+            <img src="/assets/img/posts/SomewhereInBerkshire/grass.gif">
           </div>
-          <div class="column-three">
-            <img src="/assets/img/posts/TheDragonsitter/snorlax.png">
-          </div>
-          <div class="column-three">
-            <img src="/assets/img/posts/TheDragonsitter/valoo.png">
+          <div class="column-two">
+            <img src="/assets/img/posts/SomewhereInBerkshire/grass2.gif">
           </div>
         </div> 
-        <p><br />Taking these ideas, I began to sketch up some quick concept sketches of an animal which shared elements with all three of these characters, we decided that we were going to have the dragon grow over the course of the game, to show the player how well they’re taking care of their pet, and I really love the final outcome of the dragon! <br /></p>
-        <div class = "row">
-          <div class="column-one">
-            <img src="/assets/img/posts/TheDragonsitter/2.png">
-          </div>
-        </div>
-        <br />
+        <p><br />I tried finding a solution, but I couldn’t at the time since I felt like I was spending too much time on something small like this, but Joe ended up finding a solution and it ended up that the solution was that the image itself was a sprite, and we just needed to change the sprite to default and put it on 3D geometry. <br /></p>
+        <p>I then worked on grass variation, I wrote a script on each grass which would randomise the grasses scale and rotation, and the result of this meant that the grass looked less uniform and much more natural! <br /></p>
         <div class = "row">
           <div class="column-two">
-            <img src="/assets/img/posts/TheDragonsitter/4.png">
+            <img src="/assets/img/posts/SomewhereInBerkshire/uniformgrass.png">
           </div>      
           <div class="column-two">
-            <img src="/assets/img/posts/TheDragonsitter/3.png">
+            <img src="/assets/img/posts/SomewhereInBerkshire/notuniformgrass.png">
           </div>
         </div>  
       </div>
@@ -170,57 +160,150 @@ usemathjax: true
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseUi" aria-expanded="false" aria-controls="collapseUi">
-          User Interface
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsePhone" aria-expanded="false" aria-controls="collapsePhone">
+          Phone User Interface
         </a>
       </h4>
     </div>
-    <div id="collapseUi" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+    <div id="collapsePhone" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
       <div class="panel-body">
-        <p>For the UI in the game, we referenced code which was used for our Village Simulation game to have a radical crafting menu, since we felt like this looks the best, our crafting menu was certainly lacking though, due to the restrictions on time, we could only manage to get the fire and the 2 straw beds for the dragon into the menu, and the fire was the only thing with functionality. <br /> Our other UI interfaces involved the inventory at the bottom middle, the dragon’s needs at the bottom right and the date along with notifications on the top left, the notifications have similar functionality to the notifications in the Village Simulator game too. These UI elements were made with Scriptable Objects so it’s not hard to modify properties of the UI.<br /></p>
-        <div class="row">
-          <div class="column-one">
-            <img src="/assets/img/posts/TheDragonsitter/5.png">
-          </div>
-        </div>
-        <br />
-        <div class="row">
-          <div class="column-two">
-            <img src="/assets/img/posts/TheDragonsitter/6.png">
-          </div>
-          <div class="column-two">
-            <img src="/assets/img/posts/TheDragonsitter/7.png">
-          </div>
-        </div>       
+        <img src="/assets/img/posts/SomewhereInBerkshire/phone.gif" class="TextWrap-L"/> <img src="/assets/img/posts/SomewhereInBerkshire/ui1.png" class="TextWrap-R"/><p>For the UI in the game, we knew we needed a mobile phone, as  in this game, the main character is going to receive text messages. So I began to work on that.<br /> I started by doing research on Phone UI on google, nothing too in depth. I drew the outline of a phone, just a generic outline, since I didn’t want to put any branding on it, and then filled in the screen, and saved all the phone sections separately. <br /> Once that was done I began putting in all the Phone UI, making sure it all scaled correctly and it was all in-tact.</p>  
+        <img src="/assets/img/posts/SomewhereInBerkshire/phoneui.png" class="TextWrap-R"/> <p>I managed to get all of this working as it does by using a vertical layout group on the phone, and instantiating the text boxes inside of it each time I pressed a button to trigger the text being sent, obviously this would be different in the final project. I also used DOTween to work on the smooth UI transitions, since I feel like smooth UI makes a game feel much more polished.<br /> </p>
+        <img src="/assets/img/posts/SomewhereInBerkshire/phone2.gif" class="TextWrap-L"/><p>Eveything up until this point was done on the first day of the game jam, but on the second day of the game jam, I worked on was updating the Phone UI, since at this point, the messages that the player received showed up on the right hand side, and it should be on the left hand side if the player is getting the messages, I also added a name above each message, but it didn’t look right in the end so this was changed later on. <br />From the image on the right you can tell that all of the programming was done so the messages set in the message data is set onto the messages which get instantiated onto the phone.<br /></p>
+        <p>Later on during the second day of the jam, I worked on a quick mechanic for the phone, making to so when you get a text, the phone pops up for a few seconds and then slides back down again if a message doesn’t get received within the time value which I’ve set. <br /> I really like how the phone has ended up looking, since it really looks like a real phone. <br /></p>
       </div>
     </div>
   </div>
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingFour">
       <h4 class="panel-title">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseWeather" aria-expanded="false" aria-controls="collapseWeather">
-          Weather System With Particles
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseCollectible" aria-expanded="false" aria-controls="collapseCollectible">
+          Collectible Particle and User Interface
         </a>
       </h4>
     </div>
-    <div id="collapseWeather" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+    <div id="collapseCollectible" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
       <div class="panel-body">
-        <p>Particles were used a bit more in this game, for example, the dragon’s reaction particles and the weather particles, these were all pretty important to have in the game because the dragon’s reaction particles let the player know if their input has been put in or not, and the weather particles are there mostly for aesthetics, but they do serve a purpose, as if it’s snowing, the dragon gets colder faster, and if it’s raining the fire gets put out faster. – I personally wish we had more time to put in more particles, for example, a happy reaction particle for the dragon if their needs are high.<br /></p>  
+        <p>During the first day, I worked on a particle, for a collectable, this means that we could just have the sparking collectable particles in the world instead of the actual 3D objects, so it’s a mystery what the player picks up, a lot of games do this. <br />I made these particles by making a circle ring and a solid circle ring, along with some star parts, and then I manipulated their particle settings to stay in place, this is what it ended up looking like, and I’m quite proud with how it looks! <br /></p>  
         <div class="row">
-            <div class="column">
-                <img src="/assets/img/posts/TheDragonsitter/g1.gif">
-            </div>
-            <div class="column">
-                <img src="/assets/img/posts/TheDragonsitter/g2.gif">
-            </div>
-            <div class="column">
-                <img src="/assets/img/posts/TheDragonsitter/g3.gif">
-            </div>
-            <div class="column">
-                <img src="/assets/img/posts/TheDragonsitter/g4.gif">
+            <div class="column-one">
+                <img src="/assets/img/posts/SomewhereInBerkshire/collectible.gif">
             </div>
         </div>
+        <p><br />We decided that if we have collectables like this, we would need a collectable notification box, so that is what I began working on, it was pretty simple to make and I made use of DOTween to make the UI transition and fade in/out smoothly.<br /></p>
+        <div class="row">
+            <div class="column-one">
+                <img src="/assets/img/posts/SomewhereInBerkshire/collectible2.gif">
+            </div>
         </div>
+        <p><br />The next thing I had to work on once I finished that was the visuals for the collectables which are picked up, there currently isn’t loads of collectables to collect, but they can easily be added to the game, since the collectables are data objects. <br />The only thing I needed to do was link up the titles, descriptions and the item images to the collectable UI, and then I had to draw images for the 2 collectables which we had in the game at the moment, soil and bugs, I also decided to add a little polish and make a nice shine behind the object, this was heavily inspired by BOTW’s UI when you pick up an object, I then added some tweening and this is the result of the collectable UI, overall I really love this! <br /></p>
+        <div class="row">
+            <div class="column-one">
+                <img src="/assets/img/posts/SomewhereInBerkshire/collectible3.gif">
+            </div>
+        </div>
+        <p><br />To give the game more ‘life’ I decided to add a few more collectables to it instead of just having dirt and bugs, so I began to draw pictures for each collectable and add that data into the game <i>(I didn’t draw the rock image, I forgot to replace the placeholder image)</i> <br /></p>
+        <div class="row">
+            <div class="column-one">
+                <img src="/assets/img/posts/SomewhereInBerkshire/collectible.png">
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingFive">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseShaders" aria-expanded="false" aria-controls="collapseShaders">
+          Shader Graph Work
+        </a>
+      </h4>
+    </div>
+    <div id="collapseShaders" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+      <div class="panel-body">
+        <p>During the first day, I worked on a particle, for a collectable, this means that we could just have the sparking collectable particles in the world instead of the actual 3D objects, so it’s a mystery what the player picks up, a lot of games do this. <br />I made these particles by making a circle ring and a solid circle ring, along with some star parts, and then I manipulated their particle settings to stay in place, this is what it ended up looking like, and I’m quite proud with how it looks! <br /></p>  
+        <div class="row">
+            <div class="column-one">
+                <img src="/assets/img/posts/SomewhereInBerkshire/collectible.gif">
+            </div>
+        </div>
+        <p><br />We decided that if we have collectables like this, we would need a collectable notification box, so that is what I began working on, it was pretty simple to make and I made use of DOTween to make the UI transition and fade in/out smoothly.<br /></p>
+        <div class="row">
+            <div class="column-one">
+                <img src="/assets/img/posts/SomewhereInBerkshire/collectible2.gif">
+            </div>
+        </div>
+        <p><br />The next thing I had to work on once I finished that was the visuals for the collectables which are picked up, there currently isn’t loads of collectables to collect, but they can easily be added to the game, since the collectables are data objects. <br />The only thing I needed to do was link up the titles, descriptions and the item images to the collectable UI, and then I had to draw images for the 2 collectables which we had in the game at the moment, soil and bugs, I also decided to add a little polish and make a nice shine behind the object, this was heavily inspired by BOTW’s UI when you pick up an object, I then added some tweening and this is the result of the collectable UI, overall I really love this! <br /></p>
+        <div class="row">
+            <div class="column-one">
+                <img src="/assets/img/posts/SomewhereInBerkshire/collectible3.gif">
+            </div>
+        </div>
+        <p><br />To give the game more ‘life’ I decided to add a few more collectables to it instead of just having dirt and bugs, so I began to draw pictures for each collectable and add that data into the game <i>(I didn’t draw the rock image, I forgot to replace the placeholder image)</i> <br /></p>
+        <div class="row">
+            <div class="column-one">
+                <img src="/assets/img/posts/SomewhereInBerkshire/collectible.png">
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingSix">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEnvironment" aria-expanded="false" aria-controls="collapseEnvironment">
+          Environmental Work & Other Work
+        </a>
+      </h4>
+    </div>
+    <div id="collapseEnvironment" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+      <div class="panel-body">
+        <p>For the game, I decided maybe a new skybox was needed so it doesn't look so generic, I have never worked with skyboxes before, so I decided this was the best time to work on them! I watched a tutorial to give me an idea of how to make skyboxes in Unity, and then I went ahead and made my own, I really like how I drew the clouds.<br /></p>  
+        <div class="row">
+            <div class="column-one">
+                <img src="/assets/img/posts/SomewhereInBerkshire/sky.png">
+            </div>
+        </div>
+        <p><br />After this I began working on the lightning particle FX, since in the story plan for our game, we were planning to have the player struck with electric to gain electric powers, this was pretty simple to make, I began by making a sprite sheet of all of the lightning stages, I then made the particle work by making a texture sheet animation and set the grid to 4 x 1, and this is the result of my lightning:<br /></p>
+        <div class="row">
+            <div class="column-two">
+                <img src="/assets/img/posts/SomewhereInBerkshire/lightning.png">
+            </div>
+            <div class="column-two">
+                <img src="/assets/img/posts/SomewhereInBerkshire/lightning.gif">
+            </div>
+        </div>
+        <p><br />The next environmental work which needed to be done was the atmosphere and fog for the game to make it feel like the player was really in an abandoned English town on a spring day, the artist of the group put together a colour palette to give us a better understanding of the atmosphere we should go for in the game, and so I followed it and created 2 different atmospheres, and in the end, the morning atmosphere was chosen, the colour palette was made by our artist, Louise<br /></p>
+        <div class="row">
+            <div class="column-two">
+                <img src="/assets/img/posts/SomewhereInBerkshire/atmosphere.png">
+            </div>
+            <div class="column-two">
+                <img src="/assets/img/posts/SomewhereInBerkshire/palette.png">
+            </div>
+        </div>
+        <p><br />To go along with the mood of the game I added ambient music, we knew that Brockhampton and Berkshire were english towns, and we knew Brockhampton was an abandoned village, so we decided since these atmosphere felt spring-like we were going to go for a morning spring feeling, so I found a spring atmosphere on Gamesound.xyz, and cut it down slightly so it seamlessly looped, and I inserted it into the game, along with this, I found a guitar loop which was on looperman.com which was free to use and sounded very calming and perfect for the atmosphere of the game. <br />Once I done that I decided to add more to the atmosphere, this included small grass particles to the players feet when they move, and a grass footstep sound FX for feedback to the player, I felt like all of this is very important to add into the game to set the mood.<br /></p>
+        <p>To make the beginning cutscene make sense, I decided to make a model for the sign which points toward Bockhampton, this didn’t take me long to model and texture at all and it appears in the beginning cutscene of the game, the spawn area which the player starts in and the icon.<br /></p>
+        <p>I needed to work on an electricity shader effect which would be used when the player uses the lightning magic, I followed along with a video to help me create this effect, since I don’t fully understand shader graphs yet, but I learnt lots of stuff as I was following along with the video, I had also made the lightning icon which is on the lightning button, I just improved this from a placeholder one which we had there. And to give feedback to the player, I found some lightning sound FX which were used when the player was casting the lightning and when the player got shocked with the lightning <br /></p>
+        <div class="row">
+            <div class="column-two">
+                <img src="/assets/img/posts/SomewhereInBerkshire/berkshire.gif">
+            </div>
+            <div class="column-two">
+                <img src="/assets/img/posts/SomewhereInBerkshire/berkshire2.gif">
+            </div>
+        </div>
+        <p><br /> To give the game more of a story, I began to add in more conditions and text messages, since in the end, we didn’t really have much of a game, so the player only ended up getting text messages when they collected a collectable, I made some extra text boxes and conditions for the player to meet so the game felt like it had more content in it. <br />Another thing which I worked on was an end screen, which would show the player their statistics when they finish playing the game, that was pretty easy to get working, and it is a nice thing to add into the game so people can have a little competition with competing for who can finish the game the fastest, or who can attack the most enemies.</p>
+        <p> By this point it was getting closer to the final deadline, so I decided to work on the itch page to make it look really nice and to work on making a logo/icon for the game, I made these using Blender and Photoshop and I’m really happy with how both the itch page and logo turned out.<br /></p>
+        <div class="row">
+            <div class="column-two">
+                <img src="/assets/img/posts/SomewhereInBerkshire/itch.png">
+            </div>
+            <div class="column-two">
+                <img src="/assets/img/posts/SomewhereInBerkshire/itch2.png">
+            </div>
+        </div>
+        <p><br /> Overall, I’m very happy with making this game with my team, and I really like how it turned out, although it doesn’t have as much content as the other games we have made, we all entered this Game Jam wanting to improve our own skills, and we have all certainly done that! <br /></p>
       </div>
     </div>
   </div>
@@ -229,11 +312,26 @@ usemathjax: true
 
 <hr>
 
-<div class = "card">
-    <h3>Game Jam Participants</h3>
-    <p>I've talked about Team Horsehead a lot in this blog, and you can read more information about the team here:</p>
-    <a href="/blog/authors/teamhorsehead/" target="_blank" class="btn btn-dark btn-lg">Team Horsehead</a>
+<div class="row">
+    <div class="column-two">
+        <div class = "card">
+            <h3>Original Blog</h3>
+            <p>On this page, I broke down my blog into sections, and I've taken out information which isn't as important, you can read the full blog here:</p>
+            <a href="https://portfolioamyelliott.wordpress.com/portsmouth-uni-gamejam/" target="_blank" class="btn btn-dark btn-lg">Full Blog</a>
+        </div>
+    </div>
+    <div class="column-two">
+        <div class = "card">
+            <h3>Game Jam Participants</h3>
+            <p>I've talked about Team Horsehead a lot in this blog, and you can read more information about the team here:</p>
+            <a href="/blog/authors/teamhorsehead/" target="_blank" class="btn btn-dark btn-lg">Team Horsehead</a>
+        </div>
+    </div>
 </div>
+
+
+
+
 
 
 <hr>
