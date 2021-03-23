@@ -776,18 +776,18 @@ header {
 /* Homepage project cards*/
 
 #project-card{
-    margin: 0px !important;
+    margin: 10px !important;
 }
 #article{
     margin-left: 35px !important;
     margin-top: 20px !important;
 }
 .project_thumbnail{
-    text-align: center;
+    text-align: center !important;
 }
 .project-img{
-    width:150px;
-    height:100px;
+    height:100%;
+    text-align: center !important;
 }
 .project_details{
     padding: 10px;

@@ -4,7 +4,7 @@ title:  "Driven Round The Loop"
 summary: "Driven Round the Loop is a puzzle game designed around the theme 'Stuck in a loop'. <small>(Ludum Dare 47)</small>"
 author: amyelliott
 date: '2020-10-02'
-category: ['CSharp', 'Level-Design', 'Game-Jam', 'Unity']
+category: ['csharp', 'level-design', 'game-jam', 'unity']
 thumbnail: /assets/img/posts/DrivenRoundTheLoop/cover.png
 keywords: funny, gamejam, cars
 permalink: /blog/driven-round-the-loop/
@@ -128,7 +128,7 @@ usemathjax: true
 <div class = "card">
     <h3>Game Jam Participants</h3>
     <p>I've talked about Team Horsehead in this blog, and you can read more information about the team here:</p>
-    <a href="/blog/authors/teamhorsehead/" target="_blank" class="btn btn-dark btn-lg">Team Horsehead</a>
+    <a href="/blog/authors/teamhorsehead" target="_blank" class="btn btn-dark btn-lg">Team Horsehead</a>
 </div>
 
 

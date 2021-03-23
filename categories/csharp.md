@@ -7,7 +7,7 @@ permalink: /blog/categories/csharp/
 <h5> Other C# related work: </h5>
 
 <div class="card">
-	{% for post in site.categories.CSharp %}
+	{% for post in site.categories.csharp %}
 		<li class="category-posts"><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 	{% endfor %}
 </div>

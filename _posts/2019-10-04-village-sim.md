@@ -4,7 +4,7 @@ title:  "Village Simulator"
 summary: "Village Simulator is a.. well you guessed it, it's a village simulator! This was designed around the theme 'Start with nothing' <small>(Ludum Dare 45)</small>"
 author: amyelliott
 date: '2019-10-04'
-category: ['CSharp', 'Design', 'UI-UX', 'Game-Jam', 'Unity']
+category: ['csharp', 'design', 'ui-ux', 'game-jam', 'unity']
 thumbnail: /assets/img/posts/VillageSim/villagesimulator.png
 keywords: villagesim, village, sim, indie
 permalink: /blog/village-simulator/
@@ -224,7 +224,7 @@ usemathjax: true
     <h3>Game Jam Participants</h3>
     <p>This game was made by me and Joe Shanahan, we submitted it as a Team Horsehead game</p>
     <p>You can read more information about the team here:</p>
-    <a href="/blog/authors/teamhorsehead/" target="_blank" class="btn btn-dark btn-lg">Team Horsehead</a>
+    <a href="/blog/authors/teamhorsehead" target="_blank" class="btn btn-dark btn-lg">Team Horsehead</a>
 </div>
 
 

@@ -4,7 +4,7 @@ title:  "Welcome To Yelapa"
 summary: "Welcome To Yelapa is a Legend of Zelda inspired puzzle game, and it was made for the first gamejam I participated in! <small>(Portsmouth Uni Game Jam 2019)</small>"
 author: amyelliott
 date: '2019-06-21'
-category: ['CSharp', 'Design', 'Level-Design', 'UI-UX', 'Game-Jam', 'Unity']
+category: ['csharp', 'design', 'level-design', 'ui-ux', 'game-jam', 'unity']
 thumbnail: /assets/img/welcometoyelapa.PNG
 keywords: csharp, game design, design, level design, ui, ux, game jam
 permalink: /blog/welcome-to-yelapa/
@@ -221,7 +221,7 @@ usemathjax: true
 <div class = "card">
     <h3>Game Jam Participants</h3>
     <p>I've talked about Team Horsehead a lot in this blog, and you can read more information about the team here:</p>
-    <a href="/blog/authors/teamhorsehead/" target="_blank" class="btn btn-dark btn-lg">Team Horsehead</a>
+    <a href="/blog/authors/teamhorsehead" target="_blank" class="btn btn-dark btn-lg">Team Horsehead</a>
 </div>
 
 <hr>

@@ -4,7 +4,7 @@ title:  "The Dragonsitter"
 summary: "The Dragonsitter is a Tamagotchi inspired game, made for the 'Keep it alive' theme. <small>(Ludum Dare 46)</small>"
 author: amyelliott
 date: '2020-04-18'
-category: ['CSharp', 'Modelling', 'UI-UX', 'Game-Jam', 'Unity']
+category: ['csharp', 'modelling', 'ui-ux', 'game-jam', 'unity']
 thumbnail: /assets/img/posts/TheDragonsitter/1.png
 keywords: dragonsitter, gamejam, here
 permalink: /blog/the-dragonsitter/
@@ -236,7 +236,7 @@ usemathjax: true
 <div class = "card">
     <h3>Game Jam Participants</h3>
     <p>I've talked about Team Horsehead a lot in this blog, and you can read more information about the team here:</p>
-    <a href="/blog/authors/teamhorsehead/" target="_blank" class="btn btn-dark btn-lg">Team Horsehead</a>
+    <a href="/blog/authors/teamhorsehead" target="_blank" class="btn btn-dark btn-lg">Team Horsehead</a>
 </div>
 
 

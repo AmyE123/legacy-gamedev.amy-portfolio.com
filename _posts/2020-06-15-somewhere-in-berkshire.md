@@ -4,7 +4,7 @@ title:  "Somewhere In Berkshire"
 summary: "Somewhere in Berkshire is an exploration game designed to fit around a few randomly selected tricky themes. <small>(Portsmouth University Game Jam 2020)</small>"
 author: amyelliott
 date: '2020-06-15'
-category: ['CSharp', 'Modelling', 'UI-UX', 'Shaders', 'Game-Jam', 'Unity']
+category: ['csharp', 'modelling', 'ui-ux', 'shaders', 'game-jam', 'unity']
 thumbnail: /assets/img/posts/SomewhereInBerkshire/cover.png
 keywords: dragonsitter, gamejam, here
 permalink: /blog/somewhere-in-berkshire/
@@ -324,7 +324,7 @@ usemathjax: true
         <div class = "card">
             <h3>Game Jam Participants</h3>
             <p>I've talked about Team Horsehead a lot in this blog, and you can read more information about the team here:</p>
-            <a href="/blog/authors/teamhorsehead/" target="_blank" class="btn btn-dark btn-lg">Team Horsehead</a>
+            <a href="/blog/authors/teamhorsehead" target="_blank" class="btn btn-dark btn-lg">Team Horsehead</a>
         </div>
     </div>
 </div>
