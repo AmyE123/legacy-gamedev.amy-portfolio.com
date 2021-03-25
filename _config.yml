@@ -76,26 +76,41 @@ author_project_details:
                 project_title: Team Swap Heroes
                 project_description: A teamwork-based puzzle game made for Minijam 48.
                 project_url: https://horsehead.itch.io/team-swap-heroes
+                date: 24th February, 2020
+                engine: unity.png
+                language: cs.png
                 visibility: true
               - project_thumbnail: blocky.png
                 project_title: Blocky Road
                 project_description: A hyper-casual puzzle game, developed by myself in 15 hours.
                 project_url: https://amy-elliott.itch.io/blockyroads
+                date: 24th February, 2020
+                engine: unity.png
+                language: cs.png
                 visibility: true
               - project_thumbnail: BeatCity.png
                 project_title: Beat City
                 project_description: A music based platformer game, developed by myself to experiment with music manipulation.
                 project_url: https://amy-elliott.itch.io/beat-city
+                date: 24th February, 2020
+                engine: unity.png
+                language: cs.png
                 visibility: false
               - project_thumbnail: capsays.png
                 project_title: Captain Says
                 project_description: An educational action game, published to the Google Playstore.
                 project_url: https://amy-elliott.itch.io/captain-says
+                date: 24th February, 2020
+                engine: unity.png
+                language: cs.png
                 visibility: true
               - project_thumbnail: pop.png
                 project_title: Poppin Hoppin Unlockin
                 project_description: A fantasy-platformer game, developed for a University Gamejam by a group which I lead.
                 project_url: https://amy-elliott.itch.io/poppin-hoppin-unlockin
+                date: 24th February, 2020
+                engine: unity.png
+                language: cs.png
                 visibility: false
 
 
