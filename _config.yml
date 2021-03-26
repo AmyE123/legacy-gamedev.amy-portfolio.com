@@ -75,10 +75,25 @@ author_project_details:
               - project_thumbnail: tsh.png
                 project_title: Team Swap Heroes
                 project_description: A teamwork-based puzzle game made for Minijam 48.
-                project_url: https://horsehead.itch.io/team-swap-heroes
+                project_url: https://horsehead.itch.io/team-swap-heroes 
+                blog_url: https://amy-portfolio.com/team-swap-heroes
                 date: 24th February, 2020
                 engine: unity.png
                 language: cs.png
+                published: itch.png
+                role: Programmer & Level Design
+                bp1: <ul> 
+                        <li>One main thing which I have done</li>
+                            <ul>
+                                <li>Describe the main thing which I have done</li>
+                                <li>Describe the main thing which I have done</li>
+                            </ul>
+                        <li>Second main thing which I have done</li>
+                            <ul>
+                                <li>Describe the main thing which I have done</li>
+                                <li>Describe the main thing which I have done</li>
+                            </ul>
+                     </ul>
                 visibility: true
               - project_thumbnail: blocky.png
                 project_title: Blocky Road
