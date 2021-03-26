@@ -106,6 +106,7 @@ html[data-theme="light"] {
 
 ol, ul {
     margin-left: 30px !important;
+    margin-top: 10px;
 }
 
 /* Progress bar */
@@ -194,6 +195,14 @@ a {
     //color: var(--link-color) !important;
     color: orangered !important;
     padding: 15px;
+}
+
+li {
+    margin-top: 15px;
+}
+
+li-n {
+
 }
 
 .row {
