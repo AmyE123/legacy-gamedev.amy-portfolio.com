@@ -44,12 +44,14 @@ author_work_experiences:
             - company_name: Freelance Artist
               company_logo: commission.png
               company_url: https://art.amy-portfolio.com
+              work_duration: Aug 2020 - Present
               designation: Commission Work
               description: Worked with clients to produce character designs and illustrative pieces.
               visibility: true
             - company_name: CeX Ltd.
               company_logo: cex.png
               company_url: https://uk.webuy.com/
+              work_duration: Jun 2018 - Present
               designation: Retail Sales Assistant
               description: Served customers and helped them pick video games and electronics, I've also worked on testing and buying electronics.
               visibility: true
@@ -59,12 +61,14 @@ author_education_details:
               - college_logo: uop.png
                 college_name: University of Portsmouth
                 college_url: https://www.port.ac.uk/
+                study_duration: 2020 - Present
                 college_degree: Computer Games Technology
                 description: Bachelor of Science
                 visibility: true
               - college_logo: nbc.png
                 college_name: Northbrook Metropolitan College
                 college_url: https://www.gbmc.ac.uk/
+                study_duration: 2018 - 2019
                 college_degree: Games Development
                 description: UAL Level 3 Diploma in Creative Media
                 visibility: true
