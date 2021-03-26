@@ -11,8 +11,10 @@ urls:
       url: /
     - text: About
       url: /about
-    - text: Game Development
+    - text: Blogs
       url: /blog
+    - text: Game Library
+      url: /Game-Development
     - text: Contact
       url : /contact
 

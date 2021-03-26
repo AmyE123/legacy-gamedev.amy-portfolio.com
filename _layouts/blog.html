@@ -16,21 +16,22 @@ layout: default
                               <h6 class="card-subtitle mb-2 text-muted">{{ post.date | date: "%b %-d, %Y" }}</h6>
                               <p class="card-text">{{ post.summary }} </p>
 
-                              <div class="post-categories">
+                              <div class="post-categories" style="vertical-align:bottom">
                                   {% if post %} {% assign categories = post.categories %} {% else %} {%
-                                  assign categories = page.categories %} {% endif %} Category : {% for
+                                  assign categories = page.categories %} {% endif %} {% for
                                   category in categories %}
-                                  <a href="{{site.baseurl}}/blog/categories/{{category|slugize}}">{{category}}</a>
+                                  <a href="{{site.baseurl}}/blog/categories/{{category|slugize}}" class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline">{{category}}</a>
                                   {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
                               </div>
 
-                              <hr>
-
-                              <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}" class="btn btn-dark btn-lg">Read</a>
-
-                              <span class="disqus-comment-count" data-disqus-identifier="{{ post.url }}"></span>
+                              <!--<span class="disqus-comment-count" data-disqus-identifier="{{ post.url }}"></span>-->
 
                           </div>
+
+
+                              <hr>
+
+                              <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}" class="btn btn-dark btn-lg" style="vertical-align:bottom">Read</a>
                       </div>
                       {% endfor %}
                   </div>

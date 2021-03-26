@@ -202,7 +202,8 @@ li {
 }
 
 li-n {
-
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .row {
@@ -403,6 +404,13 @@ header {
     background-color: var(--button-background-color) !important;
     color: var(--bold-color) !important;
     width: 100%;
+    box-sizing: border-box;
+}
+
+.btn-col {
+    background-color: #f8430aa1 !important;
+    color: white !important;
+    width: 33.3%;
     box-sizing: border-box;
 }
 
@@ -1223,9 +1231,9 @@ footer {
 
  /* Github Follow Button */
 .widget-lg .btn, .widget-lg .social-count {
-    height: 35px !important;
+    height: 35px;
     padding: 10px 30px 1px !important;
-    font-size: 15px !important;
+    font-size: 15px;
     line-height: 20px !important;
 }
 
