@@ -348,7 +348,8 @@ header {
 }
 .card {
     margin: 20px !important;
-    padding: 20px !important;
+    //padding: 20px !important;
+    padding: 20px;
     background-color: var(--card-background-color) !important;
 }
 
@@ -408,7 +409,7 @@ header {
 }
 
 .btn-col {
-    background-color: #f8430aa1 !important;
+    background-color: #f8430aa1;
     color: white !important;
     width: 33.3%;
     box-sizing: border-box;
