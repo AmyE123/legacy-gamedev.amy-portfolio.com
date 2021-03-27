@@ -14,7 +14,7 @@ urls:
     - text: Blogs
       url: /blog
     - text: Game Library
-      url: /Game-Library
+      url: /game-library
     - text: Contact
       url : /contact
 
@@ -71,7 +71,7 @@ author_education_details:
 author_project_details:
               - project_thumbnail: blocky.png
                 project_title: Blocky Road
-                project_description: A hyper-casual puzzle game, developed by myself in 15 hours.
+                project_description: A hyper-casual puzzle game, made in 15 hours.
                 project_url: https://amy-elliott.itch.io/blockyroads
                 blog_url: https://amy-portfolio.com/blocky-road
                 date: 28th October, 2020
