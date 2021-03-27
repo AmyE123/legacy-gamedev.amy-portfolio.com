@@ -16,11 +16,7 @@
             <ul class="navbar-nav">
               {% for i in site.urls %}
               <li-n class="nav-item">
-                <a
-                  class="nav-link"
-                  href="{{ site.url}}{{site.baseurl}}{{ i.url }}"
-                  >{{ i.text }}</a
-                >
+                <a class="nav-link" href="{{ site.url}}{{site.baseurl}}{{ i.url }}" style="min-width: max-content" >{{ i.text }}</a>
               </li-n>
               {% endfor %}
             </ul>
