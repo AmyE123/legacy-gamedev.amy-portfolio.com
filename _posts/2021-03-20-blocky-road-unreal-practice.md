@@ -5,7 +5,7 @@ summary: "I decided to tackle Unreal Engine C++ straight on to remake one of my 
 author: amyelliott
 date: '2021-03-20'
 category: ['cplusplus', 'game-jam', 'unreal-engine']
-thumbnail: /assets/img/wip.png
+thumbnail: /assets/img/posts/wip.png
 keywords: cplusplus, gamejam, unrealengine, ue
 permalink: /blog/blocky-road-ue-practice/
 usemathjax: true

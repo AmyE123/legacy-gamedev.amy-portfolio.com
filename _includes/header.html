@@ -13,28 +13,36 @@
           </button>
           <a class="navbar-brand" href="{{site.url}}{{site.baseurl}}">{{site.title}}</a>
           <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-              {% for i in site.urls %}
-              <li-n class="nav-item">
-                <a class="nav-link" href="{{ site.url}}{{site.baseurl}}{{ i.url }}" style="min-width: max-content" >{{ i.text }}</a>
-              </li-n>
-              {% endfor %}
-            </ul>
+              <ul class="navbar-nav">
+                  {% for i in site.urls %}
+                  <li-n class="nav-item">
+                      <a class="nav-link" href="{{ site.url}}{{site.baseurl}}{{ i.url }}" style="min-width: max-content">{{ i.text }}</a>
+                  </li-n>
+                  {% endfor %}
+                  &nbsp; &nbsp; 
+                  <li-n class="nav-item" style="background-color: #6969692b; border-radius: 30px;">
+                      <a class="nav-link" href="" style="min-width: max-content;">Blogging Website</a>
+                  </li-n>
+                  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                  <li-n class="nav-item" style="background-color: #6969692b; border-radius: 30px;">
+                      <a class="nav-link" href="" style="min-width: max-content;">Art Website</a>
+                  </li-n>
+              </ul>
           </div>
 
           <!--href="https://blog.amy-portfolio.com"-->
-          <a class="blog-site">
+          <!--<a class="blog-site">
             <div id="Blogging Website">
-                <a class="btn btn-lg btn-dark" target="_blank"> Blogging Website (WIP)</a>
+                <a class="btn btn-lg btn-dark" target="_blank" style="font-size: medium; padding: .5rem .5rem; display:inline;"> Blogging Website (WIP)</a>
             </div>
-          </a>
+          </a>-->
 
           <!--href="https://art.amy-portfolio.com"-->
-          <a class="art-site">
+          <!--<a class="art-site">
               <div id="Art Website">
-                  <a class="btn btn-lg btn-dark" target="_blank"> Art Website (WIP)</a>
+                  <a class="btn btn-lg btn-dark" target="_blank" style="font-size: medium; padding: .5rem .5rem; display:inline;"> Art Website (WIP)</a>
               </div>
-          </a>
+          </a>-->
 
           <ul class="nav justify-content-end">
             <li class="nav-item">
