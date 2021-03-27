@@ -14,7 +14,7 @@ urls:
     - text: Blogs
       url: /blog
     - text: Game Library
-      url: /Game-Development
+      url: /Game-Library
     - text: Contact
       url : /contact
 
