@@ -221,30 +221,34 @@ usemathjax: true
     </div>
     <div id="collapseShaders" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
       <div class="panel-body">
-        <p>During the first day, I worked on a particle, for a collectable, this means that we could just have the sparking collectable particles in the world instead of the actual 3D objects, so it’s a mystery what the player picks up, a lot of games do this. <br />I made these particles by making a circle ring and a solid circle ring, along with some star parts, and then I manipulated their particle settings to stay in place, this is what it ended up looking like, and I’m quite proud with how it looks! <br /></p>  
+        <p>I began my shader work by making basic flowing water. I duplicated the grass shader and began building the water shader off of that, now I’m pretty new to shader graphs and I came by a problem where it just wasn’t working properly for a cube, since the water is a cube, and the faces were just clipping when the water was waving, so I looked through the shader graph to see what the problem was, and it turns out that I just needed to change a few world options to object since the shader was moving the square relative to word space instead of the object itself, this is the result of the water shader, and I have to say, I’m very proud of how it turned out!<br /></p>  
         <div class="row">
             <div class="column-one">
-                <img src="/assets/img/posts/SomewhereInBerkshire/collectible.gif">
+                <img src="/assets/img/posts/SomewhereInBerkshire/watershader.gif">
             </div>
         </div>
-        <p><br />We decided that if we have collectables like this, we would need a collectable notification box, so that is what I began working on, it was pretty simple to make and I made use of DOTween to make the UI transition and fade in/out smoothly.<br /></p>
+        <p><br />The next shaders I worked on were the fireball shader and a fireball actor, this wasn’t too hard, since to make the fireball shader, all I had to do was duplicate the water shader and adjusted it accordingly, with making the actor, I simply made the empty actor script and added into it what I wanted the fireball to do, which is move in a direction with every move I do, I also done the same to make a ghost shader, I just needed to make it a light blue colour, and I also made the empty ghost actor script so stuff can be added to it later on.<br /></p>
         <div class="row">
             <div class="column-one">
-                <img src="/assets/img/posts/SomewhereInBerkshire/collectible2.gif">
+                <img src="/assets/img/posts/SomewhereInBerkshire/fireshader.gif">
             </div>
         </div>
-        <p><br />The next thing I had to work on once I finished that was the visuals for the collectables which are picked up, there currently isn’t loads of collectables to collect, but they can easily be added to the game, since the collectables are data objects. <br />The only thing I needed to do was link up the titles, descriptions and the item images to the collectable UI, and then I had to draw images for the 2 collectables which we had in the game at the moment, soil and bugs, I also decided to add a little polish and make a nice shine behind the object, this was heavily inspired by BOTW’s UI when you pick up an object, I then added some tweening and this is the result of the collectable UI, overall I really love this! <br /></p>
+        <p><br />Another shader I worked on was the 'next movement' tile shader, this is scrolling stripes to show more clearly that the tile which has stripes on is different from the rest since it’s the one that the enemy would land on. <br /></p>
         <div class="row">
             <div class="column-one">
-                <img src="/assets/img/posts/SomewhereInBerkshire/collectible3.gif">
+                <img src="/assets/img/posts/SomewhereInBerkshire/stripes.gif">
             </div>
         </div>
-        <p><br />To give the game more ‘life’ I decided to add a few more collectables to it instead of just having dirt and bugs, so I began to draw pictures for each collectable and add that data into the game <i>(I didn’t draw the rock image, I forgot to replace the placeholder image)</i> <br /></p>
+        <p><br />I needed to work on an electricity shader effect which would be used when the player uses the lightning magic, I followed along with a video to help me create this effect, since I don’t fully understand shader graphs yet, but I learnt lots of stuff as I was following along with the video, I had also made the lightning icon which is on the lightning button, I just improved this from a placeholder one which we had there. And to give feedback to the player, I found some lightning sound FX which were used when the player was casting the lightning and when the player got shocked with the lightning <br /></p>
         <div class="row">
-            <div class="column-one">
-                <img src="/assets/img/posts/SomewhereInBerkshire/collectible.png">
+            <div class="column-two">
+                <img src="/assets/img/posts/SomewhereInBerkshire/berkshire.gif">
+            </div>
+            <div class="column-two">
+                <img src="/assets/img/posts/SomewhereInBerkshire/berkshire2.gif">
             </div>
         </div>
+        <br />
       </div>
     </div>
   </div>
@@ -284,16 +288,8 @@ usemathjax: true
         </div>
         <p><br />To go along with the mood of the game I added ambient music, we knew that Brockhampton and Berkshire were english towns, and we knew Brockhampton was an abandoned village, so we decided since these atmosphere felt spring-like we were going to go for a morning spring feeling, so I found a spring atmosphere on Gamesound.xyz, and cut it down slightly so it seamlessly looped, and I inserted it into the game, along with this, I found a guitar loop which was on looperman.com which was free to use and sounded very calming and perfect for the atmosphere of the game. <br />Once I done that I decided to add more to the atmosphere, this included small grass particles to the players feet when they move, and a grass footstep sound FX for feedback to the player, I felt like all of this is very important to add into the game to set the mood.<br /></p>
         <p>To make the beginning cutscene make sense, I decided to make a model for the sign which points toward Bockhampton, this didn’t take me long to model and texture at all and it appears in the beginning cutscene of the game, the spawn area which the player starts in and the icon.<br /></p>
-        <p>I needed to work on an electricity shader effect which would be used when the player uses the lightning magic, I followed along with a video to help me create this effect, since I don’t fully understand shader graphs yet, but I learnt lots of stuff as I was following along with the video, I had also made the lightning icon which is on the lightning button, I just improved this from a placeholder one which we had there. And to give feedback to the player, I found some lightning sound FX which were used when the player was casting the lightning and when the player got shocked with the lightning <br /></p>
-        <div class="row">
-            <div class="column-two">
-                <img src="/assets/img/posts/SomewhereInBerkshire/berkshire.gif">
-            </div>
-            <div class="column-two">
-                <img src="/assets/img/posts/SomewhereInBerkshire/berkshire2.gif">
-            </div>
-        </div>
         <p><br /> To give the game more of a story, I began to add in more conditions and text messages, since in the end, we didn’t really have much of a game, so the player only ended up getting text messages when they collected a collectable, I made some extra text boxes and conditions for the player to meet so the game felt like it had more content in it. <br />Another thing which I worked on was an end screen, which would show the player their statistics when they finish playing the game, that was pretty easy to get working, and it is a nice thing to add into the game so people can have a little competition with competing for who can finish the game the fastest, or who can attack the most enemies.</p>
+        <p><br />I also worked on random enemy movement as well, making it so the next direction which the enemy decides to move in is random, and it’s not just going in circles like it used to, this adds a challenge to the game (and makes it 1000x harder to attack enemies) and I was really proud with the result. I also worked on the intro cutscene for the game, I didn’t use the Unity Timeline, or the Animation tool, I made it so the cutscene was hard-coded into the beginning of the game, and I simply made it by lerping between camera transforms, it was a lot easier to make than I thought it would be<br /></p>
         <p> By this point it was getting closer to the final deadline, so I decided to work on the itch page to make it look really nice and to work on making a logo/icon for the game, I made these using Blender and Photoshop and I’m really happy with how both the itch page and logo turned out.<br /></p>
         <div class="row">
             <div class="column-two">
