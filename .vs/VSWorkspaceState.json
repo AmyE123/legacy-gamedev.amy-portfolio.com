@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets"
+    "\\assets",
+    "\\_authors"
   ],
-  "SelectedNode": "\\_sass\\devlopr.scss",
+  "SelectedNode": "\\_authors\\submariner.md",
   "PreviewInSolutionExplorer": false
 }

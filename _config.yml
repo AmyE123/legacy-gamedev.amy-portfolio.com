@@ -90,6 +90,27 @@ author_project_details:
                         <li>Inspired by mobile games like Crossy Road and Monument Valley</li>
                      </ul>
                 visibility: true
+              - project_thumbnail: wip.png
+                project_title: Planesman Trainer
+                project_description: A submarine simulator game which was made for the Royal Navy's recruitment events
+                project_url: 
+                blog_url: 
+                date: 21st April, 2021
+                engine: unity.png
+                language: cs.png
+                published: rn.png
+                role: Programmer
+                team: 
+                dev: team Submariner
+                bp: <ul> 
+                        <li>Programmed a majority of the main game systems</li-ph>
+                            <ul>
+                                <li>Worked on the periscope camera and the implementation</li>
+                                <li>Helped my teammates learn how to use Unity and C# so no one was left hanging without a task</li>
+                            </ul>
+                        <li>Worked on finding assets and royalty-free materials to use for the environment</li>
+                     </ul>
+                visibility: true
               - project_thumbnail: tsh.png
                 project_title: Team Swap Heroes
                 project_description: A teamwork-based puzzle game made for Minijam 48.
