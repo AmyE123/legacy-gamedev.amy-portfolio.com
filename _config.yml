@@ -17,6 +17,8 @@ urls:
       url: /game-library
     - text: Contact
       url : /contact
+    - text: CV
+      url : /cv
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
@@ -90,18 +92,18 @@ author_project_details:
                         <li>Inspired by mobile games like Crossy Road and Monument Valley</li>
                      </ul>
                 visibility: true
-              - project_thumbnail: wip.png
+              - project_thumbnail: subsim.png
                 project_title: Planesman Trainer
                 project_description: A submarine simulator game which was made for the Royal Navy's recruitment events
-                project_url: 
-                blog_url: 
-                date: 21st April, 2021
+                project_url: https://www.royalnavy.mod.uk/careers/roles-and-specialisations/services/submarine-service
+                blog_url: /wip
+                date: 9th April, 2021
                 engine: unity.png
                 language: cs.png
                 published: rn.png
-                role: Programmer
-                team: 
-                dev: team Submariner
+                role: Lead Programmer
+                team: http://gamedev.amy-portfolio.com/blog/authors/submariner#/
+                dev: Team Submariner
                 bp: <ul> 
                         <li>Programmed a majority of the main game systems</li-ph>
                             <ul>
