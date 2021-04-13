@@ -45,7 +45,7 @@ usemathjax: true
 <!--- -------------------------------------------------------------------- -->
 <div class = "card">
     <h2 style="text-align: center;">C++ Study</h2>
-    <p style="text-align: center;">I needed to understand more about how Linked Lists, Dictionaries and the Profiler work to get a better understanding of the different data structures and debugging tools</p>
+    <p style="text-align: center;">I needed to understand more about how Linked Lists, Dictionaries work to get a better understanding of the different data structures</p>
 </div>
 
 <hr>
