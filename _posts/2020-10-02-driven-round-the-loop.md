@@ -4,7 +4,7 @@ title:  "Driven Round The Loop"
 summary: "Driven Round the Loop is a puzzle game designed around the theme 'Stuck in a loop'. <small>(Ludum Dare 47)</small>"
 author: amyelliott
 date: '2020-10-02'
-category: ['csharp', 'level-design', 'game-jam', 'unity']
+category: ['game-jam', 'csharp', 'level-design', 'unity']
 thumbnail: /assets/img/posts/DrivenRoundTheLoop/cover.png
 keywords: funny, gamejam, cars
 permalink: /blog/driven-round-the-loop/

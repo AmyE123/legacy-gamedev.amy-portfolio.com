@@ -36,11 +36,18 @@ typewrite-text: I'm a Gameplay Programmer!
 
 # Experiences
 author_work_experiences:
-            - company_name: Freelance Artist
+            - company_name: Submarine Simulator for The Royal Navy
+              company_logo: rn.png
+              company_url: https://www.royalnavy.mod.uk/careers/roles-and-specialisations/services/submarine-service
+              work_duration: Dec 2020 - Apr 2021
+              designation: Lead Programmer / Producer
+              description: Worked in collaboration with The Royal Navy to produce a submarine simulator for recruitment events
+              visibility: true
+            - company_name: Commission Work
               company_logo: commission.png
               company_url: https://art.amy-portfolio.com
               work_duration: Aug 2020 - Present
-              designation: Commission Work
+              designation:  Freelance Artist
               description: Worked with clients to produce character designs and illustrative pieces.
               visibility: true
             - company_name: CeX Ltd.
@@ -159,6 +166,109 @@ author_project_details:
                         <li>Programmed and designed the player movement for both webGL & mobile versions</li>
                         <li>Programmed the enemy system</li>
                         <li>Programmed the scoring and highscore system</li>
+                        <li>Designed and implemented the UI</li>                        
+                            <ul>
+                                <li>Researched and implemented music feedback in the background and UI</li>
+                            </ul>
+                     </ul>
+                visibility: false
+              - project_thumbnail: pop.png
+                project_title: Poppin Hoppin Unlockin
+                project_description: A fantasy-platformer game, developed for a University Gamejam by a group which I lead.
+                project_url: https://amy-elliott.itch.io/poppin-hoppin-unlockin
+                date: 24th February, 2020
+                engine: unity.png
+                language: cs.png
+                visibility: false
+
+# Projects FOR HOMEPAGE
+author_project_detailsHP:
+              - project_thumbnail: blocky.png
+                project_title: Blocky Road
+                project_description: A hyper-casual puzzle game, made in 15 hours.
+                project_url: https://amy-elliott.itch.io/blockyroads
+                blog_url: https://amy-portfolio.com/blocky-road
+                date: 28th October, 2020
+                engine: unity.png
+                language: cs.png
+                published: itch.png
+                role: Solo Project
+                team: http://gamedev.amy-portfolio.com/blog/authors/amyelliott
+                dev: Myself!
+                bp: <ul> 
+                        <li>Programmed a two-way puzzle system:</li-ph>
+                            <ul>
+                                <li>Made sure there were different challenges on each side.</li>
+                                <li>The puzzles can't be solved without the help from the opposite side.</li>
+                            </ul>
+                        <li>Inspired by mobile games like Crossy Road and Monument Valley</li>
+                     </ul>
+                visibility: true
+              - project_thumbnail: subsim.png
+                project_title: Planesman Trainer
+                project_description: A submarine simulator developed for the Royal Navy.
+                project_url: https://www.royalnavy.mod.uk/careers/roles-and-specialisations/services/submarine-service
+                blog_url: /wip
+                date: 9th April, 2021
+                engine: unity.png
+                language: cs.png
+                published: rn.png
+                role: Lead Programmer
+                team: http://gamedev.amy-portfolio.com/blog/authors/submariner#/
+                dev: Team Submariner
+                bp: <ul> 
+                        <li>Programmed a majority of the main game systems</li-ph>
+                            <ul>
+                                <li>Worked on the periscope camera and the implementation</li>
+                                <li>Helped my teammates learn how to use Unity and C# so no one was left hanging without a task</li>
+                            </ul>
+                        <li>Worked on finding assets and royalty-free materials to use</li>
+                     </ul>
+                visibility: true
+              - project_thumbnail: tsh.png
+                project_title: Team Swap Heroes
+                project_description: A teamwork-based puzzle game made for Minijam 48.
+                project_url: https://horsehead.itch.io/team-swap-heroes 
+                blog_url: https://amy-portfolio.com/team-swap-heroes
+                date: 24th February, 2020
+                engine: unity.png
+                language: cs.png
+                published: itch.png
+                role: Programmer & Designer
+                team: http://gamedev.amy-portfolio.com/blog/authors/teamhorsehead#/
+                dev: Team Horsehead (Me and Joe)
+                bp: <ul> 
+                        <li>In charge of the main concepting and level designs:</li>
+                            <ul>
+                                <li>Worked on design, planning, implementing and testing a vast majority of the levels</li>
+                                <li>Made the concept designs for the main character models, enemies and environment.</li>
+                            </ul>
+                        <li>Programmed the obstacle mechanics for each level and helped out with the player mechanics</li>
+                     </ul>
+                visibility: true
+              - project_thumbnail: BeatCity.png
+                project_title: Beat City
+                project_description: A music based platformer game, developed by myself to experiment with music manipulation.
+                project_url: https://amy-elliott.itch.io/beat-city
+                date: 24th February, 2020
+                engine: unity.png
+                language: cs.png
+                visibility: false
+              - project_thumbnail: capsays.png
+                project_title: Captain Says
+                project_description: An educational action game on the Google Playstore.
+                project_url: https://play.google.com/store/apps/details?id=com.AmyE.CaptainSays&hl=en_GB&gl=US
+                blog_url: https://amy-portfolio.com/captain-says
+                date: 31st August, 2019
+                engine: unity.png
+                language: cs.png
+                published: gplaystore.png
+                role: Programmer & Designer
+                team: http://gamedev.amy-portfolio.com/blog/authors/teamhorsehead#/
+                dev: Team Horsehead (Me and Joe)
+                bp: <ul>                        
+                        <li>Programmed and designed the player movement for both webGL & mobile versions</li>
+                        <li>Programmed the enemy system, scoring and highscore system</li>
                         <li>Designed and implemented the UI</li>                        
                             <ul>
                                 <li>Researched and implemented music feedback in the background and UI</li>

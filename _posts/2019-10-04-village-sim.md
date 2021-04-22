@@ -4,7 +4,7 @@ title:  "Village Simulator"
 summary: "Village Simulator is a.. well you guessed it, it's a village simulator! This was designed around the theme 'Start with nothing' <small>(Ludum Dare 45)</small>"
 author: amyelliott
 date: '2019-10-04'
-category: ['csharp', 'design', 'ui-ux', 'game-jam', 'unity']
+category: ['game-jam', 'csharp', 'design', 'ui-ux', 'unity']
 thumbnail: /assets/img/posts/VillageSim/villagesimulator.png
 keywords: villagesim, village, sim, indie
 permalink: /blog/village-simulator/

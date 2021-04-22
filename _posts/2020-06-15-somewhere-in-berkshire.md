@@ -4,7 +4,7 @@ title:  "Somewhere In Berkshire"
 summary: "Somewhere in Berkshire is an exploration game designed to fit around a few randomly selected tricky themes. <small>(Portsmouth University Game Jam 2020)</small>"
 author: amyelliott
 date: '2020-06-15'
-category: ['csharp', 'modelling', 'ui-ux', 'shaders', 'game-jam', 'unity']
+category: ['game-jam', 'csharp', 'modelling', 'ui-ux', 'shaders', 'unity']
 thumbnail: /assets/img/posts/SomewhereInBerkshire/cover.png
 keywords: dragonsitter, gamejam, here
 permalink: /blog/somewhere-in-berkshire/

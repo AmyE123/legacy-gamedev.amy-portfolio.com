@@ -35,22 +35,22 @@ layout: default
     <p class="profile-links">
         {% if site.twitter_username %}
         <a class="social-link"
-           href="http://twitter.com/{{ site.twitter_username }}">
+           href="http://twitter.com/{{ site.twitter_username }}" target="_blank">
             <i class="fab fa-twitter"></i>
         </a>
         {% endif %} {% if site.instagram_username %}
         <a class="social-link"
-           href="http://instagram.com/{{ site.instagram_username }}">
+           href="http://instagram.com/{{ site.instagram_username }}" target="_blank">
             <i class="fab fa-instagram"></i>
         </a>
         {% endif %} {% if site.github_username %}
         <a class="social-link"
-           href="http://github.com/{{ site.github_username }}">
+           href="http://github.com/{{ site.github_username }}" target="_blank">
             <i class="fab fa-github"></i>
         </a>
         {% endif %} {% if site.linkedin_username %}
         <a class="social-link"
-           href="http://linkedin.com/in/{{ site.linkedin_username }}">
+           href="http://linkedin.com/in/{{ site.linkedin_username }}" target="_blank">
             <i class="fab fa-linkedin-in"></i>
         </a>
         {% endif %}
@@ -60,10 +60,10 @@ layout: default
     <!--<h3 style="padding: 20px">Project Highlights</h3>-->
 
 <div class="row" style="padding: 10px">
-    {% for project in site.author_project_details %} {% if project.visibility
+    {% for project in site.author_project_detailsHP %} {% if project.visibility
     == true %}
     <div class="column-two" style="width: 50%; flex: inherit">
-        <div class="card" style="padding: 30px">
+        <div class="card" style="padding: 30px; justify-content: center; height: 90%">
             <div class="row">
                 <div class="column-two" style="max-width: 90%">
                     <h4 class="experience-title" style="text-align:left;">{{ project.project_title }}</h4>
