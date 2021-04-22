@@ -1,6 +1,8 @@
 ﻿---
 layout: post
 title:  "Welcome To Yelapa"
+type: "Game Jam"
+color: "background-color: seagreen"
 summary: "Welcome To Yelapa is a Legend of Zelda inspired puzzle game, and it was made for the first gamejam I participated in! <small>(Portsmouth Uni Game Jam 2019)</small>"
 author: amyelliott
 date: '2019-06-21'

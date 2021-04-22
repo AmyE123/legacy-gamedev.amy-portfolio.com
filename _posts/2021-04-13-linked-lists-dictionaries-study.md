@@ -1,6 +1,8 @@
 ﻿---
 layout: post
 title:  "Linked Lists & Dictionaries C++ Studies"
+type: "Self-Directed Study"
+color: "background-color: darkslateblue"
 summary: "I needed to understand more about how Linked Lists, Dictionaries work to get a better understanding of the different data structures <small>(Self-Directed Study)</small>"
 author: amyelliott
 date: '2021-04-13'

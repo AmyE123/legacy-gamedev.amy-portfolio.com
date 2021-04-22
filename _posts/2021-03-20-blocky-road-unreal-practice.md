@@ -1,6 +1,8 @@
 ﻿---
 layout: post
 title:  "Blocky Road in Unreal Engine C++ Practice"
+type: "Self-Directed Study"
+color: "background-color: darkslateblue"
 summary: "I decided to tackle Unreal Engine C++ straight on to remake one of my older game jam games <small>(Self-Directed Study)</small>"
 author: amyelliott
 date: '2021-03-20'
