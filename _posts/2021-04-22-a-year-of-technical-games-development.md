@@ -24,60 +24,17 @@ usemathjax: true
       });
 </script>
 
-<img src="/assets/img/posts/YearTDEMO/cover.png" style="width: 100%">
+<img src="/assets/img/posts/YearTDEMO/cover2.png" style="width: 100%; border-radius: 50px 50px">
 
-<hr>
+
 
 <!--- -------------------------------------------------------------------- -->
 <!--- This is for the main description of the game, this is very important -->
 <!--- -------------------------------------------------------------------- -->
-<div class = "card">
-    <h2 style="text-align: center;">About Blocky Road (Unreal Engine C++ Practice)</h2>
-    <p style="text-align: center;">I knew I had to get more comfortable with using Unreal Engine's C++ at some point, as of now I don't really have too much free time to learn this, besides weekends, so I decided to use my weekend to reproduce Blocky Road, one of my solo game jam games which I made in Unity. Making this game using Unreal's Blueprints would be no problem, which is why I decided to make it using C++ ONLY<br /> My reason for doing this is, I can't get comfortable with one engine and stick with it for the rest of my life, there are many studios which use different engines, and their own in-house engines, and refusing to learn another engine will just mean I lock myself away from those opportunities, at some point, these engines will die out and other engines will replace them, so I need to learn how to adapt and learn new engines on the fly.</p>
-</div>
+<p>One of my favourite modules in University has to be my Technical Games Development module (TDEMO), this module helped me learn to develop my core team working skills for use in games development, as well as this, it helped me develop my awareness of group dynamics, and gave me the opportunity to test out any potential career paths and the problems usually faced in those.</p>
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- This is the Embed or Youtube Footage of the game, followed by controls and a collapsible with the gallery, which starts as open -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------- -->
-
-<!---<div class="wrapper center-block">
-  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
-    <div class="panel-heading active" role="tab" id="headingOne">
-      <h4 class="panel-title">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseGallery" aria-expanded="true" aria-controls="collapseGallery">
-          Gallery
-        </a>
-      </h4>
-    </div>
-    <div id="collapseGallery" class="panel-collapse collapse in collapse show" role="tabpanel" aria-labelledby="headingOne">
-      <div class="panel-body">
-        <p>Here is a gallery of gifs, showing gameplay <br /> </p>
-        
-        <div class = "row">
-          <div class="column-two">
-            <img src="/assets/img/posts/SomewhereInBerkshire/berkshire.gif">
-          </div>
-          <div class="column-two">
-            <img src="/assets/img/posts/SomewhereInBerkshire/berkshire2.gif">
-          </div>
-        </div>        
-        <br />
-        <div class="row">
-          <div class="column-two">
-            <img src="/assets/img/posts/SomewhereInBerkshire/berkshire3.gif">
-          </div>
-          <div class="column-two">
-            <img src="/assets/img/posts/SomewhereInBerkshire/berkshire4.gif">
-          </div>
-        </div>  
-      </div>
-    </div>
-  </div>
-</div>-->
-
-<!--- This HR is nice to have here, to seperate the status of the game -->
 <hr>
+
 
 <!--- -------------------------------------------------------- -->
 <!--- This is the collapsible which I will be using.           -->
@@ -87,15 +44,260 @@ usemathjax: true
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
         <div class="panel panel-default">
             <div class="panel-heading active" role="tab" id="headingOne">
-                <h4 class="panel-title">
-                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOverview" aria-expanded="true" aria-controls="collapseOverview">
-                    TITLE HERE
+                <h2 class="panel-title">
+                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseBlockyRoad" aria-expanded="true" aria-controls="collapseBlockyRoad" style="font-size: 25px">
+                    Blocky Road
                 </a>
-                </h4>
+                </h2>
             </div>
-            <div id="collapseOverview" class="panel-collapse collapse in collapse show" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+            <div id="collapseBlockyRoad" class="panel-collapse collapse in collapse show" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
                 <div class="panel-body">
-                    <p>TEXT HERE</p>
+                    <img src="/assets/img/posts/YearTDEMO/blockyroad.png" style="width: 100%; border-radius: 50px 50px">
+                    <br /><br />
+                    <p>Blocky Road is a <b>puzzle game</b>, designed to fit around the well-known <b>'Hypercasual' genre.</b>  I had to do some research into this genre before starting to make sure I was completely clear on what type of game I could make so I can begin thinking of ideas, this definition on Wikipedia summarised the genre very well: <a href = "https://en.wikipedia.org/wiki/Hyper-casual_game" target="_blank" style="padding: 2px"> “A hyper-casual game is a mobile video game which is easy-to-play and usually free-to-play; they also feature very minimalistic user interfaces.” </a> (‘Hyper-Casual Game’, 2021) <br /> My goal for this game jam project was to make a game which can do all of that, I had a week to make this game, but I couldn’t just work on this game as there was other university work to do as well within that week, so one of my main challenges was to be able to make an enjoyable Hyper casual game <b>within 9 hours.</b> </p>
+                    <div class = "card">
+                        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                            <div class="panel panel-default">
+                                <div class="panel-heading active" role="tab" id="headingOne">
+                                    <h2 class="panel-title">
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec1" aria-expanded="true" aria-controls="collapseMec1" style="font-size: 18px">
+                                        Insert Mechanic/Problem/Something here
+                                    </a>
+                                    </h2>                                
+                                </div>
+                                <div id="collapseMec1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                    <div class="panel-body">
+                                        <p>Text here</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="panel panel-default">
+                                <div class="panel-heading active" role="tab" id="headingOne">
+                                    <h2 class="panel-title">
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec2" aria-expanded="true" aria-controls="collapseMec2" style="font-size: 18px">
+                                        Insert Second Mechanic/Problem/Something here
+                                    </a>
+                                    </h2>                                
+                                </div>
+                                <div id="collapseMec2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                    <div class="panel-body">
+                                        <p>Text here</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <h3> Reflection on Blocky Road </h3>
+                    <p>Reflection Work</p>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="panel panel-default">
+            <div class="panel-heading active" role="tab" id="headingOne">
+                <h2 class="panel-title">
+                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsePetPal" aria-expanded="true" aria-controls="collapsePetPal" style="font-size: 25px">
+                    Pet Pal
+                </a>
+                </h2>
+            </div>
+            <div id="collapsePetPal" class="panel-collapse collapse in collapse show" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                <div class="panel-body">
+                    <img src="/assets/img/posts/YearTDEMO/petpal.png" style="width: 100%; border-radius: 50px 50px">
+                    <br /><br />
+                    <p>Description Here</p>
+                    <div class = "card">
+                        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                            <div class="panel panel-default">
+                                <div class="panel-heading active" role="tab" id="headingOne">
+                                    <h2 class="panel-title">
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec3" aria-expanded="true" aria-controls="collapseMec3" style="font-size: 18px">
+                                        Insert Mechanic/Problem/Something here
+                                    </a>
+                                    </h2>                                
+                                </div>
+                                <div id="collapseMec3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                    <div class="panel-body">
+                                        <p>Text here</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="panel panel-default">
+                                <div class="panel-heading active" role="tab" id="headingOne">
+                                    <h2 class="panel-title">
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec4" aria-expanded="true" aria-controls="collapseMec4" style="font-size: 18px">
+                                        Insert Second Mechanic/Problem/Something here
+                                    </a>
+                                    </h2>                                
+                                </div>
+                                <div id="collapseMec4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                    <div class="panel-body">
+                                        <p>Text here</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <h3> Reflection on Pet Pal </h3>
+                    <p>Reflection Work</p>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="panel panel-default">
+            <div class="panel-heading active" role="tab" id="headingOne">
+                <h2 class="panel-title">
+                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsePopHop" aria-expanded="true" aria-controls="collapsePopHop" style="font-size: 25px">
+                    Poppin' Hoppin' Unlockin'
+                </a>
+                </h2>
+            </div>
+            <div id="collapsePopHop" class="panel-collapse collapse in collapse show" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                <div class="panel-body">
+                    <img src="/assets/img/posts/YearTDEMO/pophop.png" style="width: 100%; border-radius: 50px 50px">
+                    <br /><br />
+                    <p>Description Here</p>
+                    <div class = "card">
+                        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                            <div class="panel panel-default">
+                                <div class="panel-heading active" role="tab" id="headingOne">
+                                    <h2 class="panel-title">
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec5" aria-expanded="true" aria-controls="collapseMec5" style="font-size: 18px">
+                                        Insert Mechanic/Problem/Something here
+                                    </a>
+                                    </h2>                                
+                                </div>
+                                <div id="collapseMec5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                    <div class="panel-body">
+                                        <p>Text here</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="panel panel-default">
+                                <div class="panel-heading active" role="tab" id="headingOne">
+                                    <h2 class="panel-title">
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec6" aria-expanded="true" aria-controls="collapseMec6" style="font-size: 18px">
+                                        Insert Second Mechanic/Problem/Something here
+                                    </a>
+                                    </h2>                                
+                                </div>
+                                <div id="collapseMec6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                    <div class="panel-body">
+                                        <p>Text here</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <h3> Reflection on Poppin' Hoppin' Unlockin' </h3>
+                    <p>Reflection Work</p>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="panel panel-default">
+            <div class="panel-heading active" role="tab" id="headingOne">
+                <h2 class="panel-title">
+                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseAqua" aria-expanded="true" aria-controls="collapseAqua" style="font-size: 25px">
+                    Aqua Adventure
+                </a>
+                </h2>
+            </div>
+            <div id="collapseAqua" class="panel-collapse collapse in collapse show" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                <div class="panel-body">
+                    <img src="/assets/img/posts/YearTDEMO/aqua.png" style="width: 100%; border-radius: 50px 50px">
+                    <br /><br />
+                    <p>Description Here</p>
+                    <div class = "card">
+                        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                            <div class="panel panel-default">
+                                <div class="panel-heading active" role="tab" id="headingOne">
+                                    <h2 class="panel-title">
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec7" aria-expanded="true" aria-controls="collapseMec7" style="font-size: 18px">
+                                        Insert Mechanic/Problem/Something here
+                                    </a>
+                                    </h2>                                
+                                </div>
+                                <div id="collapseMec7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                    <div class="panel-body">
+                                        <p>Text here</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="panel panel-default">
+                                <div class="panel-heading active" role="tab" id="headingOne">
+                                    <h2 class="panel-title">
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec8" aria-expanded="true" aria-controls="collapseMec8" style="font-size: 18px">
+                                        Insert Second Mechanic/Problem/Something here
+                                    </a>
+                                    </h2>                                
+                                </div>
+                                <div id="collapseMec8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                    <div class="panel-body">
+                                        <p>Text here</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <h3> Reflection on Aqua Adventure </h3>
+                    <p>Reflection Work</p>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="panel panel-default">
+            <div class="panel-heading active" role="tab" id="headingOne">
+                <h2 class="panel-title">
+                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSub" aria-expanded="true" aria-controls="collapseSub" style="font-size: 25px">
+                    Submarine Simulator
+                </a>
+                </h2>
+            </div>
+            <div id="collapseSub" class="panel-collapse collapse in collapse show" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                <div class="panel-body">
+                    <img src="/assets/img/posts/YearTDEMO/sub.png" style="width: 100%; border-radius: 50px 50px">
+                    <br /><br />
+                    <p>Description Here</p>
+                    <div class = "card">
+                        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                            <div class="panel panel-default">
+                                <div class="panel-heading active" role="tab" id="headingOne">
+                                    <h2 class="panel-title">
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec9" aria-expanded="true" aria-controls="collapseMec9" style="font-size: 18px">
+                                        Insert Mechanic/Problem/Something here
+                                    </a>
+                                    </h2>                                
+                                </div>
+                                <div id="collapseMec9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                    <div class="panel-body">
+                                        <p>Text here</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="panel panel-default">
+                                <div class="panel-heading active" role="tab" id="headingOne">
+                                    <h2 class="panel-title">
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec10" aria-expanded="true" aria-controls="collapseMec10" style="font-size: 18px">
+                                        Insert Second Mechanic/Problem/Something here
+                                    </a>
+                                    </h2>                                
+                                </div>
+                                <div id="collapseMec10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                    <div class="panel-body">
+                                        <p>Text here</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <h3> Reflection on Submarine Simulator </h3>
+                    <p>Reflection Work</p>
                 </div>
             </div>
         </div>
@@ -104,42 +306,7 @@ usemathjax: true
 
 <hr>
 
-<!--- -------------------------------------------------------- -->
-<!--- This is another style of a collapsible which I could use -->
-<!--- -------------------------------------------------------- -->
+<h2> Final Evaluation & Reflection </h2>
+<p>text here</p>
 
-<details> 
-    <summary>Some Words</summary> 
-    some text here
-</details>
-
-
-
-<!--- ------------------------------------------------- -->
-<!--- Styleguide on how to use code to document my work -->
-<!--- ------------------------------------------------- -->
-<!---
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-or
-
-```javascript
-var a = 1;
-var b = 2;
-function sum (num1,num2){
-  return num1+num2;
-}
-var result = sum(a,b);
-```
-
-```c
-cout >> "fun" >> endl;
-```
--->
-
+<hr>
