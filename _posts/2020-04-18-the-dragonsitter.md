@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "The Dragonsitter"
-type: "Game Jam"
+type: "Game Development"
 color: "background-color: seagreen"
 summary: "The Dragonsitter is a Tamagotchi inspired game, made for the 'Keep it alive' theme. <small>(Ludum Dare 46)</small>"
 author: amyelliott

@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Village Simulator"
-type: "Game Jam"
+type: "Game Development"
 color: "background-color: seagreen"
 summary: "Village Simulator is a.. well you guessed it, it's a village simulator! This was designed around the theme 'Start with nothing' <small>(Ludum Dare 45)</small>"
 author: amyelliott

@@ -3,10 +3,10 @@ layout: post
 title:  "Blocky Road in Unreal Engine C++ Practice"
 type: "Self-Directed Study"
 color: "background-color: darkslateblue"
-summary: "I decided to tackle Unreal Engine C++ straight on to remake one of my older game jam games <small>(Self-Directed Study)</small>"
+summary: "I decided to tackle Unreal Engine C++ straight on to remake one of my older game jam games."
 author: amyelliott
 date: '2021-03-20'
-category: ['self-directed-study', 'cplusplus', 'game-jam', 'unreal-engine']
+category: ['self-directed-study', 'cplusplus', 'unreal-engine']
 thumbnail: /assets/img/posts/BlockyRoadUnreal/cover.png
 keywords: cplusplus, gamejam, unrealengine, ue
 permalink: /blog/blocky-road-ue-practice/

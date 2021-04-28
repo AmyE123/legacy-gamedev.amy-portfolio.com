@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Driven Round The Loop"
-type: "Game Jam"
+type: "Game Development"
 color: "background-color: seagreen"
 summary: "Driven Round the Loop is a puzzle game designed around the theme 'Stuck in a loop'. <small>(Ludum Dare 47)</small>"
 author: amyelliott
