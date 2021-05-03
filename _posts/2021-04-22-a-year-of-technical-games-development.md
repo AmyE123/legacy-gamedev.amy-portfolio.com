@@ -146,9 +146,21 @@ usemathjax: true
                     </div>
                     <br />
                     <h3> Reflection on Pet Pal </h3>
-                    <p>Reflection Work</p>
-                    <img src="/assets/img/posts/YearTDEMO/br4.PNG" style="width: 30%; border-radius: 10px 10px; float: right; margin: 30px"><h3> Ranking, Group & Player Feedback </h3>
-                    <p>text here</p>
+                    <p>Overall, making Pet Pal was a great opportunity for me to <b>lead and teach</b>, which I’ve discovered is something I’m quite interested in, so now I know <b>leadership is something I can consider for any future careers.</b> For me, one of the most <b>significant experiences</b> arose from <b>teaching source control to the team</b>, as later on in the module, I found myself teaching source control multiple times for each game jam group. <br /> I personally didn’t like Pet Pal, so I don’t see it going much further than it has. I see clicker games like this quite boring, and the game itself isn’t unique, although given an opportunity to expand this game, I feel it would have to be <i>remade from the beginning again</i>, including all assets, with a more creative twist to the game to make it more unique. <br /> <img src="/assets/img/posts/YearTDEMO/pp4.PNG" style="width: 30%; border-radius: 10px 10px; float: right; margin: 30px"> My <b>Image Creation</b> module helped me, and most likely my teammates out with making assets for this game, as <b>Photoshop was used to produce art assets for the game</b>, another module which I find helped the programmers was <b>TOGA (Tools for Games & Animation)</b> as at this point, the <b>programming fundamentals</b> were being taught, and these fundamentals were used in the game.</p>
+                    <h3> Ranking, Group & Player Feedback </h3>
+                    <p>This game ranked <b>#15</b> Overall, which is quite a low ranking, but I wasn’t too surprised given the simplistic gameplay, now I feel <img src="/assets/img/posts/YearTDEMO/pp6.png" style="width: 30%; border-radius: 10px 10px; float: right; margin: 30px"><b>we could’ve scored higher if we had been a little more creative</b> with the idea and having discussed our opinions on the game with the rest of the group a few months after we finished the game, <b>the other team members felt much the same.</b> <br /> I asked for feedback on my leadership from the rest of the group to see how I did and how I can improve. The responses which I have gotten were <b>all positive, which is great! </b> Key words which I have picked out from this feedback was that when leading the game, I showed that I was <b>“Organised”</b>, <b>“[Kept things] within scope”</b>, <b>“Ensured [the group] stayed on task”</b> and <b>“Made sure [the group] finished early so we could improve the game based on feedback”</b> – And for me, the most useful positive feedback which I got was the last point of finishing the game early to get feedback, as <b>for future games, I tried my best to enforce this idea.</b><br /> Here is some feedback which we have got from some players:</p> 
+                    <img src="/assets/img/posts/YearTDEMO/pp3.png" style="border-radius: 10px 10px; width: 100%; text-align: center">
+                    <br />
+                    <!--<div class="row">
+                        <div class="column-two" style="text-align: center">
+                            <img src="/assets/img/posts/YearTDEMO/pp_1.png" style="border-radius: 10px 10px; margin: 50px; text-align: center">                           
+                            <img src="/assets/img/posts/YearTDEMO/pp_4.png" style="border-radius: 10px 10px; margin: 50px; text-align: center">                            
+                        </div>
+                        <div class="column-two" style="text-align: center">         
+                            <img src="/assets/img/posts/YearTDEMO/pp_3.png" style="border-radius: 10px 10px; margin: 20px; text-align: center">
+                            <img src="/assets/img/posts/YearTDEMO/pp_2.png" style="border-radius: 10px 10px; margin: 20px; text-align: center">
+                        </div>
+                    </div>-->
                     <br />
                     <iframe frameborder="0" src="https://itch.io/embed/809572?border_width=2&amp;bg_color=1c1c1e&amp;fg_color=ffffff&amp;border_color=1c1c1e" width="100%" height="169" style="box-shadow: 1px 2px 8px #151517"><a href="https://laylamccahon.itch.io/pet-pals">Team ; : Pet Pal by LaylaMcCahon, xXbollerXx, Amy Elliott, Lewis Roberts, Jacob Kelly</a></iframe>
                 </div>
