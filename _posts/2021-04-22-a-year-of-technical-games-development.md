@@ -146,21 +146,68 @@ usemathjax: true
                     </div>
                     <br />
                     <h3> Reflection on Pet Pal </h3>
-                    <p>Overall, making Pet Pal was a great opportunity for me to <b>lead and teach</b>, which I’ve discovered is something I’m quite interested in, so now I know <b>leadership is something I can consider for any future careers.</b> For me, one of the most <b>significant experiences</b> arose from <b>teaching source control to the team</b>, as later on in the module, I found myself teaching source control multiple times for each game jam group. <br /> I personally didn’t like Pet Pal, so I don’t see it going much further than it has. I see clicker games like this quite boring, and the game itself isn’t unique, although given an opportunity to expand this game, I feel it would have to be <i>remade from the beginning again</i>, including all assets, with a more creative twist to the game to make it more unique. <br /> <img src="/assets/img/posts/YearTDEMO/pp4.PNG" style="width: 30%; border-radius: 10px 10px; float: right; margin: 30px"> My <b>Image Creation</b> module helped me, and most likely my teammates out with making assets for this game, as <b>Photoshop was used to produce art assets for the game</b>, another module which I find helped the programmers was <b>TOGA (Tools for Games & Animation)</b> as at this point, the <b>programming fundamentals</b> were being taught, and these fundamentals were used in the game.</p>
-                    <h3> Ranking, Group & Player Feedback </h3>
-                    <p>This game ranked <b>#15</b> Overall, which is quite a low ranking, but I wasn’t too surprised given the simplistic gameplay, now I feel <img src="/assets/img/posts/YearTDEMO/pp6.png" style="width: 30%; border-radius: 10px 10px; float: right; margin: 30px"><b>we could’ve scored higher if we had been a little more creative</b> with the idea and having discussed our opinions on the game with the rest of the group a few months after we finished the game, <b>the other team members felt much the same.</b> <br /> I asked for feedback on my leadership from the rest of the group to see how I did and how I can improve. The responses which I have gotten were <b>all positive, which is great! </b> Key words which I have picked out from this feedback was that when leading the game, I showed that I was <b>“Organised”</b>, <b>“[Kept things] within scope”</b>, <b>“Ensured [the group] stayed on task”</b> and <b>“Made sure [the group] finished early so we could improve the game based on feedback”</b> – And for me, the most useful positive feedback which I got was the last point of finishing the game early to get feedback, as <b>for future games, I tried my best to enforce this idea.</b><br /> Here is some feedback which we have got from some players:</p> 
-                    <img src="/assets/img/posts/YearTDEMO/pp3.png" style="border-radius: 10px 10px; width: 100%; text-align: center">
+                    <p>Overall, making Pet Pal was a great opportunity for me to <b>lead and teach</b>, which I’ve discovered is something I’m quite interested in, so now I know <b>leadership is something I can consider for any future careers.</b> For me, one of the most <b>significant experiences</b> arose from <b>teaching source control to the team</b>, as later on in the module, I found myself teaching source control multiple times for each game jam group. <br /> I personally didn’t like Pet Pal, so I don’t see it going much further than it has. I see clicker games like this quite boring, and the game itself isn’t unique, although given an opportunity to expand this game, I feel it would have to be <i>remade from the beginning again</i>, including all assets, with a more creative twist to the game to make it more unique. <br /> My <b>Image Creation</b> module helped me, and most likely my teammates out with making assets for this game, as <b>Photoshop was used to produce art assets for the game</b>, another module which I find helped the programmers was <b>TOGA (Tools for Games & Animation)</b> as at this point, the <b>programming fundamentals</b> were being taught, and these fundamentals were used in the game.</p>
+                    <img src="/assets/img/posts/YearTDEMO/pp4.PNG" style="width: 30%; border-radius: 10px 10px; float: right; margin: 30px">  <h3> Ranking, Group & Player Feedback </h3>
+                    <p>This game ranked <b>#15</b> Overall, which is quite a low ranking, but I wasn’t too surprised given the simplistic gameplay, now I feel<b>we could’ve scored higher if we had been a little more creative</b> with the idea and having discussed our opinions on the game with the rest of the group a few months after we finished the game, <b>the other team members felt much the same.</b> <br /> I asked for feedback on my leadership from the rest of the group to see how I did and how I can improve. The responses which I have gotten were <b>all positive, which is great! </b> Key words which I have picked out from this feedback was that when leading the game, I showed that I was <b>“Organised”</b>, <b>“[Kept things] within scope”</b>, <b>“Ensured [the group] stayed on task”</b> and <b>“Made sure [the group] finished early so we could improve the game based on feedback”</b> – And for me, the most useful positive feedback which I got was the last point of finishing the game early to get feedback, as <b>for future games, I tried my best to enforce this idea.</b></p> 
                     <br />
-                    <!--<div class="row">
-                        <div class="column-two" style="text-align: center">
-                            <img src="/assets/img/posts/YearTDEMO/pp_1.png" style="border-radius: 10px 10px; margin: 50px; text-align: center">                           
-                            <img src="/assets/img/posts/YearTDEMO/pp_4.png" style="border-radius: 10px 10px; margin: 50px; text-align: center">                            
-                        </div>
-                        <div class="column-two" style="text-align: center">         
-                            <img src="/assets/img/posts/YearTDEMO/pp_3.png" style="border-radius: 10px 10px; margin: 20px; text-align: center">
-                            <img src="/assets/img/posts/YearTDEMO/pp_2.png" style="border-radius: 10px 10px; margin: 20px; text-align: center">
-                        </div>
-                    </div>-->
+
+                    <details> 
+                        <summary>Personal Feedback</summary> 
+                        <table>
+                          <tr>
+                            <th>Name</th>
+                            <th>Feedback</th>
+                          </tr>
+                          <tr>
+                            <td>Jacob</td>
+                            <td>Amy was our lead and a good one at that, she kept things organised and within scope as well as also doing some of our coding.  Very good team mate on top of being a lead.</td>
+                          </tr>
+                          <tr>
+                            <td>Layla</td>
+                            <td>Amy was an active team leader who ensured we stayed on task and made a good decision with ensuring we finished early so we could improve the game based on feedback.</td>
+                          </tr>
+                          <tr>
+                            <td>Lewis</td>
+                            <td>Amy was the lead for the group and I believe did code also, In terms of leading she did very well with keeping things organized and getting everyone to work. Overall was a good and useful leader.</td>
+                          </tr>
+                          <tr>
+                            <td>Fabio</td>
+                            <td>Amy was the leader, kept us on track, good programmer </td>
+                          </tr>
+                        </table>                        
+                    </details>     
+                    <br />
+
+                    <details> 
+                        <summary>Teams Opinion On The Game</summary> 
+                        <table>
+                          <tr>
+                            <th>Name</th>
+                            <th>Game Rating</th>
+                            <th>Opinion</th>
+                          </tr>
+                          <tr>
+                            <td>Jacob</td>
+                            <td style="background-color: #a52a2a5e">3/10</td>
+                            <td>Clicker games are my one of my least favourite genre's within the entire market, but dispite this. I did enjoy working with everyone in this group and felt like we made a solid incremental clicker based game.</td>
+                          </tr>
+                          <tr>
+                            <td>Layla</td>
+                            <td style="background-color: #ff9a264d">4/10</td>
+                            <td>Although we did a good job at the game that we set out to create, we could've been more ambitious with our goals while remaining within the gamejam limits to create something more engaging to players.</td>
+                          </tr>
+                          <tr>
+                            <td>Lewis</td>
+                            <td style="background-color: #ff9a264d">5/10</td>
+                            <td>The game was well made and good though the theme wasnt all that interesting limiting what was capable.</td>
+                          </tr>
+                          <tr>
+                            <td>Fabio</td>
+                            <td style="background-color: #a52a2a5e">3/10</td>
+                            <td>The theme 'clicker game' wasn't interesting and i think we might have missed the mark on what makes a clicker gamer a clicker game but it did have comedic value bcuase of the sheep evalution </td>
+                          </tr>
+                        </table>                       
+                    </details> 
                     <br />
                     <iframe frameborder="0" src="https://itch.io/embed/809572?border_width=2&amp;bg_color=1c1c1e&amp;fg_color=ffffff&amp;border_color=1c1c1e" width="100%" height="169" style="box-shadow: 1px 2px 8px #151517"><a href="https://laylamccahon.itch.io/pet-pals">Team ; : Pet Pal by LaylaMcCahon, xXbollerXx, Amy Elliott, Lewis Roberts, Jacob Kelly</a></iframe>
                 </div>
@@ -179,34 +226,34 @@ usemathjax: true
                 <div class="panel-body">
                     <img src="/assets/img/posts/YearTDEMO/pophop.png" style="width: 100%; border-radius: 50px 50px">
                     <br /><br />
-                    <p>Poppin’ Hoppin’ Unlockin’ is a <b>puzzle game</b>, designed to fit around the <b>‘Platformer’ genre.</b> This genre is popular and most influenced from games such as Super Mario Bros because <a href="https://en.wikipedia.org/wiki/Platform_game" target="_blank" style = "padding: 2px">“Its success as a pack-in led many companies to see platform games as vital to their success and contributed greatly to popularizing the genre during the 8-bit console generation.”</a> (‘Platform Game’, 2021). <br /> My teams’ goal for this game jam project was to make a stylish 3D platformer with a back story, we were all a bit more confident approaching this game jam as we had practice from the previous. Our group had <b>2 weeks to make this game</b>, but again, as we were a group there was less stress as each of us were working on a specialism. </p>
+                    <p>Poppin’ Hoppin’ Unlockin’ is a <b>puzzle game</b>, designed to fit around the <b>‘Platformer’ genre.</b> This genre is popular and most influenced from games such as Super Mario Bros because <a href="https://en.wikipedia.org/wiki/Platform_game" target="_blank" style = "padding: 2px"> “Its success as a pack-in led many companies to see platform games as vital to their success and contributed greatly to popularizing the genre during the 8-bit console generation.”</a> (‘Platform Game’, 2021). <br /> My teams’ goal for this game jam project was to make a stylish 3D platformer with a back story, we were all a bit more confident approaching this game jam as we had practice from the previous. Our group had <b>2 weeks to make this game</b>, but again, as we were a group there was less stress as each of us were working on a specialism. </p>
                     <div class = "card">
                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
                                     <h2 class="panel-title">
-                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec5" aria-expanded="true" aria-controls="collapseMec5" style="font-size: 18px">
-                                        Insert Mechanic/Problem/Something here
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsePHUGL" aria-expanded="true" aria-controls="collapsePHUGL" style="font-size: 18px">
+                                        Being A Group Lead Again - What I Did Differently, Why I Did It, & How I Made Sure Everything Turned Out Okay.
                                     </a>
                                     </h2>                                
                                 </div>
-                                <div id="collapseMec5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                <div id="collapsePHUGL" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
                                     <div class="panel-body">
-                                        <p>Text here</p>
+                                        <p>I decided to take the Group Lead role on again and this was to <b>improve</b> on anything I may have not done as well last time; and although my peer feedback on my leadership was all positive, <b>I knew there had to be other areas which I could improve in.</b> <br />Previously, I stated that <i>for Pet Pal I didn’t have time to do much programming</i> for the game, as all of my time was mostly spent on project management, <b>this time I wanted to make sure I can contribute to programming as well.</b> <br /> For me, I would've initially thought the most <b>significant difference</b> between leading this project and leading the previous is the <b>team size</b>, for this project we had a team of 8; and because of the team size difference, you would think there was more which I had to manage as the group leader, but having experienced this, I now realise that <b>leading a team of 8 is not much different from leading a team of 5!</b> Furthermore, I have learnt that this is most likely because of having team members which are <b>happy to pull their own weight</b> in the team, so there <b>wasn’t any conflicts</b> which I had to deal with in either of these games. <br /> Another relevant and useful experience this time leading the project has to be <b>reflecting</b> on what I’ve learnt previously. <br /> For this game, I decided to get <b>more input, in multiple areas from every member of the team</b>, as previously I felt like I didn’t do that. At the time I thought this would be a bad idea, and the team wouldn’t contribute, but I was <b>pleasantly surprised at how much input this team gave me!</b> <img src="/assets/img/posts/YearTDEMO/ph2.png" style="width: 40%; border-radius: 10px 10px; float: right; margin: 30px">    <br /><br /> An example of one of the inputs I asked for at the beginning of the game jam, was <b>I asked every team member what role they wanted to take on</b> for the development of the game, they could pick <b>whatever</b> they liked, if they wanted to try something new, or if they wanted to stick to something they were more comfortable with, I really enjoyed this as I felt like for the other gamejams which I’ve participated in, most people stick to a role which they know they can do well, or a role they were assigned, but <b>I personally feel like experimenting in different areas is one of the most valuable experiences you can get out of these gamejams</b>, and this is certainly something which I will be doing for any future gamejams which I lead. <br /> In addition to that, another input which I have taken from the team is about <b>opinions on the game’s development thus far</b>, one question in particular was about a main aspect of the game which we didn’t have time to implement. <br /> <b>I think the ability to give creative input, even in an area which you don’t specialise in is important</b>, a lack of creative input is commonly found in triple-a studios, and it’s called ‘Triple-a Fatigue’, many opinions on <a href="https://www.mcvuk.com/development-news/are-devs-suffering-from-triple-a-fatigue/" target="_blank" style="padding: 2px"> this article </a> state that with a lack of creative input, they don’t feel part of the games development, so I wanted to know the opinion of other game developers’ on this subject, and to do this <a href="https://docs.google.com/spreadsheets/d/111GM5brCa-JbQkPFiuStK_NycC4K4L20tEJ29bF5slM/edit?usp=sharing" target="_blank" style="padding: 2px"> I made a survey</a>, and some of the answers I got were very interesting and informative! The results which I have gotten from this indicate that there are <b>many pros and cons to creative freedom</b>, and it will certainly be something which I will be looking further into in the future.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
                                     <h2 class="panel-title">
-                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec6" aria-expanded="true" aria-controls="collapseMec6" style="font-size: 18px">
-                                        Insert Second Mechanic/Problem/Something here
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsePHULM" aria-expanded="true" aria-controls="collapsePHULM" style="font-size: 18px">
+                                        Making the basic level mechanics 
                                     </a>
                                     </h2>                                
                                 </div>
-                                <div id="collapseMec6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                <div id="collapsePHULM" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
                                     <div class="panel-body">
-                                        <p>Text here</p>
+                                        <p>Specific tasks were shared out amongst the programmers of the team, and the majority of those tasks were to do with mechanics involving the player, so <b>I decided to take on level mechanics</b> myself, this involves things like visual cues to fade the screen between levels, to checking if the player has the key to complete the level by the time they reach the door. <br /><img src="/assets/img/posts/YearTDEMO/phu.gif" style="width: 40%; border-radius: 10px 10px; float: right; margin: 30px">     Doing this as early as possible was <b>essential</b>, as I needed to build a <b>level template which can be worked with</b> when it comes to designing and implementing levels, and <b>levels isn’t something we want to work on last minute!</b> - This is because, like Weesner, (2011) states <a href="https://www.gamasutra.com/view/news/126332/Opinion_Classic_Problems_With_Level_Design.php" target="_blank" style = "padding: 2px"> “Level design is incredibly time consuming. It’s one of the few aspects of design that spans the entire development process from early prototyping to closing out final bugs!”</a> and <b>in my own experience</b> with making levels in gamejams starting the level design as soon as possible is <b>always</b> good, as if you were to start level design closer to the deadline like I did for <a href="https://horsehead.itch.io/in-too-deep" target="_blank" style = "padding: 2px"> ‘In Too Deep’</a>, <a href="https://horsehead.itch.io/gamejam-2019" target="_blank" style = "padding: 2px"> ‘Welcome To Yelapa’</a> and <a href="https://horsehead.itch.io/airport-lost-found-division" target="_blank" style = "padding: 2px"> ‘Airport – Lost & Found Division’</a> the levels tend to be <b>lower quality</b>, and <b>less entertaining</b> to play, in comparison, the gamejams where levels were focused on sooner like <a href="https://horsehead.itch.io/team-swap-heroes" target="_blank" style = "padding: 2px"> ‘Team Swap Heroes’</a>, <a href="https://horsehead.itch.io/driven-round-the-loop" target="_blank" style = "padding: 2px"> ‘Driven Round The Loop’</a> and <a href="https://horsehead.itch.io/gmtk-gamejam-2019" target="_blank" style = "padding: 2px"> ‘Only One Recruit’</a> have much more <b>entertaining and fun to play levels</b>, which in turn <b>makes the player want to play for longer</b>, I noticed this pattern during the development which is why I tried to get the team to work on the level design as soon as possible. <br /> One of the mechanics I worked on for the levels was <b>checking to see if they key to open the door has been collected.</b> <br /> To make this work, I made a <b>levelProperties script</b>, which would be on <b>every level</b> and contain a <b>boolean which indicates whether the player has collected the key for the level or not</b>, and if they have, it runs the win function. <br /> At the time, I thought this was the best way of approaching this, as it worked, but having learnt many new practices since then, I now realise that <b>I should’ve used ScriptableObjects to contain level data, and keep things tidy</b>, as <a href="https://bluebubblebee.medium.com/the-beauty-of-scriptable-objects-in-unity3d-c92b3a3783d3" target="_blank" style = "padding: 2px"> “they are great for organizing assets” </a> BlueBubbleBee, (2020). As a next step, if I were to work on this game again, I would be doing a lot of tidying to make sure the game is as <b>optimized</b> as possible, <b>so adding levels to it would be easy for anyone to do!</b> <br /> To go a step further, I could <b>integrate level creation with a program like Tiled</b> to build out levels from JSON text files, so artists would be able to use the easy to learn Tiled program to paint out levels!</p>
                                     </div>
                                 </div>
                             </div>
@@ -214,7 +261,75 @@ usemathjax: true
                     </div>
                     <br />
                     <h3> Reflection on Poppin' Hoppin' Unlockin' </h3>
-                    <p>Reflection Work</p>
+                    <p>Overall, making Poppin’ Hoppin’ Unlockin’ (PHU) was a great opportunity to <b>further improve my leadership skills</b>, it allowed me to <b>experiment</b> in a more <b>creative approach to leading.</b> <br /> For me, one of my most significant experiences arose from <b>learning about different ways to lead a team</b>, my reflection on my leadership lead me to doing more research into creative input in the games industry, which is now a subject I’m interested in studying further. <br /> I personally really liked PHU as it was <b>great fun to make, and play!</b> The theme this time <b>allowed for more creativity</b>, which was not the case with the previous game. To improve, I feel like <b>player mechanics need a bit more refining to make it easier to play.</b> <br /> My <b>Define Games module</b> helped me out with rules within our game, for the first theme of Define Games, Jerrett, (2020) discussed how games are structured and he defines what rules are within games “Rules <b>restrict how to achieve a goal(s). Rules are operational</b> (Distinct) <b>Constitutive</b> (Mathematical) and <b>Implicit</b> (Unwritten).” – An example of this is the <b>lava and spikes being an implicit rule.</b></p>
+                    <img src="/assets/img/posts/YearTDEMO/ph3.png" style="width: 30%; border-radius: 10px 10px; float: right; margin: 30px">  <h3> Ranking, Group & Player Feedback </h3>
+                    <p>Poppin’ Hoppin’ Unlockin’ ranked <b>#15</b> Overall, which is a low ranking which surprised me a bit, <b>I thought the game was quite fun but that may be my biased opinion</b>, the feedback suggests that the reason we had gotten such a low score was because of the <b>player dash mechanic being difficult to use</b>, ultimately resulting in <b>frustration from the player.</b> <br /> I asked for feedback on my leadership from the rest of the group, and I was really happy with what I got, it made me realise that my leadership skills aren’t so bad!</p>
+                    <br />
+                    <details> 
+                        <summary>Personal Feedback</summary> 
+                        <table>
+                          <tr>
+                            <th>Name</th>
+                            <th>Feedback</th>
+                          </tr>
+                          <tr>
+                            <td>Luke</td>
+                            <td>I mean its Amy. Every quality you would want from a leader is here - good sense of timing, how hard tasks are, reading her peers skill levels, a knowledge base wide enough to support all members of the team should they need it but despite this pushed others to try themselves in order to let them learn and do things there own way which i think takes a lot of self awareness and self control. A sense of humour too which allowed us all to feel at ease with her and be ourselves and enjoy our time together. I dont want to cry on about it forever but honestly just fanastic leadership! </td>
+                          </tr>
+                          <tr>
+                            <td>Ben</td>
+                            <td>Great team lead that was able to keep the team all working together on time while still teaching and helping out.</td>
+                          </tr>
+                          <tr>
+                            <td>Gabe</td>
+                            <td>Highly driven and a great programmer. Did a good job of leading the team given the short time frame, particularly cutting down scope.</td>
+                          </tr>
+                          <tr>
+                            <td>Bryce</td>
+                            <td>As far as I remember, Amy was an amazing lead and encouraged everyone to work and do their best. She also worked on a lot of the moment mechanics. </td>
+                          </tr>
+                          <tr>
+                            <td>Cameron</td>
+                            <td>Was a really great lead.</td>
+                          </tr>
+                        </table>                        
+                    </details>     
+                    <br />
+                    <details> 
+                        <summary>Teams Opinion On The Game</summary> 
+                        <table>
+                          <tr>
+                            <th>Name</th>
+                            <th>Game Rating</th>
+                            <th>Opinion</th>
+                          </tr>
+                          <tr>
+                            <td>Luke</td>
+                            <td style="background-color: #74ff2630">8/10</td>
+                            <td>While it was a shame the bombs couldnt work because of that dam character controller I believe the stunning visuals and the dam near mystical sound effects and music made it a experience despite it. The team that made it all had their voices heard and opinions shown in the final product which shows how loving and passioniate the team was. Loved every call with the team and i think the project reflects those times very well.</td>
+                          </tr>
+                          <tr>
+                            <td>Ben</td>
+                            <td style="background-color: #74ff2630">9/10</td>
+                            <td>So far the best Tdemo group I have worked with. The team worked together well and thanks to the amount of planning we were able to make a really good game super fast.</td>
+                          </tr>
+                          <tr>
+                            <td>Gabe</td>
+                            <td style="background-color: #74ff2630">10/10</td>
+                            <td>I mean we made it so I'm fully biased but honestly yeah the only thing that could be better would be to have had the mechanics a little more polished.</td>
+                          </tr>
+                          <tr>
+                            <td>Bryce</td>
+                            <td style="background-color: #74ff2630">7/10</td>
+                            <td>This was an amazing team to work with and game to work on. I enjoyed every moment even thought I didnt produce as much good quality work as I would have liked. </td>
+                          </tr>
+                          <tr>
+                            <td>Cameron</td>
+                            <td style="background-color: #74ff2630">8/10</td>
+                            <td>An amazing group of people who worked really hard and it was really well organised. </td>
+                          </tr>
+                        </table>                       
+                    </details> 
                     <br />
                     <iframe frameborder="0" src="https://itch.io/embed/817536?border_width=2&amp;bg_color=1c1c1e&amp;fg_color=ffffff&amp;border_color=1c1c1e" width="100%" height="169" style="box-shadow: 1px 2px 8px #151517"><a href="https://amy-elliott.itch.io/poppin-hoppin-unlockin">Poppin' Hoppin' Unlockin' by Amy Elliott, Gabe, UP2014114, Mohamed.Elfayoumy, Ben Webb, Bryce Reading, Rob Cole, UP2023255</a></iframe>
                 </div>

@@ -212,6 +212,41 @@ li-n {
     padding: 0 4px;
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    border: 1px solid #545454;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    border: 3px solid #545454;
+    text-align: left;
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #1c1c1e;
+}
+
+details {
+    width: 100%;
+}
+
+details > summary 
+{
+    width: 100%;
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 10px;
+}
+
+
 /* Create four equal columns that sits next to each other */
 .column {
     flex: 25%;
