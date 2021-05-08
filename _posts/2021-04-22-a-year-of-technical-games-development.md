@@ -149,8 +149,6 @@ usemathjax: true
                     <p>Overall, making Pet Pal was a great opportunity for me to <b>lead and teach</b>, which I’ve discovered is something I’m quite interested in, so now I know <b>leadership is something I can consider for any future careers.</b> For me, one of the most <b>significant experiences</b> arose from <b>teaching source control to the team</b>, as later on in the module, I found myself teaching source control multiple times for each game jam group. <br /> I personally didn’t like Pet Pal, so I don’t see it going much further than it has. I see clicker games like this quite boring, and the game itself isn’t unique, although given an opportunity to expand this game, I feel it would have to be <i>remade from the beginning again</i>, including all assets, with a more creative twist to the game to make it more unique. <br /> My <b>Image Creation</b> module helped me, and most likely my teammates out with making assets for this game, as <b>Photoshop was used to produce art assets for the game</b>, another module which I find helped the programmers was <b>TOGA (Tools for Games & Animation)</b> as at this point, the <b>programming fundamentals</b> were being taught, and these fundamentals were used in the game.</p>
                     <img src="/assets/img/posts/YearTDEMO/pp4.PNG" style="width: 30%; border-radius: 10px 10px; float: right; margin: 30px">  <h3> Ranking, Group & Player Feedback </h3>
                     <p>This game ranked <b>#15</b> Overall, which is quite a low ranking, but I wasn’t too surprised given the simplistic gameplay, now I feel<b>we could’ve scored higher if we had been a little more creative</b> with the idea and having discussed our opinions on the game with the rest of the group a few months after we finished the game, <b>the other team members felt much the same.</b> <br /> I asked for feedback on my leadership from the rest of the group to see how I did and how I can improve. The responses which I have gotten were <b>all positive, which is great! </b> Key words which I have picked out from this feedback was that when leading the game, I showed that I was <b>“Organised”</b>, <b>“[Kept things] within scope”</b>, <b>“Ensured [the group] stayed on task”</b> and <b>“Made sure [the group] finished early so we could improve the game based on feedback”</b> – And for me, the most useful positive feedback which I got was the last point of finishing the game early to get feedback, as <b>for future games, I tried my best to enforce this idea.</b></p> 
-                    <br />
-
                     <details> 
                         <summary>Personal Feedback</summary> 
                         <table>
@@ -176,8 +174,6 @@ usemathjax: true
                           </tr>
                         </table>                        
                     </details>     
-                    <br />
-
                     <details> 
                         <summary>Teams Opinion On The Game</summary> 
                         <table>
@@ -264,7 +260,6 @@ usemathjax: true
                     <p>Overall, making Poppin’ Hoppin’ Unlockin’ (PHU) was a great opportunity to <b>further improve my leadership skills</b>, it allowed me to <b>experiment</b> in a more <b>creative approach to leading.</b> <br /> For me, one of my most significant experiences arose from <b>learning about different ways to lead a team</b>, my reflection on my leadership lead me to doing more research into creative input in the games industry, which is now a subject I’m interested in studying further. <br /> I personally really liked PHU as it was <b>great fun to make, and play!</b> The theme this time <b>allowed for more creativity</b>, which was not the case with the previous game. To improve, I feel like <b>player mechanics need a bit more refining to make it easier to play.</b> <br /> My <b>Define Games module</b> helped me out with rules within our game, for the first theme of Define Games, Jerrett, (2020) discussed how games are structured and he defines what rules are within games “Rules <b>restrict how to achieve a goal(s). Rules are operational</b> (Distinct) <b>Constitutive</b> (Mathematical) and <b>Implicit</b> (Unwritten).” – An example of this is the <b>lava and spikes being an implicit rule.</b></p>
                     <img src="/assets/img/posts/YearTDEMO/ph3.PNG" style="width: 30%; border-radius: 10px 10px; float: right; margin: 30px">  <h3> Ranking, Group & Player Feedback </h3>
                     <p>Poppin’ Hoppin’ Unlockin’ ranked <b>#15</b> Overall, which is a low ranking which surprised me a bit, <b>I thought the game was quite fun but that may be my biased opinion</b>, the feedback suggests that the reason we had gotten such a low score was because of the <b>player dash mechanic being difficult to use</b>, ultimately resulting in <b>frustration from the player.</b> <br /> I asked for feedback on my leadership from the rest of the group, and I was really happy with what I got, it made me realise that my leadership skills aren’t so bad!</p>
-                    <br />
                     <details> 
                         <summary>Personal Feedback</summary> 
                         <table>
@@ -294,7 +289,6 @@ usemathjax: true
                           </tr>
                         </table>                        
                     </details>     
-                    <br />
                     <details> 
                         <summary>Teams Opinion On The Game</summary> 
                         <table>
@@ -348,34 +342,20 @@ usemathjax: true
                 <div class="panel-body">
                     <img src="/assets/img/posts/YearTDEMO/aqua.png" style="width: 100%; border-radius: 50px 50px">
                     <br /><br />
-                    <p>Aqua Adventure is an <b>on-rails shooter game</b>, designed to fit around the <b>‘StarFox’ theme.</b> This theme is based off of, well, you guessed it; Nintendo’s beloved StarFox series! Mainly the 1993 title. <a href="https://en.wikipedia.org/wiki/Star_Fox" target="_blank" style="padding: 2px">“StarFox is a spaceship shooter and third person action-adventure video game”</a> (<i>‘Star Fox’</i>, 2021) – This Wikipedia article is where we got the idea of what genres to base our game off of. <br /> My teams’ goal for this game jam was to make an underwater on-rails shooter, <b>we had 2 weeks.</b> This group mostly consisted of artists and 3D modellers, so I happily proposed to take on the entirety of the programming myself as a personal challenge. </p>
+                    <p>Aqua Adventure is an <b>on-rails shooter game</b>, designed to fit around the <b>‘StarFox’ theme.</b> This theme is based off of, well, you guessed it; Nintendo’s beloved StarFox series! Mainly the 1993 title. <a href="https://en.wikipedia.org/wiki/Star_Fox" target="_blank" style="padding: 2px"> “StarFox is a spaceship shooter and third person action-adventure video game”</a> (<i>‘Star Fox’</i>, 2021) – This Wikipedia article is where we got the idea of what genres to base our game off of. <br /> My teams’ goal for this game jam was to make an underwater on-rails shooter, <b>we had 2 weeks.</b> This group mostly consisted of artists and 3D modellers, so I happily proposed to take on the entirety of the programming myself as a personal challenge. </p>
                     <div class = "card">
                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
                                     <h2 class="panel-title">
-                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec7" aria-expanded="true" aria-controls="collapseMec7" style="font-size: 18px">
-                                        Insert Mechanic/Problem/Something here
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseAAS" aria-expanded="true" aria-controls="collapseAAS" style="font-size: 18px">
+                                        Taking On The Programming Myself
                                     </a>
                                     </h2>                                
                                 </div>
-                                <div id="collapseMec7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                <div id="collapseAAS" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
                                     <div class="panel-body">
-                                        <p>Text here</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="panel panel-default">
-                                <div class="panel-heading active" role="tab" id="headingOne">
-                                    <h2 class="panel-title">
-                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec8" aria-expanded="true" aria-controls="collapseMec8" style="font-size: 18px">
-                                        Insert Second Mechanic/Problem/Something here
-                                    </a>
-                                    </h2>                                
-                                </div>
-                                <div id="collapseMec8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
-                                    <div class="panel-body">
-                                        <p>Text here</p>
+                                        <p>Being a solo-programmer on this game meant that <b>I had to handle a lot of work - And I was prepared for this!</b> Some things which I had to work on during this project involve source control, and implementing all my teams' models, and game mechanics inside of Unity (Our game engine). <img src="/assets/img/posts/YearTDEMO/aa.gif" style="width: 30%; border-radius: 10px 10px; float: right; margin: 30px">   <br /> As I mentioned, I asked the team if I can take on the entirety of the programming myself as a <b>personal challenge</b>, and I'm very happy they let me do that, as it allowed me to challenge myself, and although I got stressed near the end of the game jam, <b>it helped me learn what I can accomplish and what my limits are when working by myself on programming.</b><br /> A blog post titled <a href="https://www.edutopia.org/blog/can-stress-help-students-renee-jain" target="_blank" style="padding: 2px"> 'Can Stress Help Students?' </a> I read by Jain, (2015) talks about the <b>benefits of stress</b>, we usually see stress as a negative thing, but <a href="https://www.edutopia.org/blog/can-stress-help-students-renee-jain" target="_blank" style="padding: 2px"> "Thinking about stress as 'good' or performance-enhancing can work to your advantage" </a> as studies showed <a href="https://www.edutopia.org/blog/can-stress-help-students-renee-jain" target="_blank" style="padding: 2px"> "[people] primed with the mindset that stress was good for them - felt more productive and energetic."</a><br /> I didn't do this research during the game jam, but I know <b>for the future that I should try and see stress as a positive</b>, to <b>help me with productivity</b>, I would do this by thinking about the end product as I'm working toward it.<br /></p>
                                     </div>
                                 </div>
                             </div>
@@ -383,7 +363,42 @@ usemathjax: true
                     </div>
                     <br />
                     <h3> Reflection on Aqua Adventure </h3>
-                    <p>Reflection Work</p>
+                    <p>Overall, Aqua Adventure was a great opportunity to <b>challenge myself and test my limits.</b><br />For me, testing my limits was the most useful aspect of making this game, as <b>my reflection work allowed me to learn about how to handle stress in a better way</b>, which is something I'm hoping to apply in the future for whenever I feel myself getting overwhelmed.<br />I really liked how Aqua Adventure turned out as it's fun to play, and has wonderful assets which made the game look really nice! Because of the role I took on for this game jam, it was also down to me to make an environment level out of the assets given, which gave me some creative freedom! <br /> To improve the game, I think <b>more mechanics</b> need to be put in, like <b>enemy AI</b> so they can attack the player, which means a health system would need to be put in, along with this I think we needed something in the game to use the <b>somersault and barrelroll</b> mechanic with, as that was implemented but never used!<br />My <b>Image Creation module</b> helped me out the most with this game, as I had to work on <b>environmental colours</b>, which was a topic that was covered within those lectures.<br /></p>                    
+                    <img src="/assets/img/posts/YearTDEMO/aa1.PNG" style="width: 30%; border-radius: 10px 10px; float: right; margin: 30px">  <h3> Ranking, Group & Player Feedback </h3>
+                    <p>Aqua Adventure ranked <b>#4</b> Overall, which isn&rsquo;t too bad!<br /> A summary of the feedback which we had gotten on the game was mostly about <b>how the barrel rolling and somersaulting mechanics didn&rsquo;t do anything for the game</b>, along with this, players also mentioned the <b>lack of communication between the game and player</b>, so the player didn&rsquo;t know how to win, this is due to <b>time constraints</b>, so given the opportunity to work on this game again, those are amongst the <b>first things which would be worked on.</b><br /><br />I asked for feedback from the rest of the group on how I performed during the game jam, and Tessa&rsquo;s feedback really <b>helped me realize that I need to step down a little bit.</b> <br />As I was only a programmer for this game, <i>I shouldn&rsquo;t be doing any leading</i>, upon talking to Tessa, she helpfully explained her feedback in more detail, Tessa told me that: &ldquo;Your eagerness in some parts of the project felt like you were trying to be a team lead yourself.&rdquo; I didn&rsquo;t mean to do this, so her being honest with me about this made me realize that in the future I should step back a bit and <b>re-evaluate how I'm altering the team dynamic.</b> Another point Tessa raised was that &ldquo;[my] timetabling felt a little controlling.&rdquo; &ndash; In a way, I think that was because <b>I always schedule out my entire day</b>, every day as it&rsquo;s a good habit of mine, and it <b>personally helps me get work done</b>, but <b>I need to learn that everyone works differently!</b> To improve so I don&rsquo;t come off as controlling, I should instead <b>trust a little more and work my schedule around everyone else&rsquo;s.</b><br /> </p>
+                    <details> 
+                        <summary>Personal Feedback</summary> 
+                        <table>
+                          <tr>
+                            <th>Name</th>
+                            <th>Feedback</th>
+                          </tr>
+                          <tr>
+                            <td>Denisa</td>
+                            <td>She did all of the programming, per her own wish, and she did an amazing job at it. The game runs smoothly and she did catch any major bugs before it got to our QA phase.</td>
+                          </tr>
+                          <tr>
+                            <td>Hayley</td>
+                            <td>Amy, I love the job you did on the programming and I love how it turned out, the effort you put in was alot and you definitely demonstrated effective communication. It was a pleasure to work with you.</td>
+                          </tr>
+                          <tr>
+                            <td>Hannah</td>
+                            <td>Amy put her blood sweat and tears into the project managing to pull the team through the coding aspect of the group as well as implementing our teams assets and compiling the game. She was keen to get the work done and helped the rest of her teammates where possible.</td>
+                          </tr>
+                          <tr>
+                            <td>Abby</td>
+                            <td>Worked super hard to get all of our assets into the game, especially happy with her work as she was the only programmer and she managed to implement so much.</td>
+                          </tr>
+                          <tr>
+                            <td>Scarlett</td>
+                            <td>amy did really good work as she did all the programming and put the whole thing together! amy worked very hard to make our game what it was and I/ our group appreciated it a lot.</td>
+                          </tr>
+                          <tr>
+                            <td>Tess</td>
+                            <td>Although Amy at times seemed quite controlling, I cannot fault the amount of work she has done – building the game by herself is no easy feat! I appreciate the extra time she put in to make sure everyone’s assets were included as well. I am also thankful for the Trello board organising she did after we set her the task (as she seemed very excited by it). Nice work, Amy!.</td>
+                          </tr>
+                        </table>                        
+                    </details>     
                     <br />
                     <iframe frameborder="0" src="https://itch.io/embed/838435?border_width=2&amp;bg_color=1c1c1e&amp;fg_color=ffffff&amp;border_color=1c1c1e" width="100%" height="169" style="box-shadow: 1px 2px 8px #151517"><a href="https://amy-elliott.itch.io/aqua-adventure">Aqua Adventure by Amy Elliott, scarlettyeats0, up2015448TessaSmith, Hannahwaard, UP2022388 Hayley L, Denisa Maximova-2032161, Abbymcgreavey1</a></iframe>
                 </div>
