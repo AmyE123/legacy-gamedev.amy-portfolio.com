@@ -398,7 +398,32 @@ usemathjax: true
                             <td>Although Amy at times seemed quite controlling, I cannot fault the amount of work she has done – building the game by herself is no easy feat! I appreciate the extra time she put in to make sure everyone’s assets were included as well. I am also thankful for the Trello board organising she did after we set her the task (as she seemed very excited by it). Nice work, Amy!.</td>
                           </tr>
                         </table>                        
-                    </details>     
+                    </details> 
+                    <details> 
+                        <summary>Teams Opinion On The Game</summary> 
+                        <table>
+                          <tr>
+                            <th>Name</th>
+                            <th>Game Rating</th>
+                            <th>Opinion</th>
+                          </tr>
+                          <tr>
+                            <td>Denisa</td>
+                            <td style="background-color: #74ff2630">7/10</td>
+                            <td>I enjoyed working with this team. Co-leading with Tessa was a great experience in project management, especially time management and task delegation. Everyone did their part, which allowed me to focus on my own tasks. Great team to work with, would happily do so again.</td>
+                          </tr>
+                          <tr>
+                            <td>Hayley</td>
+                            <td style="background-color: #ff9a264d">6/10</td>
+                            <td>Working with everyone was a challenge, the modelling helped cement my basic 3D modelling skills and the video (whilst i'm still a little embarrased about it) came out fairly well and I'm low key proud of it.</td>
+                          </tr>
+                          <tr>
+                            <td>Tess</td>
+                            <td style="background-color: #74ff2630">8/10</td>
+                            <td>Learning how to make music and sounds without the software I learnt from College was difficult but fun. I enjoyed working with the team, leadership and management was good experience (especially with Denisa's helping hand), and I would happily work with the team again.</td>
+                          </tr>
+                        </table>                       
+                    </details>                    
                     <br />
                     <iframe frameborder="0" src="https://itch.io/embed/838435?border_width=2&amp;bg_color=1c1c1e&amp;fg_color=ffffff&amp;border_color=1c1c1e" width="100%" height="169" style="box-shadow: 1px 2px 8px #151517"><a href="https://amy-elliott.itch.io/aqua-adventure">Aqua Adventure by Amy Elliott, scarlettyeats0, up2015448TessaSmith, Hannahwaard, UP2022388 Hayley L, Denisa Maximova-2032161, Abbymcgreavey1</a></iframe>
                 </div>
@@ -423,28 +448,111 @@ usemathjax: true
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
                                     <h2 class="panel-title">
-                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec9" aria-expanded="true" aria-controls="collapseMec9" style="font-size: 18px">
-                                        Insert Mechanic/Problem/Something here
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSSGR" aria-expanded="true" aria-controls="collapseSSGR" style="font-size: 18px">
+                                        Group Research
                                     </a>
                                     </h2>                                
                                 </div>
-                                <div id="collapseMec9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                <div id="collapseSSGR" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
                                     <div class="panel-body">
-                                        <p>Text here</p>
+                                        <p>As a group, and as divided specialisms, we all began doing research into things we may need to know, and we shared these things. <br /> We also had our own group Zotero. Zotero is a <a href="https://en.wikipedia.org/wiki/Zotero" target="_blank" style="padding: 2px"> "reference management software to manage bibliographic data and related research materials" </a> (‘Zotero’, 2021) We used the Zotero to put useful videos and guides to help everyone out on.<br />
+                                        <img src="/assets/img/posts/YearTDEMO/ss1.png" style="width: 50%; border-radius: 10px 10px; float: right; margin: 30px">  We also put together <b>group discussions calls</b>, where we <b>proposed new ideas to grow our understanding</b> of what we will end up making by the end of this.<br />
+                                        As of January, when we were doing these calls and collecting research, we had researched into all areas of things.<br />
+                                        For our general research, we done a lot of research into <a href="https://science.howstuffworks.com/transport/engines-equipment/submarine.htm" target="_blank" style="padding: 2px"> How Submarines Work </a> (How Submarines Work, 2000), into <a href="https://youtu.be/BTis6GioP2g" target="_blank" style="padding: 2px"> How Submarines Dive and Surface </a> (Science Channel, 2016), and into <a href="https://youtu.be/3CMvMaUtd0Q" target="_blank" style="padding: 2px"> what it’s like on a submarine. </a> (Navy Lookout, 2020; Royal Navy Personnel in the Control Room on HMS Vigilant, Submarine..., n.d.; Ship Control Station, n.d.) <br />
+                                        For our art research, the modellers looked into <a href="https://www.substance3d.com/products/substance-designer/" target="_blank" style="padding: 2px"> substance designer </a>, the documentation tells us that <a href="https://docs.substance3d.com/sddoc/substance-designer-overview-129368161.html" target="_blank" style="padding: 2px"> "Substance Designer is an application intended for creating 2D textures, materials and effects in a node-based interface, with a heavy focus on procedural generation, parametrisation and non-destructive workflows"</a>, the modellers used a <a href="https://youtu.be/BrIEYW59ld4" target="_blank" style="padding: 2px"> guide to learning substance </a> (The DiNusty Empire, 2016) and <a href="https://youtu.be/BbZ7ip-eCcI" target="_blank" style="padding: 2px"> research into how to unwrap </a> (ChamferZone, 2017).<br />
+                                        For the programming research, we had a look into a few things regarding <a href="https://locomotionvault.github.io/?fbclid=IwAR1WLkyIrrfxQmfGaKOJj7xT4YT2kNRs3PfFxU6WTKR5FWJwVm1HjrEXKhc" target="_blank" style="padding: 2px"> VR </a> and <a href="https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization" target="_blank" style="padding: 2px"> Networking </a>, (Latency Compensating Methods in Client/Server In-Game Protocol Design and Optimization - Valve Developer Community, n.d.; Locomotion Vault, n.d.) I didn’t personally do this research as this was something Aurora and George were looking into. <br />
+                                        The research I helped out with was a lot of the <b>general stuff</b> in the early stages, as I wasn’t thinking much about the programming side of things yet, as we haven’t delved into even a prototype at this point yet.</p>                                                                               
                                     </div>
                                 </div>
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
                                     <h2 class="panel-title">
-                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseMec10" aria-expanded="true" aria-controls="collapseMec10" style="font-size: 18px">
-                                        Insert Second Mechanic/Problem/Something here
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSSIR" aria-expanded="true" aria-controls="collapseSSIR" style="font-size: 18px">
+                                        Individual Research
                                     </a>
                                     </h2>                                
                                 </div>
-                                <div id="collapseMec10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                <div id="collapseSSIR" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
                                     <div class="panel-body">
-                                        <p>Text here</p>
+                                        <p>At this point I was only told to <i>study Unreal Engine and C++ over the Christmas break</i>, to get comfortable with using Unreal with a combination of Blueprints and C++. Previously, I had done my own research and study into Unreal and C++, but I hadn’t ever applied it to a final game before.<br />
+                                        <img src="/assets/img/posts/YearTDEMO/ss2.png" style="width: 40%; border-radius: 10px 10px; float: right; margin: 30px">  I began my study of Unreal by going through the <a href="https://docs.unrealengine.com/en-US/index.html" target="_blank" style="padding: 2px"> Unreal Engine Documentation </a> and taking notes on important things, which I can use as a reference when I’m stuck. In addition to using it as a reference, <b>writing out notes this way helps me remember and study them much better.</b><br />
+                                        I studied lots of basics, like the <b>most important workflows</b> when working in Unreal, <b>Player Movement, Input Checking</b> and <b>Interacting</b> with things, and <b>User Interface</b>. I personally found the <a href="https://docs.unrealengine.com/en-US/Basics/UnrealEngineForUnityDevs/index.html" target="_blank" style="padding: 2px"> Unity to Unreal documentation </a> (Unreal Engine 4 For Unity Developers, n.d.) very helpful to pick up things a lot quicker, as it used terms that I’m familiar with.<br />
+                                        Another source that I used to study was the book Understanding the Basics of Blueprints (Ferro, n.d.). I didn’t study the whole book, but I read the entirety of chapter 2. I have also done some research into the Planesman using a <a href="https://americanhistory.si.edu/subs/operating/attackcenter/controlstation/index.html" target="_blank" style="padding: 2px"> web page </a> (Ship Control Station, n.d.) which talked about submarine movement in much more detail, I also looked into some terms, like Yaw and Rudder, and found a <a href="https://www.researchgate.net/figure/The-six-degree-of-freedom-model-of-submarine_fig1_274622739" target="_blank" style="padding: 2px"> picture that showcases the six-degree-of-freedom model of a submarine </a> (Figure 1. The Six Degree-of-Freedom Model of Submarine, n.d.), this helped me understand these terms.</p>                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="panel panel-default">
+                                <div class="panel-heading active" role="tab" id="headingOne">
+                                    <h2 class="panel-title">
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSSIP" aria-expanded="true" aria-controls="collapseSSIP" style="font-size: 18px">
+                                        Individual Prototypes
+                                    </a>
+                                    </h2>                                
+                                </div>
+                                <div id="collapseSSIP" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                    <div class="panel-body">
+                                        <p>In the first few months of development, nothing much was done to make the game at all, so I decided if nothing was going to be done, I would have to individually get started with <i>some sort of prototype.</i><br />
+                                        <b>We were still using Unreal Engine at this point, and I was not confident with using that at the time</b>, so I decided for the <b>purposes of prototyping and idea generation I would use Unity</b>, and another thing I would avoid is the whole ‘VR’ stuff as I haven’t got my own VR which is compatible, I would <b>aim to make this prototype work with mouse controls</b>, and maybe some keyboard presses. <b>This means our whole team could use and play it.</b></p>
+                                        <img src="/assets/img/posts/YearTDEMO/ss.gif" style="width: 40%; border-radius: 10px 10px; float: right; margin: 30px">  <p>I didn’t spend too long on this prototype, there <b>isn’t any functionality in it besides camera movement</b>, but <i>even doing something like this</i> sparked ideas!<br />
+                                        I used Liam’s basic block out to get an idea of the scale of the place and how I could work with it, at this point, the team was still confused on the brief, we hadn’t been in a submarine, we had no idea what it looked like and we only had a basic idea of what a planesman and periscope operator actually do.<br />
+                                        With this barebones blockout-with-camera-controls-prototype I whacked together quickly, I had these ideas for our future development:</p>
+                                        <ul>
+                                            <li><b>The game doesn’t necessarily need to be built from the ground-up with VR implemented</b>, most of our group, except one person had a VR headset to test on, so it would be <b>easier for testing purposes to have mouse controls</b> so everyone could work on the game if they wanted to.</li>                                             
+                                            <li>We could <b>plan and develop the game in singleplayer</b> first, and then switch over to the multiplayer once we got all the basics down for the game.</li>
+                                            <li>We could <b>switch between the planesman and periscope operator</b> with a UI button.</li>
+                                            <li>It made me realise that <b>we were focusing on stuff we shouldn’t be focusing on first</b>, as we were <b><i>worrying too much</i> about the multiplayer and VR functionality rather than the actual game</b>, even though they’re important, the actual game needs to work first, and the mechanics can be thrown together in a <b>gamejam</b></li>
+                                        </ul>
+                                        <p>After I completed the prototype and we were in a group voice call, I proposed my ideas, and how <b>we should switch over to Unity because the majority of us knew how to use Unity and we only had limited time, which wouldn't be long enough for all of us to learn Unreal.</b><br />
+                                        <b>I proposed the singleplayer idea</b> and <b>how we should focus on the game instead of the multiplayer and the VR for now</b>, and then from this call, we discussed running a gamejam over the weekend to get as much of the <b>basic game done and implemented</b>, as our team was being a bit slow in general and this was because we all didn’t know exactly what to do.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="panel panel-default">
+                                <div class="panel-heading active" role="tab" id="headingOne">
+                                    <h2 class="panel-title">
+                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSSGP" aria-expanded="true" aria-controls="collapseSSGP" style="font-size: 18px">
+                                        Group Prototypes
+                                    </a>
+                                    </h2>                                
+                                </div>
+                                <div id="collapseSSGP" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne" style="margin-left: 50px">
+                                    <div class="panel-body">
+                                        <img src="/assets/img/posts/YearTDEMO/gjss1.gif" style="width: 30%; border-radius: 10px 10px; float: right; margin: 30px">  <h3>Group Game Jam (13th - 15th Feb)</h3>
+                                            <p>This is one of the <b>smarter moves for the group</b>, as we all knew we weren’t getting anywhere as of now, we knew we needed to do something, and that is why we arranged the gamejam.<br />
+                                            <b>I hoped that everyone in the group would attend</b>, but unfortunately, they didn’t so there was a lot of work to do, which meant that we done what we planned but not to the <b>quality</b> that we wanted.<br />
+                                            We made a trello board just for the gamejam which we worked our way though, and at this point, our 3D modellers Rob and Liam had already finished their submarine models.</p>
+                                        <h4>First Day of Gamejam (12/02: 6pm start)</h4>
+                                            <p>The first day of the gamejam was slow. We started at 6pm in the evening, at the beginning we all <b>made a plan in Miro</b> on how we would approach this project.<br />
+                                            <img src="/assets/img/posts/YearTDEMO/gjss2.jpg" style="width: 40%; border-radius: 10px 10px; float: right; margin: 30px">  Our plan looked into <b>the gameplay loop, the time frame, and the different controls, and any challenges we can add in to add difficulty to the game.</b><br />
+                                            We planned the Periscope and Planesman mode out separately, but starting with the Periscope mode, we split it into 2, an ‘IN the periscope’ mode and a ‘Human Mode’ and from here we began going into detail about what each of those jobs done, and as we were describing this we decided to reference our brief which we had previously put together. Having it in a graph like this makes it seem like much less work is needed to be done.<br />
+                                            With the Human Mode, we just had to take notes on <b>how they would input their findings.</b><br />
+                                            For the Planesman notes, we wrote about <b>what they would do</b>, and that wasn’t very much. <br />
+                                            The rest of the Miro board had the <b>gameplay description</b>, which was a written summary on how we imagine it would flow, which had some ideas around it.<br />
+                                            When we moved onto Unity, Aurora was adding the planesman room and the periscope room with their textures, and I was working on adding <b>packages and working on the camera splines</b> for the Periscope room.<br />
+                                            For the periscope room, I decided to use splines for the cinematic transitions between using the periscope and going over to the input panel, at this point they were just simple cameras moving along splines, there was no transitions between the two.</p>
+                                        <h4>Second Day of Gamejam (12/02)</h4>
+                                            <p>On this day I worked on a <b>whole bunch of things</b>, our planning on the Miro board was done, but we kept using the Trello.<br />
+                                            I began working on the <b>script to switch between the periscope and using the control panel for the periscope room.</b><br />
+                                            After that I worked on the <b>package management</b>, importing <a href="https://assetstore.unity.com/packages/tools/particles-effects/aura-2-volumetric-lighting-fog-137148" target="_blank" style="padding: 2px">Aura 2</a> and <a href="http://dotween.demigiant.com/getstarted.php" target="_blank" style="padding: 2px">DOTween.</a><br />
+                                            I imported Aura 2 for Rob to play around with the lighting, and to make the scenes look nicer.<br />
+                                            From here I worked on the <b>Planesman camera controls</b>, and much like my individual prototype, I used <a href="https://unity.com/unity/features/editor/art-and-design/cinemachine" target="_blank" style="padding: 2px">Cinemachine</a> to make a <b>‘first person’ feeling camera</b> which you can move around with your mouse, it also <img src="/assets/img/posts/YearTDEMO/gjss5.gif" style="width: 30%; border-radius: 10px 10px; float: right; margin: 30px">  has restrictions so you can’t go past certain angles looking up and down, and the camera slowly recentres to the control panel if you have it in one place for too long.<br />
+                                            From here I worked more on the periscope room and the planesman room, getting them to <b>crossfade</b> between each other, as snapping to the next camera feels unnatural.<br />
+                                            I made the crossfade with an image UI component, and I simply got it to fade in or out depending on the bool parameter which I enabled and disabled within the code when you press on the interactive buttons in the rooms. I also made the Fade UI a prefab so it can be used in any scene.<br />
+                                            <img src="/assets/img/posts/YearTDEMO/gjss6.gif" style="width: 30%; border-radius: 10px 10px; float: left; margin: 30px">  From here I then worked on <b>outputting stuff to the screen</b> as the planesman operator, this wasn’t too hard to do, and it also looked really cool! This was the basics of it though, so the clearing functions and minus functions on the keypad were not working at this point.<br />
+                                            Another thing I worked on during this day was the friend which will be sitting next to you when you’re in the planesman room.<br />
+                                            Usually there would be 2 planesman in a submarine sitting side by side, and for this, we voted on a character in a poll which we have taken from Mixamo, for now this character is a placeholder, and I picked to use Mixamo as it’s all free and has many many realistic animations which you can apply to models which either you have made or they’re pre made on the website.<br />
+                                            We ended up picking the gas mask character, as it means we wouldn’t have to worry about lip syncing when they give the instructions on how to play the game.<br />
+                                            He was also inserted into the game, and it made the planesman area feel so much more alive!</p>
+                                        <h4>Last Day of Gamejam (13/02)</h4>
+                                            <p>On the last day of the gamejam it was hard to get the rest of the programming stuff done, but that was just down to me arranging the gamejam date to be on a day where most people in our team were busy! I didn’t think I could get the rest of the programming stuff done on time.<br />
+                                            On things non-programming related, I worked on reinserting the lighting for the periscope room, as something happened in Rob’s lighting on the room which made things error, putting the lighting in was fun as I was able to work with fog and different colours, and it really gave more personality to the room. I also worked on optimizing the camera controls for the periscope room as I was working on the lighting another thing I worked on was putting some more props into all of the scenes to make them look more alive! These props came from Liam and Rob, and I really like how they clutter up the place more.<br />
+                                            I then began working on making the input screen more detailed, to display what we need it to and getting the minus button and clear button working, now you can switch between putting in the yaw and pitch inputs in, but I doubt this format would be used for the final game as we need to plan a bit more about how this would all work in general.<br />
+                                            After this I began working on the actual periscope, as of now there is no ‘sea’ in the game, but I’ve made targets which are any object tagged with target, and the periscope operator turns their camera according to some buttons, but this is all prototyping! this WILL be changed in the future!<br />
+                                            This was also added in as a button within the periscope room, so you can go in and out from using the periscope and being in the periscope room!<br />
+                                            Gabe also found some cool sound FX which we used on the buttons in the game to make using the control panel more fun to use!<br />
+                                            And that was pretty much what I had done for the gamejam, it was a lot of hard work, and it paid off! <br />
+                                            And because this one went so well, we decided to do another one at some point which EVERY person on the team is going to attend!</p>
                                     </div>
                                 </div>
                             </div>
