@@ -56,6 +56,8 @@ usemathjax: true
                     <br /><br />
                     <p>Blocky Road is a <b>puzzle game</b>, designed to fit around the well-known <b>'Hypercasual' genre.</b>  I had to do some research into this genre before starting to make sure I was completely clear on what type of game I could make so I can begin thinking of ideas, this definition on Wikipedia summarised the genre very well: <a href = "https://en.wikipedia.org/wiki/Hyper-casual_game" target="_blank" style="padding: 2px"> “A hyper-casual game is a mobile video game which is easy-to-play and usually free-to-play; they also feature very minimalistic user interfaces.” </a> (‘Hyper-Casual Game’, 2021) <br /> My goal for this game jam project was to make a game which can do all of that, I had a week to make this game, but I couldn’t just work on this game as there was other university work to do as well within that week, so one of my main challenges was to be able to make an enjoyable Hyper casual game <b>within 9 hours.</b> </p>
                     <div class = "card">
+                        <iframe src="https://drive.google.com/file/d/1xUnJNABDKprSjj6J-bpHVCQsT5F683Ps/preview" width="100%" height="500" frameborder="0"></iframe>
+                        <hr>
                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
@@ -224,6 +226,8 @@ usemathjax: true
                     <br /><br />
                     <p>Poppin’ Hoppin’ Unlockin’ is a <b>puzzle game</b>, designed to fit around the <b>‘Platformer’ genre.</b> This genre is popular and most influenced from games such as Super Mario Bros because <a href="https://en.wikipedia.org/wiki/Platform_game" target="_blank" style = "padding: 2px"> “Its success as a pack-in led many companies to see platform games as vital to their success and contributed greatly to popularizing the genre during the 8-bit console generation.”</a> (‘Platform Game’, 2021). <br /> My teams’ goal for this game jam project was to make a stylish 3D platformer with a back story, we were all a bit more confident approaching this game jam as we had practice from the previous. Our group had <b>2 weeks to make this game</b>, but again, as we were a group there was less stress as each of us were working on a specialism. </p>
                     <div class = "card">
+                        <iframe src="https://drive.google.com/file/d/1deLSTMYxZiBX5j6h-fKWi9XlJmI5nTYA/preview" width="100%" height="500" frameborder="0"></iframe>
+                        <hr>
                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
@@ -344,7 +348,9 @@ usemathjax: true
                     <br /><br />
                     <p>Aqua Adventure is an <b>on-rails shooter game</b>, designed to fit around the <b>‘StarFox’ theme.</b> This theme is based off of, well, you guessed it; Nintendo’s beloved StarFox series! Mainly the 1993 title. <a href="https://en.wikipedia.org/wiki/Star_Fox" target="_blank" style="padding: 2px"> “StarFox is a spaceship shooter and third person action-adventure video game”</a> (<i>‘Star Fox’</i>, 2021) – This Wikipedia article is where we got the idea of what genres to base our game off of. <br /> My teams’ goal for this game jam was to make an underwater on-rails shooter, <b>we had 2 weeks.</b> This group mostly consisted of artists and 3D modellers, so I happily proposed to take on the entirety of the programming myself as a personal challenge. </p>
                     <div class = "card">
-                        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                        <iframe src="https://drive.google.com/file/d/1Lsjp-sLquA0sjiQp2OGtJFtKbMXT4TwD/preview" width="100%" height="500" frameborder="0"></iframe>
+                        <hr>
+                        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">                       
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
                                     <h2 class="panel-title">
@@ -449,6 +455,8 @@ usemathjax: true
                     <br /><br />
                     <p>Submarine Simulator is a <b>Planesman trainer</b>, designed and made for <b>The Royal Navy’s Recruitment Events.</b> Our target audience for this game are young teenagers ranging from 12-16, as they would be the ones attending these events. <br /> My teams’ goal for this game jam project was to make a fun and engaging, but short gameplay loop of around 90-120 seconds where the player gets to control both the planesman and the periscope view, and it also had to impress our clients! <br /> I gathered the group from other students who I’ve enjoyed working with in the past game jams or have seen good work from. Our group had around <b>5 months to make this simulator</b>, at the beginning, there was less stress as we were a 7-person group (including myself) so each of us worked on our own specialism, but nearer the end, it got a bit more stressful, as we all took on multiple specialisms to get the simulator finished on time. </p>
                     <div class = "card">
+                        <iframe src="https://drive.google.com/file/d/1WWCWUeE9DKs-CWJIH61bWjN6uZjfC-c3/preview" width="100%" height="500" frameborder="0"></iframe>
+                        <hr>
                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
@@ -564,7 +572,10 @@ usemathjax: true
                     </div>
                     <br />
                     <h3> Reflection on Submarine Simulator </h3>
-                    <p>Reflection Work</p>
+                        <p>Overall, Submarine Simulator was a great experience as we had a chance to <strong>work with a client on a given brief</strong>.<br />For me, the most important experience making the game is working with a group of people who I now consider great friends and would love to work with in the future, working with this group has greatly helped me with my <strong>social and team working skills</strong>.<br />This project also taught me about the <strong>importance of communicating with our client</strong>, an example demonstrating this was the <strong>trouble we had with implementing the VR and Networking</strong> which was wanted on the brief, and we couldn't implement them due to covid and time restrictions, so, as a team, we proposed an <strong>alternative, feasible approach of the game</strong> to our client which didn't require those features, and they were happy with the idea, which in turn allowed us to produce a higher quality experience to the player.</p>
+                        <p>I really like how Submarine Simulator has turned out as it’s fun to play, and it looks really nice due to the great models made by our modelers. And due to the size of the team, we <strong>all</strong> got a sprinkle of creative freedom no matter what role we took on!</p>
+                        <p>To improve the Submarine Simulator, we would add compatibility with <strong>Virtual Reality</strong>, to allow the user to experience the game from the actual first-person experience they were meant to, along with this, we would add a <strong>multiplayer challenge</strong>, so the game fits the originally given brief.</p>
+                        <p>My EPortfolio module helped me out the most with developing this game, as during our meetings with our client, we needed to <strong>present ourselves the best way possible</strong>, as we wanted them to see us as <strong>professionals</strong> and not students, and one of our Eportfolio lessons was on exactly this! It was very useful to know the best way to do this.</p>
                     <details> 
                         <summary>Personal Feedback</summary> 
                         <table>
@@ -617,5 +628,203 @@ usemathjax: true
 
 <h2> Final Evaluation & Reflection </h2>
 <p>text here</p>
+
+<!-- <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+  google.charts.load('current', {'packages':['bar']});
+  google.charts.setOnLoadCallback(DrawChart);
+  function DrawChart() {
+    var data = google.visualization.arrayToDataTable([
+      ['Short Shipment', 'Product Questions', 'Product Service Request', 'Billing Question','Product Issue','Return or Exchange Request','- None -'],
+      [1, 3, 4, 8, 8, 11, 283]]);
+
+
+    var options = {
+      chart: {
+        title: 'Case Issue Summary'
+
+      },
+      bars: 'horizontal' 
+    };
+
+    var chart = new google.charts.Bar(document.getElementById('BarChartCase'));
+
+    chart.draw(data, options);
+  }
+</script>
+<body padding="0.5in 0.5in 0.5in 0.5in" size="Letter">
+<div id="BarChartCase" style="width: 900px; height: 500px;">&nbsp;</div> -->
+
+<!-- <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+  google.charts.load('current', {'packages':['line']});
+  google.charts.setOnLoadCallback(DrawChart);
+  function DrawChart() 
+  {
+    var data = new google.visualization.DataTable();
+    data.addColumn('number', 'Criteria');
+    data.addColumn('number', 'Blocky Road');
+    data.addColumn('number', 'Pet Pal');
+    data.addColumn('number', 'Poppin Hoppin Unlockin');
+    data.addRows([
+        [1,  37.8, 80.8, 41.8],
+        [2,  30.9, 69.5, 32.4],
+        [3,  25.4,   57, 25.7],
+        [4,  11.7, 18.8, 10.5],
+        [5,  11.9, 17.6, 10.4],
+        [6,   8.8, 13.6,  7.7],
+        [7,   7.6, 12.3,  9.6],
+        [8,  12.3, 29.2, 10.6],
+        [9,  16.9, 42.9, 14.8],
+        [10, 12.8, 30.9, 11.6],
+        [11,  5.3,  7.9,  4.7],
+        [12,  6.6,  8.4,  5.2],
+        [13,  4.8,  6.3,  3.6],
+        [14,  4.2,  6.2,  3.4]
+    ]);    
+    var options = {
+        chartArea: 
+        {
+            'backgroundColor': {
+                'fill': '#F4F4F4',
+                'opacity': 100
+            },
+        },
+        backgroundColor: {
+            fill: '#1c1c1e',
+            fillOpacity: 0
+        },                
+        chart: {
+            title: 'Box Office Earnings in First Two Weeks of Opening',
+            subtitle: 'in millions of dollars (USD)'           
+        },
+        bars: 'horizontal',     
+    };
+    var chart = new google.charts.Line(document.getElementById('linechart_material'));
+    chart.draw(data, google.charts.Line.convertOptions(options));
+  }
+</script>
+<body padding="0.5in 0.5in 0.5in 0.5in" size="Letter">
+<div id="linechart_material" style="width: 100%; height: 500px;">&nbsp;</div> -->
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+  google.charts.load('current', {'packages':['corechart']});
+  google.charts.setOnLoadCallback(DrawChart);
+  function DrawChart() 
+  {
+    var data = google.visualization.arrayToDataTable([
+        ['Game', 'Team Average Rating', 'My Personal Rating'],
+        ['Blocky Road',  9, 9],
+        ['Pet Pal',  3.75, 2],
+        ['Poppin Hoppin Unlockin',  8.4, 9],  
+        ['Aqua Adventure',  7, 7],  
+        ['Submarine Simulator',  7.3, 8],      
+    ]);
+    var options = {       
+        chartArea: 
+        {
+            'backgroundColor': {
+                'fill': '#F4F4F4',
+                'opacity': 80
+            },
+        },         
+        backgroundColor: {
+            fill: '#1c1c1e',
+            fillOpacity: 0
+        }, 
+        hAxis: {
+            textStyle: {
+                color: "#bcbcbc"
+            },
+            gridlines: {
+                color: "#bcbcbc"
+            },
+            baselineColor: '#bcbcbc'
+        },
+        vAxis: {
+            textStyle: {
+                color: "#bcbcbc"
+            },
+            gridlines: {
+                color: "#bcbcbc"
+            },
+            baselineColor: '#bcbcbc'
+        }, 
+        legendTextStyle: {
+            color: "#bcbcbc"
+        },   
+        titleTextStyle: {
+            color: "#bcbcbc"
+        },                                                   
+        title: 'Game Rating (Out of 10)',
+        legend: { position: 'right' }                    
+    };
+    var chart = new google.visualization.LineChart(document.getElementById('curve_chart_rank'));
+    chart.draw(data, options);
+  }
+</script>
+<!-- <body padding="0.5in 0.5in 0.5in 0.5in" size="Letter"> -->
+<div id="curve_chart_rank" style="width: 100%; height: 500px;">&nbsp;</div>
+
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+  google.charts.load('current', {'packages':['corechart']});
+  google.charts.setOnLoadCallback(DrawChart);
+  function DrawChart() 
+  {
+    var data = google.visualization.arrayToDataTable([
+        ['Criteria', 'Blocky Road', 'Pet Pal', 'Poppin Hoppin Unlockin', 'Aqua Adventure'],
+        ['Most Innovative',  1, 17, 12, 5],
+        ['Best Gameplay',  2, 12, 15, 7],
+        ['Overall',  1, 15, 15, 4],        
+    ]);
+    var options = {       
+        chartArea: 
+        {
+            'backgroundColor': {
+                'fill': '#F4F4F4',
+                'opacity': 80
+            },
+        },         
+        backgroundColor: {
+            fill: '#1c1c1e',
+            fillOpacity: 0
+        }, 
+        hAxis: {
+            textStyle: {
+                color: "#bcbcbc"
+            },
+            gridlines: {
+                color: "#bcbcbc"
+            },
+            baselineColor: '#bcbcbc'
+        },
+        vAxis: {
+            textStyle: {
+                color: "#bcbcbc"
+            },
+            gridlines: {
+                color: "#bcbcbc"
+            },
+            baselineColor: '#bcbcbc',
+            direction: -1
+        }, 
+        legendTextStyle: {
+            color: "#bcbcbc"
+        },   
+        titleTextStyle: {
+            color: "#bcbcbc"
+        },                                                   
+        title: 'Ranking in each criteria (Data from itch.io)',
+        legend: { position: 'right' },                 
+    };
+    var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+    chart.draw(data, options);
+  }
+</script>
+<!-- <body padding="0.5in 0.5in 0.5in 0.5in" size="Letter"> -->
+<div id="curve_chart" style="width: 100%; height: 500px;">&nbsp;</div>
 
 <hr>
