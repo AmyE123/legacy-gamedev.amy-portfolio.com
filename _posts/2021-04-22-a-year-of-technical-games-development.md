@@ -31,7 +31,7 @@ usemathjax: true
 <!--- -------------------------------------------------------------------- -->
 <!--- This is for the main description of the game, this is very important -->
 <!--- -------------------------------------------------------------------- -->
-<p>One of my favourite modules in University has to be my Technical Games Development module (TDEMO), this module helped me learn to develop my core team working skills for use in games development, as well as this, it helped me develop my awareness of group dynamics, and gave me the opportunity to test out any potential career paths and the problems usually faced in those. <br /><br /> For this module, I made <b>5 games</b>, and in this blog I will be discussing and comparing a handful of important mechanics & problems from each of them, I would also be reflecting on those games and what I've learnt from them, and how the materials learnt in other modules have impacted my approach to certain games and mechanics made in this module.</p>
+<p>One of my favourite modules in University has to be my Technical Games Development module (TDEMO), this module helped me learn to develop my core team working skills for use in games development, as well as this, it helped me develop my awareness of group dynamics, and gave me the opportunity to test out any potential career paths and the problems usually faced in those. <br /><br /> For this module, I made <b>5 games</b>, and in this blog I will be discussing and comparing a handful of mechanics & problems from each of them, I would also be reflecting on those games and what I've learnt from them, and how the materials learnt in other modules have impacted my approach to certain games and mechanics made in this module.</p>
 
 <hr>
 
@@ -422,6 +422,11 @@ usemathjax: true
                             <td style="background-color: #74ff2630">8/10</td>
                             <td>Learning how to make music and sounds without the software I learnt from College was difficult but fun. I enjoyed working with the team, leadership and management was good experience (especially with Denisa's helping hand), and I would happily work with the team again.</td>
                           </tr>
+                          <tr>
+                            <td>Abby</td>
+                            <td style="background-color: #74ff2630">7/10</td>
+                            <td>using 3DS max was a challenge, I wasn't comfortable using 3DS max at the time but after i got the hang of it, it was fairly simple and fun, I enjoyed working with the team and I am very proud of our game we made, I would to do something like this again.</td>
+                          </tr>                          
                         </table>                       
                     </details>                    
                     <br />
@@ -545,14 +550,13 @@ usemathjax: true
                                             We ended up picking the gas mask character, as it means we wouldn’t have to worry about lip syncing when they give the instructions on how to play the game.<br />
                                             He was also inserted into the game, and it made the planesman area feel so much more alive!</p>
                                         <h4>Last Day of Gamejam (13/02)</h4>
-                                            <p>On the last day of the gamejam it was hard to get the rest of the programming stuff done, but that was just down to me arranging the gamejam date to be on a day where most people in our team were busy! I didn’t think I could get the rest of the programming stuff done on time.<br />
-                                            On things non-programming related, I worked on reinserting the lighting for the periscope room, as something happened in Rob’s lighting on the room which made things error, putting the lighting in was fun as I was able to work with fog and different colours, and it really gave more personality to the room. I also worked on optimizing the camera controls for the periscope room as I was working on the lighting another thing I worked on was putting some more props into all of the scenes to make them look more alive! These props came from Liam and Rob, and I really like how they clutter up the place more.<br />
-                                            I then began working on making the input screen more detailed, to display what we need it to and getting the minus button and clear button working, now you can switch between putting in the yaw and pitch inputs in, but I doubt this format would be used for the final game as we need to plan a bit more about how this would all work in general.<br />
-                                            After this I began working on the actual periscope, as of now there is no ‘sea’ in the game, but I’ve made targets which are any object tagged with target, and the periscope operator turns their camera according to some buttons, but this is all prototyping! this WILL be changed in the future!<br />
-                                            This was also added in as a button within the periscope room, so you can go in and out from using the periscope and being in the periscope room!<br />
-                                            Gabe also found some cool sound FX which we used on the buttons in the game to make using the control panel more fun to use!<br />
-                                            And that was pretty much what I had done for the gamejam, it was a lot of hard work, and it paid off! <br />
-                                            And because this one went so well, we decided to do another one at some point which EVERY person on the team is going to attend!</p>
+                                            <img src="/assets/img/posts/YearTDEMO/gjss7.png" style="width: 30%; border-radius: 10px 10px; float: left; margin: 30px"><p>On the last day of the gamejam it was <strong>hard</strong> to get the rest of the programming stuff done, but that was just down to me arranging the gamejam date to be on a day where <strong>most people in our team were busy</strong>! I didn’t think I could get the rest of the programming stuff done on time.</p>
+                                            <p>On things non-programming related, I worked on <strong>reinserting the lighting for the periscope room</strong>, as something happened in Rob’s lighting on the room which made things error, putting the lighting in was fun as I was able to work with fog and different colours, and it really <strong>gave more personality to the room</strong>. <img src="/assets/img/posts/YearTDEMO/gjss9.png" style="width: 30%; border-radius: 10px 10px; float: right; margin: 30px"> I also worked on <strong>optimizing the camera controls</strong> for the periscope room as I was working on the lighting another thing I worked on was <strong>putting some more props into all of the scenes to make them look more alive!</strong> These props came from Liam and Rob, and I really like how they clutter up the place more.</p>
+                                            <p>I then began working on <strong>making the input screen more detailed</strong>, to display what we need it to and getting the minus button and clear button working, now you can switch between putting the yaw and pitch inputs in, but I doubt this format would be used for the final game as we need to plan a bit more about how this would all work in general.</p>
+                                            <img src="/assets/img/posts/YearTDEMO/gjss10.gif" style="width: 30%; border-radius: 10px 10px; float: left; margin: 30px"> <p>After this I began working on the actual periscope, as of now there is no ‘sea’ in the game, but <strong>I’ve made targets which are any object tagged with target</strong>, and the periscope operator turns their camera according to some buttons, but this is all prototyping! this WILL be changed in the future!</p>
+                                            <p>This was also added in as a button within the periscope room, so you can go in and out from using the periscope and being in the periscope room!</p>
+                                            <p>Gabe also found some cool sound FX which we used on the buttons in the game to make using the control panel more fun to use!</p>
+                                            <p>And that was pretty much what I had done for the gamejam, it was a lot of hard work, and it paid off! <br />And because this one went so well, we decided to do another one at some point which <strong>EVERY person on the team is going to attend</strong>!</p>                                            
                                     </div>
                                 </div>
                             </div>
@@ -561,6 +565,48 @@ usemathjax: true
                     <br />
                     <h3> Reflection on Submarine Simulator </h3>
                     <p>Reflection Work</p>
+                    <details> 
+                        <summary>Personal Feedback</summary> 
+                        <table>
+                          <tr>
+                            <th>Name</th>
+                            <th>Feedback</th>
+                          </tr>
+                          <tr>
+                            <td>Liam</td>
+                            <td>Working with Amy she showed fantastic knowledge of programming, C# and the Unity engine. She worked hard and was more than happy to help anyone who needed it. She was incredibly professional throughout and a great source of motivation. I look forward to working with her again.</td>
+                          </tr>
+                          <tr>
+                            <td>Ethan</td>
+                            <td>I worked along side Amy on our Submarine simulator. She worked on various aspects of the core gameplay elements and fixed many of the large bugs within the game. She has worked tirelessly on every aspect of the game, pushing herself to her limits, whilst helping all of us out with our own tasks. I see her willingness and motivation as an inspiration for our team.</td>
+                          </tr>                          
+                        </table>                        
+                    </details> 
+                    <details> 
+                        <summary>Teams Opinion On The Game</summary> 
+                        <table>
+                          <tr>
+                            <th>Name</th>
+                            <th>Game Rating</th>
+                            <th>Opinion</th>
+                          </tr>
+                          <tr>
+                            <td>Liam</td>
+                            <td style="background-color: #74ff2630">7/10</td>
+                            <td>Due to covid restrictions and other things the game did not reach the original brief, however what we did manage to achieve was a smooth and interesting experience that looked nice  and was fun to play.</td>
+                          </tr>   
+                          <tr>
+                            <td>Ethan</td>
+                            <td style="background-color: #74ff2630">7/10</td>
+                            <td>Although the game didn't reach the standards within our original brief, our game turned out pretty well. The visual aspect of the game are very well done and provides a tense atmosphere. Although it worked and played decently from a mechanical stand point, it was over complicated. Many features not being explained well for the player to understand them fully, leading to a more confusing player experience.</td>
+                          </tr>                                                   
+                          <tr>
+                            <td>Gabe</td>
+                            <td style="background-color: #74ff2630">8/10</td>
+                            <td>Sound could be better and there's a couple small things with the ships like some of the wakes being not quite right and the ship movement being a little unrealistic.</td>
+                          </tr>                                                   
+                        </table>                       
+                    </details>                     
                 </div>
             </div>
         </div>
