@@ -429,6 +429,11 @@ usemathjax: true
                             <td>Learning how to make music and sounds without the software I learnt from College was difficult but fun. I enjoyed working with the team, leadership and management was good experience (especially with Denisa's helping hand), and I would happily work with the team again.</td>
                           </tr>
                           <tr>
+                            <td>Scarlett</td>
+                            <td style="background-color: #74ff2630">8/10</td>
+                            <td>This team was really nice to work with. This helped me improve my 3dsmax skills. I'm proud of the game we made, everyone contributed something really cool so it was nice to see it all together and it was nice to read our good feedback on it.</td>
+                          </tr>                          
+                          <tr>
                             <td>Abby</td>
                             <td style="background-color: #74ff2630">7/10</td>
                             <td>using 3DS max was a challenge, I wasn't comfortable using 3DS max at the time but after i got the hang of it, it was fairly simple and fun, I enjoyed working with the team and I am very proud of our game we made, I would to do something like this again.</td>
@@ -706,7 +711,7 @@ usemathjax: true
             ['Blocky Road',  9, 9],
             ['Pet Pal',  3.75, 2],
             ['Poppin Hoppin Unlockin',  8.4, 9],  
-            ['Aqua Adventure',  7, 7],       
+            ['Aqua Adventure',  7.2, 7],       
         ]);
         var options = {       
             chartArea: 
@@ -828,7 +833,7 @@ usemathjax: true
         ['Blocky Road',  9, 9],
         ['Pet Pal',  3.75, 2],
         ['Poppin Hoppin Unlockin',  8.4, 9],  
-        ['Aqua Adventure',  7, 7],  
+        ['Aqua Adventure',  7.2, 7],  
         ['Submarine Simulator',  7.3, 8],      
     ]);
     var options = {       
