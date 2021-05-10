@@ -564,7 +564,7 @@ usemathjax: true
                                             <img src="/assets/img/posts/YearTDEMO/gjss10.gif" style="width: 30%; border-radius: 10px 10px; float: left; margin: 30px"> <p>After this I began working on the actual periscope, as of now there is no ‘sea’ in the game, but <strong>I’ve made targets which are any object tagged with target</strong>, and the periscope operator turns their camera according to some buttons, but this is all prototyping! this WILL be changed in the future!</p>
                                             <p>This was also added in as a button within the periscope room, so you can go in and out from using the periscope and being in the periscope room!</p>
                                             <p>Gabe also found some cool sound FX which we used on the buttons in the game to make using the control panel more fun to use!</p>
-                                            <p>And that was pretty much what I had done for the gamejam, it was a lot of hard work, and it paid off! <br />And because this one went so well, we decided to do another one at some point which <strong>EVERY person on the team is going to attend</strong>!</p>                                            
+                                            <p>And that was pretty much what I had done for the gamejam, it was a lot of hard work, and it paid off! <br />And because this one went so well, we decided to do another one at some point which we are going to try and get the whole team to attend!</p>                                            
                                     </div>
                                 </div>
                             </div>
@@ -627,85 +627,195 @@ usemathjax: true
 <hr>
 
 <h2> Final Evaluation & Reflection </h2>
-<p>text here</p>
+<br />
+<h4>Comparisons</h4>
+<p>For the game jams we participated in, we got <strong>ranked</strong> using a ranking system on Itch.io, and these rankings were broken down into three criteria: <strong>Most Innovative</strong>, <strong>Best Gameplay,</strong> and <strong>Overall</strong>, I decided to put these rankings onto a line chart, as you can see here:</p>
 
-<!-- <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript">
-  google.charts.load('current', {'packages':['bar']});
-  google.charts.setOnLoadCallback(DrawChart);
-  function DrawChart() {
-    var data = google.visualization.arrayToDataTable([
-      ['Short Shipment', 'Product Questions', 'Product Service Request', 'Billing Question','Product Issue','Return or Exchange Request','- None -'],
-      [1, 3, 4, 8, 8, 11, 283]]);
-
-
-    var options = {
-      chart: {
-        title: 'Case Issue Summary'
-
-      },
-      bars: 'horizontal' 
-    };
-
-    var chart = new google.charts.Bar(document.getElementById('BarChartCase'));
-
-    chart.draw(data, options);
-  }
-</script>
-<body padding="0.5in 0.5in 0.5in 0.5in" size="Letter">
-<div id="BarChartCase" style="width: 900px; height: 500px;">&nbsp;</div> -->
-
-<!-- <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript">
-  google.charts.load('current', {'packages':['line']});
+  google.charts.load('current', {'packages':['corechart']});
   google.charts.setOnLoadCallback(DrawChart);
   function DrawChart() 
   {
-    var data = new google.visualization.DataTable();
-    data.addColumn('number', 'Criteria');
-    data.addColumn('number', 'Blocky Road');
-    data.addColumn('number', 'Pet Pal');
-    data.addColumn('number', 'Poppin Hoppin Unlockin');
-    data.addRows([
-        [1,  37.8, 80.8, 41.8],
-        [2,  30.9, 69.5, 32.4],
-        [3,  25.4,   57, 25.7],
-        [4,  11.7, 18.8, 10.5],
-        [5,  11.9, 17.6, 10.4],
-        [6,   8.8, 13.6,  7.7],
-        [7,   7.6, 12.3,  9.6],
-        [8,  12.3, 29.2, 10.6],
-        [9,  16.9, 42.9, 14.8],
-        [10, 12.8, 30.9, 11.6],
-        [11,  5.3,  7.9,  4.7],
-        [12,  6.6,  8.4,  5.2],
-        [13,  4.8,  6.3,  3.6],
-        [14,  4.2,  6.2,  3.4]
-    ]);    
-    var options = {
+    var data = google.visualization.arrayToDataTable([
+        ['Criteria', 'Blocky Road', 'Pet Pal', 'Poppin Hoppin Unlockin', 'Aqua Adventure'],
+        ['Most Innovative',  1, 17, 12, 5],
+        ['Best Gameplay',  2, 12, 15, 7],
+        ['Overall',  1, 15, 15, 4],        
+    ]);
+    var options = {       
         chartArea: 
         {
             'backgroundColor': {
                 'fill': '#F4F4F4',
-                'opacity': 100
+                'opacity': 80
             },
-        },
+        },         
         backgroundColor: {
             fill: '#1c1c1e',
             fillOpacity: 0
-        },                
-        chart: {
-            title: 'Box Office Earnings in First Two Weeks of Opening',
-            subtitle: 'in millions of dollars (USD)'           
+        }, 
+        hAxis: {
+            textStyle: {
+                color: "#bcbcbc"
+            },
+            gridlines: {
+                color: "#bcbcbc"
+            },
+            baselineColor: '#bcbcbc'
         },
-        bars: 'horizontal',     
+        vAxis: {
+            textStyle: {
+                color: "#bcbcbc"
+            },
+            gridlines: {
+                color: "#bcbcbc"
+            },
+            baselineColor: '#bcbcbc',
+            direction: -1
+        }, 
+        legendTextStyle: {
+            color: "#bcbcbc"
+        },   
+        titleTextStyle: {
+            color: "#bcbcbc"
+        },                                                   
+        title: 'Ranking in each criteria (Data from itch.io)',
+        legend: { position: 'right' },                 
     };
-    var chart = new google.charts.Line(document.getElementById('linechart_material'));
-    chart.draw(data, google.charts.Line.convertOptions(options));
+    var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+    chart.draw(data, options);
   }
 </script>
-<body padding="0.5in 0.5in 0.5in 0.5in" size="Letter">
-<div id="linechart_material" style="width: 100%; height: 500px;">&nbsp;</div> -->
+<!-- <body padding="0.5in 0.5in 0.5in 0.5in" size="Letter"> -->
+<div id="curve_chart" style="width: 100%; height: 500px;">&nbsp;</div>
+
+<p><em>You can hover over the line chart to see the data at each point.</em><br />From this line chart <strong>you can see how each game did in comparison to each other</strong>, with <strong>Blocky Road being the highest-rated game</strong>, Aqua Adventure following, and then Pet Pal and Poppin’ Hoppin’ Unlockin’ (PHU) falling into the same overall ranking.</p>
+<p>What’s interesting here is Pet Pal and PHU’s ranking, it’s interesting because we can see clearly from this chart, that Pet Pal’s highlight was its gameplay, but it didn’t do so well in innovation, whereas PHU’s highlight was its innovation, both games <strong>cross</strong> on the grid, and then get the <strong>same overall ranking</strong> at the end.<br />I agree with the rankings though, PHU has <strong>interesting concepts leading to it being innovative</strong>, with the cute player movement, and story behind the game, but <strong>its downfall is the gameplay</strong>, with the dash not working well, in comparison, with Pet Pal, it got a higher ranking in the ‘Best Gameplay’ criteria because <strong>the gameplay works</strong>, there are no apparent bugs, and it does exactly what we needed it to do, but <strong>Pet Pal isn’t innovative at all</strong>, it’s a <strong>very basic non-ambitious clicker game</strong>, nothing new or unique about it, which justifies the low score in innovation.</p>
+<p>I decided to ask each team that I worked on what their <strong>personal overall rating</strong> of the game they worked on would be, to see if I can draw any <strong>similarities and trends</strong> between the rankings and the personal ratings. If we compare these personal ratings with the overall ranking for each game, this is what the data looks like:</p>
+
+<div class="row">
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(DrawChart);
+    function DrawChart() 
+    {
+        var data = google.visualization.arrayToDataTable([
+            ['Game', 'Team Average Rating', 'My Personal Rating'],
+            ['Blocky Road',  9, 9],
+            ['Pet Pal',  3.75, 2],
+            ['Poppin Hoppin Unlockin',  8.4, 9],  
+            ['Aqua Adventure',  7, 7],       
+        ]);
+        var options = {       
+            chartArea: 
+            {
+                'backgroundColor': {
+                    'fill': '#F4F4F4',
+                    'opacity': 80
+                },
+            },         
+            backgroundColor: {
+                fill: '#1c1c1e',
+                fillOpacity: 0
+            }, 
+            hAxis: {
+                textStyle: {
+                    color: "#bcbcbc"
+                },
+                gridlines: {
+                    color: "#bcbcbc"
+                },
+                baselineColor: '#bcbcbc'
+            },
+            vAxis: {
+                textStyle: {
+                    color: "#bcbcbc"
+                },
+                gridlines: {
+                    color: "#bcbcbc"
+                },
+                baselineColor: '#bcbcbc'
+            }, 
+            legendTextStyle: {
+                color: "#bcbcbc"
+            },   
+            titleTextStyle: {
+                color: "#bcbcbc"
+            },                                                   
+            title: 'Game Rating (Out of 10)',
+            legend: { position: 'right' }                    
+        };
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart_rank_comparison'));
+        chart.draw(data, options);
+    }
+    </script>
+    <!-- <body padding="0.5in 0.5in 0.5in 0.5in" size="Letter"> -->
+    <div id="curve_chart_rank_comparison" style="width: 50%; height: 500px;">&nbsp;</div>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(DrawChart);
+    function DrawChart() 
+    {
+        var data = google.visualization.arrayToDataTable([
+            ['Game', 'Most Innovative', 'Best Gameplay', 'Overall Rank'],
+            ['Blocky Road',  1, 2, 1],
+            ['Pet Pal',  17, 12, 15],
+            ['Poppin Hoppin Unlockin',  12, 15, 15],  
+            ['Aqua Adventure',  5, 7, 4],       
+        ]);
+        var options = {       
+            chartArea: 
+            {
+                'backgroundColor': {
+                    'fill': '#F4F4F4',
+                    'opacity': 80
+                },
+            },         
+            backgroundColor: {
+                fill: '#1c1c1e',
+                fillOpacity: 0
+            }, 
+            hAxis: {
+                textStyle: {
+                    color: "#bcbcbc"
+                },
+                gridlines: {
+                    color: "#bcbcbc"
+                },
+                baselineColor: '#bcbcbc'
+            },
+            vAxis: {
+                textStyle: {
+                    color: "#bcbcbc"
+                },
+                gridlines: {
+                    color: "#bcbcbc"
+                },
+                baselineColor: '#bcbcbc',
+                direction: -1
+            }, 
+            legendTextStyle: {
+                color: "#bcbcbc"
+            },   
+            titleTextStyle: {
+                color: "#bcbcbc"
+            },                                                   
+            title: 'Game Ranks',
+            legend: { position: 'right' }                    
+        };
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart_rank_comparison2'));
+        chart.draw(data, options);
+    }
+    </script>
+    <!-- <body padding="0.5in 0.5in 0.5in 0.5in" size="Letter"> -->
+    <div id="curve_chart_rank_comparison2" style="width: 50%; height: 500px;">&nbsp;</div>
+</div>
+
+<p>With these comparisons, you can see the<strong> same trends</strong> between the itch.io rankings and team/personal ratings, with <strong>one exception being Poppin’ Hoppin’ Unlockin’</strong>, from this it’s easy to see that <strong>we all enjoyed working together, but the game we made wasn’t so great</strong>, so, if we were to work on another game as the same team, things could work out better!</p>
+<p>I also took game ratings for the rest of the games, and here is that chart:</p>
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript">
@@ -767,64 +877,20 @@ usemathjax: true
 <!-- <body padding="0.5in 0.5in 0.5in 0.5in" size="Letter"> -->
 <div id="curve_chart_rank" style="width: 100%; height: 500px;">&nbsp;</div>
 
+<p>Looking at these charts, I can see that <strong>when I work solo, I produce my best work</strong>, which is really strange! I think this is due to the fact that I can go my <strong>own pace</strong> and only have myself to worry about, I can do what I personally feel I can do in the time I have, and cater the work and the style toward what I know, by this I mean that I know I can’t make a game with hundreds of 3D models, as that isn’t my specialism, instead I should focus on something which looks simpler and put all of my efforts into my specialism of Programming.</p>
+<p>I can also see that the <strong>two games that I took a lead role</strong> in got <strong>lower rankings in innovation and gameplay</strong>, and I’ve noticed that maybe if I had done more programming on both of those teams and less project management, or even not been a lead and took a programming role, we may have been able to implement more gameplay mechanics as there would’ve been more programmers.<br />From the ratings of the games on the chart, the teams experience with developing Pet Pal was pretty low with <strong>3.75/10</strong>, but from the written reviews, that rating was given because of the lack of creativity with this game theme, but with PHU, the teams average experience was much much higher, with <strong>8.4/10</strong>, meaning that <strong>the group dynamics have definitely improved between being a lead for both of those games</strong>.</p>
+<p>Aqua Adventure and Submarine Simulator are slightly <strong>above average in team ratings</strong>, between the two getting an average of <strong>7.15/10</strong>, for both of these games, for these games I’ve taken on a programmer role, so I was able to focus on programming, and implement mechanics which have been asked from group leaders, although between the two groups, <strong>I felt a much better group dynamic and leadership for Submarine Simulator</strong>, hence the higher personal rating.</p>
+<br />
+<h4>Interpratations</h4>
+<p>For <strong>Blocky Road</strong>, the most important thing I’ve learnt is <strong>I can definitely write unoptimized code for a game jam</strong>, and although optimized code is really great practice, for game jams, we have a very short period of time to make a prototype of a game, and prototypes really don’t have to be optimized! They just need to show an idea.<br />Another thing that Blocky Road has taught me, is about <strong>how far a simplistic game can go</strong>, I’ve found that I really like making hyper-casual games, and it’s certainly something I’m going to be making more of for gamejams in the future.</p>
+<p>For <strong>Pet Pal</strong>, the most important thing I’ve learnt is <strong>how a lack of creativity and a boring theme can really impact a team’s motivation for producing a game</strong>, this is apparent because, for the game, we only stuck with the most basic of clicking mechanics and didn’t expand any further.</p>
+<p>For <strong>Poppin’ Hoppin’ Unlockin’</strong>, the most important thing I’ve learnt is <strong>how a great team can still produce a sub-par rated game!</strong> We’ve personally rated the experience of making the game really high, but there is much which can be changed about the game itself. I would love to work with this team again, I think they’re amazing!</p>
+<p>For <strong>Aqua Adventure</strong>, I’ve learnt that <strong>I shouldn’t take on an entire role myself</strong>, and <strong>I shouldn't be afraid to ask for help</strong>, I was happy I experienced this so that I know for the future, there was a lot of stress of taking on all of the programming, so it would’ve been good to ask for an extra hand the next time that something like this happens.</p>
+<p>For <strong>Submarine Simulator</strong>, I’ve learnt about <strong>how beneficial it is to scope down a brief if you feel it wouldn’t be done on time</strong>, this is important to avoid producing bad quality, rushed work!</p>
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript">
-  google.charts.load('current', {'packages':['corechart']});
-  google.charts.setOnLoadCallback(DrawChart);
-  function DrawChart() 
-  {
-    var data = google.visualization.arrayToDataTable([
-        ['Criteria', 'Blocky Road', 'Pet Pal', 'Poppin Hoppin Unlockin', 'Aqua Adventure'],
-        ['Most Innovative',  1, 17, 12, 5],
-        ['Best Gameplay',  2, 12, 15, 7],
-        ['Overall',  1, 15, 15, 4],        
-    ]);
-    var options = {       
-        chartArea: 
-        {
-            'backgroundColor': {
-                'fill': '#F4F4F4',
-                'opacity': 80
-            },
-        },         
-        backgroundColor: {
-            fill: '#1c1c1e',
-            fillOpacity: 0
-        }, 
-        hAxis: {
-            textStyle: {
-                color: "#bcbcbc"
-            },
-            gridlines: {
-                color: "#bcbcbc"
-            },
-            baselineColor: '#bcbcbc'
-        },
-        vAxis: {
-            textStyle: {
-                color: "#bcbcbc"
-            },
-            gridlines: {
-                color: "#bcbcbc"
-            },
-            baselineColor: '#bcbcbc',
-            direction: -1
-        }, 
-        legendTextStyle: {
-            color: "#bcbcbc"
-        },   
-        titleTextStyle: {
-            color: "#bcbcbc"
-        },                                                   
-        title: 'Ranking in each criteria (Data from itch.io)',
-        legend: { position: 'right' },                 
-    };
-    var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
-    chart.draw(data, options);
-  }
-</script>
-<!-- <body padding="0.5in 0.5in 0.5in 0.5in" size="Letter"> -->
-<div id="curve_chart" style="width: 100%; height: 500px;">&nbsp;</div>
-
+<br />
+<h4>Outcome</h4>
+<p>Overall, I’ve learnt so many skills which I can use for any future projects, I have also learnt a lot about <strong>how I perform in both leadership and programmer roles</strong>, these skills are crucial to understand.</p>
+<p>There are so many areas which I feel I could improve in a team setting, with both programming and leadership, my most important area I feel I should improve and practice in is that <strong>people may not work in the way that I work!</strong> I feel this would really improve my leadership skills.</p>
+<p>In the future, I hope I can see this improvement in my leadership skills and mindset, so I can help <strong>make a better group dynamic</strong>.</p>
 <hr>
