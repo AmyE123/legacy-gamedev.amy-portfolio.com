@@ -24,15 +24,6 @@ usemathjax: true
       });
 </script>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9KGQNR99RC"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9KGQNR99RC');
-</script>
 
 
 <img src="/assets/img/posts/YearTDEMO/cover2.png" style="width: 100%; border-radius: 50px 50px">
