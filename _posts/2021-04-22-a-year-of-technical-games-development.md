@@ -901,3 +901,31 @@ usemathjax: true
 <p>There are so many areas which I feel I could improve in a team setting, with both programming and leadership, my most important area I feel I should improve and practice in is that <strong>people may not work in the way that I work!</strong> I feel this would really improve my leadership skills.</p>
 <p>In the future, I hope I can see this improvement in my leadership skills and mindset, so I can help <strong>make a better group dynamic</strong>.</p>
 <hr>
+
+<h2>Bibliography</h2>
+<p>BlueBubbleBee. (2020, January 29). <em>The beauty of Scriptable Objects in Unity3D</em>. Medium. https://bluebubblebee.medium.com/the-beauty-of-scriptable-objects-in-unity3d-c92b3a3783d3</p>
+<p>ChamferZone. (2017, February 23). <em>Unwrap Special—Full guide to efficient and fast UV Mapping—3Ds Max 2017</em>. https://www.youtube.com/watch?v=BbZ7ip-eCcI&amp;ab_channel=ChamferZone</p>
+<p><em>Cookie Clicker</em>. (2021). In <em>Wikipedia</em>. https://en.wikipedia.org/w/index.php?title=Cookie_Clicker&amp;oldid=1016380860</p>
+<p>Di Luca, M., Seifi, H., Egan, S., &amp; Gonzalez-Franco, M. (2021). Locomotion Vault: The Extra Mile in Analyzing VR Locomotion Techniques. <em>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems</em>, 1–10. https://doi.org/10.1145/3411764.3445319</p>
+<p>Ferro, L. (n.d.). Understanding the Basics of Blueprints. In <em>Unreal Engine Blueprints Visual Scripting Projects</em> (pp. 38–53). Packt.</p>
+<p><em>Figure 1. The six degree-of-freedom model of submarine</em>. (n.d.). ResearchGate. Retrieved 8 May 2021, from https://www.researchgate.net/figure/The-six-degree-of-freedom-model-of-submarine_fig1_274622739</p>
+<p><em>How Submarines Work</em>. (2000, August 17). HowStuffWorks. https://science.howstuffworks.com/transport/engines-equipment/submarine.htm</p>
+<p>Hyper-casual game. (2021). In <em>Wikipedia</em>. https://en.wikipedia.org/w/index.php?title=Hyper-casual_game&amp;oldid=1010567757</p>
+<p>Jain. (2015, February 9). <em>Can Stress Help Students?</em> Edutopia. https://www.edutopia.org/blog/can-stress-help-students-renee-jain</p>
+<p>Jerrett, A. (2020, November). <em>Define Games—Theme 1</em>.</p>
+<p>Kantilaftis, H. (2014, November 25). How To Form A Solid Indie Game Development Team. <em>Student Resources</em>. https://www.nyfa.edu/student-resources/forming-solid-indie-game-development-team/</p>
+<p><em>Latency Compensating Methods in Client/Server In-game Protocol Design and Optimization—Valve Developer Community</em>. (n.d.). Retrieved 8 May 2021, from https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization</p>
+<p>Navy Lookout. (2020, November 2). <em>Preview - On Board Britain’s Nuclear Submarine: Trident</em>. https://www.youtube.com/watch?v=3CMvMaUtd0Q&amp;ab_channel=NavyLookout</p>
+<p>Platform game. (2021). In <em>Wikipedia</em>. https://en.wikipedia.org/w/index.php?title=Platform_game&amp;oldid=1020610399</p>
+<p>Quintans, D. (2013, January 22). <em>Game UI by Example: A Crash Course in the Good and the Bad</em>. Game Development Envato Tuts+. https://gamedevelopment.tutsplus.com/tutorials/game-ui-by-example-a-crash-course-in-the-good-and-the-bad--gamedev-3943</p>
+<p><em>Royal Navy personnel in the control room on HMS Vigilant, submarine...</em> (n.d.). Getty Images. Retrieved 8 May 2021, from https://www.gettyimages.co.uk/detail/news-photo/royal-navy-personnel-in-the-control-room-on-hms-vigilant-news-photo/506044550</p>
+<p>Science Channel. (2016, April 29). <em>How Do Submarines Dive and Surface?</em> https://www.youtube.com/watch?v=BTis6GioP2g&amp;ab_channel=ScienceChannel</p>
+<p><em>Ship Control Station</em>. (n.d.). Retrieved 8 May 2021, from https://americanhistory.si.edu/subs/operating/attackcenter/controlstation/index.html</p>
+<p>Sokolovski, M. (2020, May 9). <em>“Dev Diaries” Should Become The Norm For Game Studios</em>. TheGamer. https://www.thegamer.com/dev-diaries-direct-updates-habit-game-studios/</p>
+<p><em>Star Fox</em>. (2021). In <em>Wikipedia</em>. https://en.wikipedia.org/w/index.php?title=Star_Fox&amp;oldid=1019587969</p>
+<p>Substance Designer. (n.d.). <em>Substance 3D</em>. Retrieved 8 May 2021, from https://www.substance3d.com/products/substance-designer/</p>
+<p><em>Substance Designer—Substance Designer Overview</em>. (n.d.). Retrieved 8 May 2021, from https://docs.substance3d.com/home</p>
+<p>The DiNusty Empire. (2016, September 27). <em>Learning Substance: Introduction and Basics of Substance Designer [EP10]</em>. https://www.youtube.com/watch?v=BrIEYW59ld4&amp;ab_channel=TheDiNustyEmpire</p>
+<p><em>Unreal Engine 4 For Unity Developers</em>. (n.d.). Retrieved 8 May 2021, from https://docs.unrealengine.com/en-US/Basics/UnrealEngineForUnityDevs/index.html</p>
+<p>Weesner, J. (2011, August 3). <em>Opinion: Classic Problems With Level Design</em>. /view/news/126332/Opinion_Classic_Problems_With_Level_Design.php</p>
+<p>Zotero. (2021). In <em>Wikipedia</em>. https://en.wikipedia.org/w/index.php?title=Zotero&amp;oldid=1022053488</p>
