@@ -33,7 +33,7 @@ usemathjax: true
 <!--- -------------------------------------------------------------------- -->
 <!--- This is for the main description of the game, this is very important -->
 <!--- -------------------------------------------------------------------- -->
-<p>One of my favourite modules in University has to be my Technical Games Development module (TDEMO), this module helped me learn to develop my core team working skills for use in games development, as well as this, it helped me develop my awareness of group dynamics, and gave me the opportunity to test out any potential career paths and the problems usually faced in those. <br /><br /> For this module, I made <b>5 games</b>, and in this blog I will be discussing and comparing a handful of mechanics & problems from each of them, I would also be reflecting on those games and what I've learnt from them, and how the materials learnt in other modules have impacted my approach to certain games and mechanics made in this module.</p>
+<p style="word-wrap: normal">One of my favourite modules in University has to be my Technical Games Development module (TDEMO), this module helped me learn to develop my core team working skills for use in games development, as well as this, it helped me develop my awareness of group dynamics, and gave me the opportunity to test out any potential career paths and the problems usually faced in those. <br /><br /> For this module, I made <b>5 games</b>, and in this blog I will be discussing and comparing a handful of mechanics & problems from each of them, I would also be reflecting on those games and what I've learnt from them, and how the materials learnt in other modules have impacted my approach to certain games and mechanics made in this module.</p>
 
 <hr>
 
@@ -46,7 +46,7 @@ usemathjax: true
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
         <div class="panel panel-default">
             <div class="panel-heading active" role="tab" id="headingOne">
-                <h2 class="panel-title">
+                <h2 class="panel-title" style="word-wrap: normal">
                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseBlockyRoad" aria-expanded="true" aria-controls="collapseBlockyRoad" style="font-size: 25px">
                     Blocky Road
                 </a>
@@ -63,7 +63,7 @@ usemathjax: true
                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
-                                    <h2 class="panel-title">
+                                    <h2 class="panel-title" style="word-wrap: normal">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseBDevDiary" aria-expanded="true" aria-controls="collapseBDevDiary" style="font-size: 18px">
                                         Development Diary - What Is It, Why Am I Doing It & How Can I Keep Up With It?
                                     </a>
@@ -77,7 +77,7 @@ usemathjax: true
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
-                                    <h2 class="panel-title">
+                                    <h2 class="panel-title" style="word-wrap: normal">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseBMovementUI" aria-expanded="true" aria-controls="collapseBMovementUI" style="font-size: 18px">
                                         Charge Movement User Interface
                                     </a>
@@ -105,7 +105,7 @@ usemathjax: true
         <hr>
         <div class="panel panel-default">
             <div class="panel-heading active" role="tab" id="headingOne">
-                <h2 class="panel-title">
+                <h2 class="panel-title" style="word-wrap: normal">
                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsePetPal" aria-expanded="true" aria-controls="collapsePetPal" style="font-size: 25px">
                     Pet Pal
                 </a>
@@ -120,7 +120,7 @@ usemathjax: true
                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">                       
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
-                                    <h2 class="panel-title">
+                                    <h2 class="panel-title" style="word-wrap: normal">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsePGL" aria-expanded="true" aria-controls="collapsePGL" style="font-size: 18px">
                                         Being A Group Lead For The First Time - What I Did, Why I Did It, & How I Made Sure Everything Turned Out Okay.
                                     </a>
@@ -134,7 +134,7 @@ usemathjax: true
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
-                                    <h2 class="panel-title">
+                                    <h2 class="panel-title" style="word-wrap: normal">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsePSC" aria-expanded="true" aria-controls="collapsePSC" style="font-size: 18px">
                                         Teaching Source Control
                                     </a>
@@ -216,7 +216,7 @@ usemathjax: true
         <hr>
         <div class="panel panel-default">
             <div class="panel-heading active" role="tab" id="headingOne">
-                <h2 class="panel-title">
+                <h2 class="panel-title" style="word-wrap: normal">
                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsePopHop" aria-expanded="true" aria-controls="collapsePopHop" style="font-size: 25px">
                     Poppin' Hoppin' Unlockin'
                 </a>
@@ -233,7 +233,7 @@ usemathjax: true
                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
-                                    <h2 class="panel-title">
+                                    <h2 class="panel-title" style="word-wrap: normal">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsePHUGL" aria-expanded="true" aria-controls="collapsePHUGL" style="font-size: 18px">
                                         Being A Group Lead Again - What I Did Differently, Why I Did It, & How I Made Sure Everything Turned Out Okay.
                                     </a>
@@ -247,7 +247,7 @@ usemathjax: true
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
-                                    <h2 class="panel-title">
+                                    <h2 class="panel-title" style="word-wrap: normal">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsePHULM" aria-expanded="true" aria-controls="collapsePHULM" style="font-size: 18px">
                                         Making the basic level mechanics 
                                     </a>
@@ -338,7 +338,7 @@ usemathjax: true
         <hr>
         <div class="panel panel-default">
             <div class="panel-heading active" role="tab" id="headingOne">
-                <h2 class="panel-title">
+                <h2 class="panel-title" style="word-wrap: normal">
                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseAqua" aria-expanded="true" aria-controls="collapseAqua" style="font-size: 25px">
                     Aqua Adventure
                 </a>
@@ -355,7 +355,7 @@ usemathjax: true
                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">                       
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
-                                    <h2 class="panel-title">
+                                    <h2 class="panel-title" style="word-wrap: normal">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseAAS" aria-expanded="true" aria-controls="collapseAAS" style="font-size: 18px">
                                         Taking On The Programming Myself
                                     </a>
@@ -450,7 +450,7 @@ usemathjax: true
         <hr>
         <div class="panel panel-default">
             <div class="panel-heading active" role="tab" id="headingOne">
-                <h2 class="panel-title">
+                <h2 class="panel-title" style="word-wrap: normal">
                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSub" aria-expanded="true" aria-controls="collapseSub" style="font-size: 25px">
                     Submarine Simulator
                 </a>
@@ -467,7 +467,7 @@ usemathjax: true
                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
-                                    <h2 class="panel-title">
+                                    <h2 class="panel-title" style="word-wrap: normal">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSSGR" aria-expanded="true" aria-controls="collapseSSGR" style="font-size: 18px">
                                         Group Research
                                     </a>
@@ -487,7 +487,7 @@ usemathjax: true
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
-                                    <h2 class="panel-title">
+                                    <h2 class="panel-title" style="word-wrap: normal">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSSIR" aria-expanded="true" aria-controls="collapseSSIR" style="font-size: 18px">
                                         Individual Research
                                     </a>
@@ -504,7 +504,7 @@ usemathjax: true
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
-                                    <h2 class="panel-title">
+                                    <h2 class="panel-title" style="word-wrap: normal">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSSIP" aria-expanded="true" aria-controls="collapseSSIP" style="font-size: 18px">
                                         Individual Prototypes
                                     </a>
@@ -530,7 +530,7 @@ usemathjax: true
                             </div>
                             <div class="panel panel-default">
                                 <div class="panel-heading active" role="tab" id="headingOne">
-                                    <h2 class="panel-title">
+                                    <h2 class="panel-title" style="word-wrap: normal">
                                     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSSGP" aria-expanded="true" aria-controls="collapseSSGP" style="font-size: 18px">
                                         Group Prototypes
                                     </a>
@@ -633,7 +633,7 @@ usemathjax: true
 
 <hr>
 
-<h2> Final Evaluation & Reflection </h2>
+<h2 style="word-wrap: normal"> Final Evaluation & Reflection </h2>
 <br />
 <h4>Comparisons</h4>
 <p>For the game jams we participated in, we got <strong>ranked</strong> using a ranking system on Itch.io, and these rankings were broken down into three criteria: <strong>Most Innovative</strong>, <strong>Best Gameplay,</strong> and <strong>Overall</strong>, I decided to put these rankings onto a line chart, as you can see here:</p>

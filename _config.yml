@@ -40,7 +40,7 @@ author_work_experiences:
               company_logo: jagex.png
               company_url: https://www.jagex.com/en-GB/
               work_duration: May 2021 - Aug 2021
-              designation: Game Engineer
+              designation: Game Engineer Intern
               description: Worked on Programming in a Triple-A Industry environment.
               visibility: true  
             - company_name: Submarine Simulator for The Royal Navy
@@ -86,8 +86,8 @@ author_education_details:
 # Projects
 author_project_details:
               - project_thumbnail: jagex.png
-                project_title: Unannounced Title
-                project_description: Worked on the programming for an Unannounced Title.
+                project_title: Unannounced MMORPG
+                project_description: Worked on the programming for an Unannounced Triple-A MMORPG.
                 project_url: https://www.jagex.com/en-GB/
                 blog_url: /wip
                 date: In Progress
@@ -118,7 +118,7 @@ author_project_details:
                 published: itch.png
                 role: Solo Project
                 team: http://gamedev.amy-portfolio.com/blog/authors/amyelliott
-                dev: Myself!
+                dev: Amy Elliott
                 bp: <ul> 
                         <li>Programmed a two-way puzzle system:</li-ph>
                             <ul>
@@ -160,7 +160,7 @@ author_project_details:
                 published: itch.png
                 role: Programmer & Designer
                 team: http://gamedev.amy-portfolio.com/blog/authors/teamhorsehead#/
-                dev: Team Horsehead (Me and Joe)
+                dev: Team Horsehead
                 bp: <ul> 
                         <li>In charge of the main concepting and level designs:</li>
                             <ul>
@@ -189,7 +189,7 @@ author_project_details:
                 published: gplaystore.png
                 role: Programmer & Designer
                 team: http://gamedev.amy-portfolio.com/blog/authors/teamhorsehead#/
-                dev: Team Horsehead (Me and Joe)
+                dev: Team Horsehead
                 bp: <ul>                        
                         <li>Learnt how to publish games on the Google Playstore.</li>
                         <li>Programmed and designed the player movement for both webGL & mobile versions</li>
@@ -213,8 +213,8 @@ author_project_details:
 # Projects FOR HOMEPAGE
 author_project_detailsHP:
               - project_thumbnail: jagex.png
-                project_title: Unannounced Title
-                project_description: Worked on the programming for an Unannounced Title.
+                project_title: Unannounced MMORPG
+                project_description: Worked on the programming for an Unannounced Triple-A MMORPG.
                 project_url: https://www.jagex.com/en-GB/
                 blog_url: /wip
                 date: In Progress
@@ -225,11 +225,12 @@ author_project_detailsHP:
                 team: https://www.jagex.com/en-GB/
                 dev: Jagex
                 bp: <ul> 
-                        <li>Worked on Programming in a Triple-A Industry:</li-ph>
+                        <li>Working on Programming in a Triple-A Industry environment:</li-ph>
                             <ul>
-                                <li>Worked with different diciplines on the development team</li>
+                                <li>Working with different diciplines on the development team</li>
                                 <li>Learning the most commonly used professional development tools</li>
                                 <li>Experiencing how development teams prioritise and schedule their work</li>
+                                <li>Contributing to various projects</li>
                             </ul>
                      </ul>
                 visibility: true    
@@ -244,7 +245,7 @@ author_project_detailsHP:
                 published: itch.png
                 role: Solo Project
                 team: http://gamedev.amy-portfolio.com/blog/authors/amyelliott
-                dev: Myself!
+                dev: Amy Elliott
                 bp: <ul> 
                         <li>Programmed a two-way puzzle system:</li-ph>
                             <ul>
@@ -286,7 +287,7 @@ author_project_detailsHP:
                 published: itch.png
                 role: Programmer & Designer
                 team: http://gamedev.amy-portfolio.com/blog/authors/teamhorsehead#/
-                dev: Team Horsehead (Me and Joe)
+                dev: Team Horsehead
                 bp: <ul> 
                         <li>In charge of the main concepting and level designs:</li>
                             <ul>
@@ -315,7 +316,7 @@ author_project_detailsHP:
                 published: gplaystore.png
                 role: Programmer & Designer
                 team: http://gamedev.amy-portfolio.com/blog/authors/teamhorsehead#/
-                dev: Team Horsehead (Me and Joe)
+                dev: Team Horsehead
                 bp: <ul>                        
                         <li>Programmed and designed the player movement for both webGL & mobile versions</li>
                         <li>Programmed the enemy system, scoring and highscore system</li>

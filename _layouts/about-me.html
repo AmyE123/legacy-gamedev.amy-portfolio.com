@@ -176,7 +176,7 @@ layout: default
                                 <div class="panel-heading active" role="tab" id="headingOne">
                                     <h4 class="panel-title">
                                         <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseLang" aria-expanded="true" aria-controls="collapseLang" title="Click to expand/minimize">
-                                            <h4>Languages</h4>
+                                            <h4 style="word-wrap: normal">Languages</h4>
                                         </a>
                                     </h4>
                                 </div>
@@ -205,7 +205,7 @@ layout: default
                                 <div class="panel-heading active" role="tab" id="headingOne">
                                     <h4 class="panel-title">
                                         <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEngine" aria-expanded="true" aria-controls="collapseEngine" title="Click to expand/minimize">
-                                            <h4>Engines</h4>
+                                            <h4 style="word-wrap: normal">Engines</h4>
                                         </a>
                                     </h4>
                                 </div>
@@ -236,7 +236,7 @@ layout: default
                         <div class="panel-heading active" role="tab" id="headingOne">
                             <h4 class="panel-title">
                                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseProj" aria-expanded="false" aria-controls="collapseProj" title="Click to expand/minimize">
-                                    <h4>Project Management</h4>
+                                    <h4 style="word-wrap: normal">Project Management</h4>
                                 </a>
                             </h4>
                         </div>
@@ -267,7 +267,7 @@ layout: default
                         <div class="panel-heading active" role="tab" id="headingOne">
                             <h4 class="panel-title">
                                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSoftware" aria-expanded="false" aria-controls="collapseSoftware" title="Click to expand/minimize">
-                                    <h4>Software</h4>
+                                    <h4 style="word-wrap: normal">Software</h4>
                                 </a>
                             </h4>
                         </div>
@@ -339,7 +339,7 @@ layout: default
 
         <!--This is the Gamejam Card, which includes all the Gamejams I've participated in-->
         <div class="card">
-            <h1>Gamejams</h1>
+            <h1 style="word-wrap: normal">Gamejams</h1>
 
             {%- include author_gamejams.html -%}
         </div>
@@ -355,26 +355,26 @@ layout: default
     <div class="col-lg-7">
         {% if site.author_bio %}
         <div class="card">
-            <h1 class="card-title">About</h1>
+            <h1 class="card-title" style="word-wrap: normal">About</h1>
             <p>{{ site.author_bio }}</p>
         </div>
         <br />
 
-        <h3 style="padding: 5px">Project Highlights</h3>
+        <h3 style="padding: 5px; word-wrap: normal">Project Highlights</h3>
 
         {% for project in site.author_project_details %} {% if project.visibility
         == true %}
         <div class="card">
             <div class="row">
-                <div class="column-two" style="max-width: 90%">
-                    <h4 class="experience-title" style="text-align:left;">{{ project.project_title }}</h4>
-                    <h6 class="experience-info" style="text-align:left;">{{ project.project_info}}</h6>
-                    <p class="experience-desc" style="text-align:left;">{{ project.project_description }}</p>
-                    <p class="experience-desc" style="text-align:left;">Developed by: <a href="{{ project.team }}" style="padding: 0px" target="_blank">{{ project.dev }}</a></p>
+                <div class="column-two" style="max-width: 50%">
+                    <h4 class="experience-title" style="text-align:left; word-wrap: normal">{{ project.project_title }}</h4>
+                    <h6 class="experience-info" style="text-align:left; word-wrap: normal">{{ project.project_info}}</h6>
+                    <p class="experience-desc" style="text-align:left; word-wrap: normal">{{ project.project_description }}</p>
+                    <p class="experience-desc" style="text-align:left; word-wrap: normal">Developed by: <a href="{{ project.team }}" style="padding: 0px" target="_blank">{{ project.dev }}</a></p>
                     <!--<p class="experience-desc" style="text-align:left;"> <a href="{{project.project_url}}">{{ project.project_url}}</a> </p>-->
                 </div>
-                <div class="column-two" style="text-align:right; max-width: 90%">
-                    <p style="text-align:right;">{{ project.date }}</p>
+                <div class="column-two" style="text-align:right; max-width: 50%">
+                    <p style="text-align:right; word-wrap: normal">{{ project.date }}</p>
                     <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/icons/thumbnail/50pxPh/{{project.engine}}" padding:50px" />
                     <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/icons/thumbnail/50pxPh/{{project.language}}" padding:50px" />
                     <a href="{{project.project_url}}" style="padding: 0px" target="_blank"><img src="{{site.url}}{{site.baseurl}}/assets/img/posts/icons/thumbnail/50pxPh/{{project.published}}" /></a>
@@ -386,8 +386,8 @@ layout: default
                     <img src="{{site.url}}{{site.baseurl}}/assets/img/gamelib/{{project.project_thumbnail}}" style="text-align:left; padding:20px; max-width: 90%; border-radius: 40px" />
                 </div>
                 <div class="column-two" style="text-align:left; min-width: 300px">
-                    <h5 class="experience-title" style="text-align:left; padding: 20px">{{ project.role }}</h5>
-                    <p class="experience-desc" style="text-align:left;">{{ project.bp }}</p>
+                    <h5 class="experience-title" style="text-align:left; padding: 20px; word-wrap: normal">{{ project.role }}</h5>
+                    <p class="experience-desc" style="text-align:left; word-wrap: normal">{{ project.bp }}</p>
                 </div>
             </div>
             <div id="Blogging Website" style="text-align:right; padding: 0px; margin-bottom: 0px">
