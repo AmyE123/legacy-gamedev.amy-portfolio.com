@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Game Development
-permalink: /blog/categories/google-playstore/
+title: Study
+permalink: /blog/categories/study/
 ---
 
-<h5> Other Google Playstore related work: </h5>
+<h5> Other Study blogs: </h5>
 
 <div class="row">
-	{% for post in site.categories.google-playstore %}
+	{% for post in site.categories.study %}
         <div class="card blog-post" style="border-radius: 50px">
             <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}" style="padding: 0px">
                 <img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{ post.thumbnail }}" alt="{{ post.title }}" style="border-radius: 30px">
@@ -37,4 +37,5 @@ permalink: /blog/categories/google-playstore/
         </div>
 	{% endfor %}
 </div>
+
 

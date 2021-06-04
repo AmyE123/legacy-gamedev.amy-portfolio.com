@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Engines
-permalink: /blog/categories/unreal-engine/
+title: Programming
+permalink: /blog/categories/programming/
 ---
 
-<h5> Other Unreal Engine related work: </h5>
+<h5> Other programming blogs: </h5>
 
 <div class="row">
-	{% for post in site.categories.unreal-engine %}
+	{% for post in site.categories.programming %}
         <div class="card blog-post" style="border-radius: 50px">
             <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}" style="padding: 0px">
                 <img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{ post.thumbnail }}" alt="{{ post.title }}" style="border-radius: 30px">
@@ -37,4 +37,5 @@ permalink: /blog/categories/unreal-engine/
         </div>
 	{% endfor %}
 </div>
+
 

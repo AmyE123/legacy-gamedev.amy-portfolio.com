@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Game Development
-permalink: /blog/categories/personal-blog/
+title: Improvement
+permalink: /blog/categories/improvement/
 ---
 
-<h5> Other Personal Blog work: </h5>
+<h5> Other improvement work: </h5>
 
 <div class="row">
-	{% for post in site.categories.personal-blog %}
+	{% for post in site.categories.improvement %}
         <div class="card blog-post" style="border-radius: 50px">
             <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}" style="padding: 0px">
                 <img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{ post.thumbnail }}" alt="{{ post.title }}" style="border-radius: 30px">

@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\blog",
+    "\\categories",
+    "\\_posts",
+    "\\_products"
   ],
-  "SelectedNode": "\\_includes\\blog_categories.html",
+  "SelectedNode": "\\_posts\\2020-10-02-driven-round-the-loop.md",
   "PreviewInSolutionExplorer": false
 }

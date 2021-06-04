@@ -6,7 +6,7 @@ color: "background-color: firebrick"
 summary: "In this blog, I discuss my Technical Games Development module, And how it helped me learn to develop my core team working skills for use in games development."
 author: amyelliott
 date: '2021-04-22'
-category: ['personal-blog', 'university', 'unity', 'csharp', 'project-management']
+category: ['personal', 'reflection', 'development', 'improvement']
 thumbnail: /assets/img/posts/YearTDEMO/cover.png
 keywords: university, gamejam, unity
 permalink: /blog/a-year-of-technical-games-development/

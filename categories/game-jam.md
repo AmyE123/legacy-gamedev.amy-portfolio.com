@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Game Development
+title: Game Jam
 permalink: /blog/categories/game-jam/
 ---
 
