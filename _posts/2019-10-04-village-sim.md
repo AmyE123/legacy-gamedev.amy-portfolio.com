@@ -81,10 +81,10 @@ usemathjax: true
         <p>Here is a gallery of pictures which I have taken through the Game Jam, from this gallery you can see concepts which I have drawn out which have been made into models, as well as some gameplay mechanics. <br /> </p>  
         <div class="row">
             <div class="column-two">
-                <img src="/assets/img/posts/VillageSim/1.png">
+                <img src="/assets/img/posts/VillageSim/1.png" style="max-width: 100%;">
             </div>
             <div class="column-two">
-                <img src="/assets/img/posts/VillageSim/0.png">
+                <img src="/assets/img/posts/VillageSim/0.png" style="max-width: 100%;">
             </div>
         </div>
 
@@ -92,16 +92,16 @@ usemathjax: true
 
         <div class="row">
               <div class="column">
-                <img src="/assets/img/posts/VillageSim/2.png">
+                <img src="/assets/img/posts/VillageSim/2.png" style="max-width: 100%;">
               </div>
               <div class="column">
-                <img src="/assets/img/posts/VillageSim/6.png">
+                <img src="/assets/img/posts/VillageSim/6.png" style="max-width: 100%;">
               </div>
               <div class="column">
-                <img src="/assets/img/posts/VillageSim/3.png">
+                <img src="/assets/img/posts/VillageSim/3.png" style="max-width: 100%;">
               </div>
               <div class="column">
-                <img src="/assets/img/posts/VillageSim/9.png">
+                <img src="/assets/img/posts/VillageSim/9.png" style="max-width: 100%;">
               </div>
         </div>
 

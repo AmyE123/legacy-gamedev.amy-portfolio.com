@@ -189,7 +189,7 @@ usemathjax: true
         <p><br /> Doing this meant that we could make maps quickly and apply assets which was useful on the last day of the Game Jam where we had to crunch to get everything done (we left levels to last minute, we knew we shouldn't have). Oliver, one of our teams 3D Modellers, done a great job on making the 3D asset props which made our game come together and look nice! </p> <br />
         <div class="row">
             <div class="column-one">
-            <img src="/assets/img/posts/WelcomeToYelapa/9.png"> <br />
+            <img src="/assets/img/posts/WelcomeToYelapa/9.png" style="max-width: 100%;"> <br />
             </div>
         </div>
     </div>
