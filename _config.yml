@@ -41,8 +41,8 @@ author_work_experiences:
               company_logo: jagex.png
               company_url: https://www.jagex.com/en-GB/
               work_duration: May 2021 - Aug 2021
-              designation: Game Engineer Intern
-              description: Worked on Programming in a Triple-A Industry environment.
+              designation: Game Enginner Intern 
+              description: Worked on Programming for MMORPGs in pre-production, and live products in a Triple-A Industry environment.
               visibility: true  
             - company_name: Submarine Simulator for The Royal Navy
               company_logo: rn.png
@@ -88,14 +88,37 @@ author_education_details:
 author_project_details:
               - project_thumbnail: jagex.png
                 project_title: Unannounced MMORPG
-                project_description: Worked on the programming for an Unannounced Triple-A MMORPG.
+                project_description: Worked on the gameplay programming for an Unannounced Triple-A MMORPG in pre-production & implemented some core gameplay mechanics.
                 project_url: https://www.jagex.com/en-GB/
                 blog_url: /wip
-                date: In Progress
+                date: 17th July, 2021
                 engine: unrealengine.png
                 language: cpp.png
                 published: jagex.png
-                role: Game Engineer Intern
+                role: Intern Gameplay Programmer
+                team: https://www.jagex.com/en-GB/
+                dev: Jagex
+                bp: <ul> 
+                        <li>Working on Programming in a Triple-A Industry environment:</li-ph>
+                            <ul>
+                                <li>Implementing core gameplay mechanics for MMORPGs</li>
+                                <li>Working in Unreal Engine & C++ to learn the best industry practices</li>
+                                <li>Using networking & replication</li>
+                                <li>Working with different diciplines on the development team</li>
+                                <li>Learning the most commonly used professional development tools</li>
+                                <li>Experiencing how development teams prioritise and schedule their work</li>
+                            </ul>
+                     </ul>
+                visibility: true  
+              - project_thumbnail: runescape.jpg
+                project_title: OldSchool Runescape & RuneScape
+                project_description: Worked on the engine team for a live product where I was resposible for client & server development including platforms like mobile.
+                project_url: https://www.jagex.com/en-GB/
+                blog_url: /wip
+                date: In Progress            
+                language: cpp.png
+                published: jagex.png
+                role: Intern Game Engine Developer
                 team: https://www.jagex.com/en-GB/
                 dev: Jagex
                 bp: <ul> 
