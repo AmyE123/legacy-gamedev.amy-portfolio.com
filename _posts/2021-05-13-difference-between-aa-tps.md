@@ -6,7 +6,7 @@ color: "background-color: #003261"
 summary: "This blog will compare and define the games Resident Evil 4, (2005) and Twilight Princess, (2006), and their respective genres."
 author: amyelliott
 date: '2021-05-13'
-category: ['misc', 'study']
+category: ['misc']
 thumbnail: /assets/img/posts/re4vstp/cover.png
 keywords: residentevil4, zelda, twilight-princess
 permalink: /blog/difference-between-actionadventure-and-thirdpersonshooters/
