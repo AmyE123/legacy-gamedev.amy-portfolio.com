@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\categories",
+    "\\_posts"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_posts\\2021-05-13-difference-between-aa-tps.md",
   "PreviewInSolutionExplorer": false
 }
