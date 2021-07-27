@@ -86,11 +86,27 @@ author_education_details:
 
 # Projects
 author_project_details:
+              - project_thumbnail: oldschoolrunescape.png
+                project_title: OldSchool RuneScape & RuneScape
+                project_description: Worked on the engine team to support the operation and on-going enhancement of the RuneScape engine and associated systems.
+                project_url: https://www.jagex.com/en-GB/
+                blog_url: /wip
+                date: In Progress
+                engine: inhouse.png
+                language: cpp.png
+                published: jagex.png
+                role: Intern Game Engine Developer
+                team: https://www.jagex.com/en-GB/
+                dev: Jagex
+                bp: <ul> 
+                        <li>Worked on developing client server architecture</li>
+                     </ul>
+                visibility: true 
               - project_thumbnail: jagex.png
                 project_title: Unannounced MMORPG
                 project_description: Worked on the gameplay programming for an Unannounced Triple-A MMORPG in pre-production & implemented some core gameplay mechanics.
                 project_url: https://www.jagex.com/en-GB/
-                blog_url: /wip
+                blog_url: /blog/what-ive-learnt-working-on-jagexs-unannounced-mmorpg/
                 date: 17th July, 2021
                 engine: unrealengine.png
                 language: cpp.png
@@ -99,38 +115,12 @@ author_project_details:
                 team: https://www.jagex.com/en-GB/
                 dev: Jagex
                 bp: <ul> 
-                        <li>Working on Programming in a Triple-A Industry environment:</li-ph>
-                            <ul>
-                                <li>Implementing core gameplay mechanics for MMORPGs</li>
-                                <li>Working in Unreal Engine & C++ to learn the best industry practices</li>
-                                <li>Using networking & replication</li>
-                                <li>Working with different diciplines on the development team</li>
-                                <li>Learning the most commonly used professional development tools</li>
-                                <li>Experiencing how development teams prioritise and schedule their work</li>
-                            </ul>
+                        <li>Implemented core gameplay mechanics for MMORPGs</li>
+                        <li>Used Unreal Engine & C++ to learn the best industry practices</li>
+                        <li>Wrote code using networking & replication</li>
+                        <li>Worked with different diciplines on the development team</li>
                      </ul>
-                visibility: true  
-              - project_thumbnail: runescape.jpg
-                project_title: OldSchool Runescape & RuneScape
-                project_description: Worked on the engine team for a live product where I was resposible for client & server development including platforms like mobile.
-                project_url: https://www.jagex.com/en-GB/
-                blog_url: /wip
-                date: In Progress            
-                language: cpp.png
-                published: jagex.png
-                role: Intern Game Engine Developer
-                team: https://www.jagex.com/en-GB/
-                dev: Jagex
-                bp: <ul> 
-                        <li>Working on Programming in a Triple-A Industry environment:</li-ph>
-                            <ul>
-                                <li>Working with different diciplines on the development team</li>
-                                <li>Learning the most commonly used professional development tools</li>
-                                <li>Experiencing how development teams prioritise and schedule their work</li>
-                                <li>Contributing to various projects</li>
-                            </ul>
-                     </ul>
-                visibility: true  
+                visibility: true   
               - project_thumbnail: blocky.png
                 project_title: Blocky Road
                 project_description: A hyper-casual puzzle game, made in 15 hours.
@@ -236,9 +226,25 @@ author_project_details:
 
 # Professional Games
 author_professional_games:
+              - game_thumbnail: /gamelib/runescape.png
+                game_title: Runescape
+                game_release: Ongoing              
+                game_blog: https://www.runescape.com
+                tag1: AAA
+                tag2: Jagex
+                tag3: MMORPG
+                visibility: true  
+              - game_thumbnail: /gamelib/oldschoolrunescape.png
+                game_title: Old School Runescape
+                game_release: Ongoing              
+                game_blog: https://oldschool.runescape.com/
+                tag1: AAA
+                tag2: Jagex
+                tag3: MMORPG
+                visibility: true 
               - game_thumbnail: /gamelib/jagex.png
                 game_title: Unannounced Triple-A MMORPG
-                game_release: In Progress             
+                game_release: Ongoing            
                 game_blog: /wip
                 tag1: AAA
                 tag2: Jagex
