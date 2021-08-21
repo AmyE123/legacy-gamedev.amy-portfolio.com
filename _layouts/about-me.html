@@ -17,11 +17,6 @@ layout: default
                    href="http://twitter.com/{{ site.twitter_username }}" target="_blank">
                     <i class="fab fa-twitter"></i>
                 </a>
-                {% endif %} {% if site.facebook_username %}
-                <a class="social-link"
-                   href="http://facebook.com/{{ site.facebook_username }}" target="_blank">
-                    <i class="fab fa-facebook-f"></i>
-                </a>
                 {% endif %} {% if site.instagram_username %}
                 <a class="social-link"
                    href="http://instagram.com/{{ site.instagram_username }}" target="_blank">
@@ -308,7 +303,7 @@ layout: default
             <div id="Blogging Website" style="text-align:right; padding: 0px; margin-bottom: 0px">
                 <p class="experience-desc" style="text-align:right; margin-bottom: 0px"> <a href="{{project.blog_url}}" target="_blank">Read More...</a> <img src="/assets/img/posts/icons/gizmos/read32.png" style="text-align:right"></p>
             </div>
-            
+
         </div>
         <hr>
         {% endif %} {% endfor %}
@@ -360,5 +355,8 @@ layout: default
             {% endif %} {% endfor %}
         </div>
         {% endif %}
+    </div>
+    <div class="card">
+        {%- include contact_me_footer.html -%}
     </div>
 </div>

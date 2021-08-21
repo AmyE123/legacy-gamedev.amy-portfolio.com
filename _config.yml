@@ -87,7 +87,7 @@ author_education_details:
 # Projects
 author_project_details:
               - project_thumbnail: oldschoolrunescape.png
-                project_title: OldSchool RuneScape & RuneScape
+                project_title: OldSchool RuneScape
                 project_description: Worked on the engine team to support the operation and on-going enhancement of the RuneScape engine and associated systems.
                 project_url: https://www.jagex.com/en-GB/
                 blog_url: /wip
@@ -226,14 +226,6 @@ author_project_details:
 
 # Professional Games
 author_professional_games:
-              - game_thumbnail: /gamelib/runescape.png
-                game_title: Runescape
-                game_release: Ongoing              
-                game_blog: https://www.runescape.com
-                tag1: AAA
-                tag2: Jagex
-                tag3: MMORPG
-                visibility: true  
               - game_thumbnail: /gamelib/oldschoolrunescape.png
                 game_title: Old School Runescape
                 game_release: Ongoing              

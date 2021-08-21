@@ -2,19 +2,6 @@
 layout: default
 ---
 
-
-
-<!--<div class="blogtopcard lib-top" style="border-radius: 0px 0px 100px 100px; padding: 30px; width: 100%; position:fixed; z-index: 1000">
-    <div class="row">
-        <div class="column-three">
-            <a href="{{ site.baseurl }}/blog/categories/game-development-blogs" style="background-color: #202022; border-radius: 10px 10px; margin: 20px; padding-left: 50px; padding-right: 50px">Game Development Blogs <img src="{{site.baseurl}}/assets/img/posts/icons/gizmos/gamepad32.png" alt="Game Development Blogs" style=" border-radius: 5px; padding: 2px"> </a>
-            <a href="{{ site.baseurl }}/blog/categories/personal-blog" style="background-color: #202022; border-radius: 10px 10px; margin: 20px; padding-left: 50px; padding-right: 50px">Personal Blogs <img src="{{site.baseurl}}/assets/img/posts/icons/gizmos/personal32.png" alt="Personal Blogs" style=" border-radius: 5px; padding: 2px"> </a>
-            <a href="{{ site.baseurl }}/blog/categories/self-directed-study" style="background-color: #202022; border-radius: 10px 10px; margin: 20px; padding-left: 50px; padding-right: 50px">Study Blogs <img src="{{site.baseurl}}/assets/img/posts/icons/gizmos/study32.png" alt="Study Blogs" style=" border-radius: 5px; padding: 2px"> </a>
-        </div>
-    </div>
-</div>-->
-
-
 <div class="row" id="blog-posts-container" style="padding-top: 20px">
     <div class="col-lg-8 offset-md-1">
         <ul>
@@ -46,7 +33,7 @@ layout: default
                     <!--<hr>-->
                     <!--<a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}" class="btn btn-dark btn-lg" style="vertical-align:bottom; border-radius: 20px">Read</a>-->
                     <!--<p class="experience-desc" style="text-align:center; margin-bottom: 0px;"> <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}" class="btn btn-dark btn-lg" target="_blank" style="display: inline; border-radius: 10px 10px;">Read More...</a> <img src="/assets/img/posts/icons/gizmos/read32.png" style="text-align:center; margin: 5px;"></p>-->
-                </div>           
+                </div>
                 {% endfor %}
             </div>
         </ul>
@@ -86,6 +73,6 @@ layout: default
 
     </div>
     {%- include blog_sidebar.html -%}
-
+    {%- include contact_me_footer.html -%}
 </div>
 

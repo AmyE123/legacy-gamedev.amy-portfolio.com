@@ -69,7 +69,7 @@ usemathjax: true
 <p>One of the first activities I attended was the <strong>Diversity Champion Training</strong>, which was a group workshop where we chatted about <strong>diversity in the games industry</strong>. During this we talked about how we could make the games industry more diverse, and how to be there for anyone to talk to about any issues they may be having.</p>
 <p>We also talked about the painting <a href="https://en.wikipedia.org/wiki/Room_in_New_York" target="_blank" style="padding:0px !important">&lsquo;A Room In New York&rsquo;</a> by Edward Hopper, through open discussion about what was happening in the photo we concluded that we can&rsquo;t judge things by how we see it, as there could be many sides to every story. I learnt that <em>I should be the change that I want to see!</em></p>
 <p>Another activity I participated in was the <strong>Into Games Virtual Work Experience</strong>&nbsp;&ndash; I volunteered through Jagex to help <strong>mentor college students</strong>, and they had to work as a team to produce a game design document and game prototype in accordance to a brief, this was the first time I&rsquo;ve ever done mentoring, and although these students were only a few years younger than me, and I was an intern, so I was new to the games industry, I decided to bite the bullet and try my hand at mentoring.</p>
-<p>I realised through this that I really enjoy it! I prepared a handful of slides for each session with the students, and they were able to produce some great work by the end of the week! I talk more about my experience with this mentoring in this blog post *here*</p>
+<p>I realised through this that I really enjoy it! I prepared a handful of slides for each session with the students, and they were able to produce some great work by the end of the week! I talk more about my experience with this mentoring in this blog post <a href="/wip" target="_blank" style="padding:0px !important">here</a></p>
 </div>
 <p>I was also able to go to Cambridge to check out the Jagex studio too! An <strong>Intern Social Day</strong> was arranged for all of the interns to meet up, have a tour around the studio, meet some people from Jagex and look around Cambridge!</p>
 <p>I&rsquo;ve never been to Cambridge, seen a game studio, or been in my own hotel room before, so this was a whole load of new experiences!</p>
@@ -101,7 +101,7 @@ usemathjax: true
                 </div>
             </div>
         {% else %}
-            <img src="/assets/img/wip.png" style="object-fit: cover; height: 400px; width: 100%; object-position: 0 70%">
+           
         {% endif %}
 	{% endfor %}
 </div>
