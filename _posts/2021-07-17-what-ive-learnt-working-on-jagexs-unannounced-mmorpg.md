@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "What I’ve learnt working on Jagex’s unannounced MMORPG."
+title:  "What I’ve Learnt Working On Jagex’s Unannounced MMORPG."
 type: "Personal Blog"
 color: "background-color: firebrick"
 summary: "One morning, I woke up to an email titled 'Welcome to Jagex Games Studio' - I could barely believe it!"
