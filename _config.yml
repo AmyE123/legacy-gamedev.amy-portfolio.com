@@ -15,8 +15,6 @@ urls:
       url: /blog
     - text: Game Library
       url: /game-library
-    - text: Contact
-      url : /contact
     - text: CV
       url : /cv
 
@@ -37,6 +35,13 @@ typewrite-text: I'm a Gameplay Programmer!
 
 # Experiences
 author_work_experiences:
+            - company_name: Sumo Digital
+              company_logo: sumo.png
+              company_url: https://leamington.sumo-digital.com/
+              work_duration: Aug 2021 - Present
+              designation: Placement Programmer
+              description: Working on Programming.
+              visibility: true    
             - company_name: Jagex
               company_logo: jagex.png
               company_url: https://www.jagex.com/en-GB/
@@ -63,7 +68,7 @@ author_work_experiences:
               company_url: https://uk.webuy.com/
               work_duration: Jun 2018 - May 2021
               designation: Retail Sales Assistant
-              description: Served customers and helped them pick video games and electronics, I've also worked on testing and buying electronics.
+              description: I worked as an on-the-floor sales assistant. I was responsible for on-the-spot testing for customers’ phones and games consoles and offering to purchase the device.
               visibility: true
 
 # Education
@@ -90,8 +95,8 @@ author_project_details:
                 project_title: OldSchool RuneScape
                 project_description: Worked on the engine team to support the operation and on-going enhancement of the RuneScape engine and associated systems.
                 project_url: https://www.jagex.com/en-GB/
-                blog_url: /wip
-                date: In Progress
+                blog_url: /blog/my-time-working-on-runecape
+                date: 17th August, 2021
                 engine: inhouse.png
                 language: cpp.png
                 published: jagex.png
@@ -100,6 +105,9 @@ author_project_details:
                 dev: Jagex
                 bp: <ul> 
                         <li>Worked on developing client server architecture</li>
+                        <li>Learnt about what it's like working on a live MMORPG</li>
+                        <li>Learnt about how engine programming works and what engines are like under the hood</li>
+                        <li>Went on multiple livestreams with large audiences</li>
                      </ul>
                 visibility: true 
               - project_thumbnail: jagex.png
@@ -229,7 +237,7 @@ author_professional_games:
               - game_thumbnail: /gamelib/oldschoolrunescape.png
                 game_title: Old School Runescape
                 game_release: Ongoing              
-                game_blog: https://oldschool.runescape.com/
+                game_blog: /blog/my-time-working-on-runecape/
                 tag1: AAA
                 tag2: Jagex
                 tag3: MMORPG
@@ -237,7 +245,7 @@ author_professional_games:
               - game_thumbnail: /gamelib/jagex.png
                 game_title: Unannounced Triple-A MMORPG
                 game_release: Ongoing            
-                game_blog: /wip
+                game_blog: /blog/what-ive-learnt-working-on-jagexs-unannounced-mmorpg/
                 tag1: AAA
                 tag2: Jagex
                 tag3: MMORPG
@@ -400,6 +408,7 @@ author_personal_games:
 
 # social links
 twitter_username: amyelliott_
+gitlab_username: Numpadn
 github_username:  AmyE123
 facebook_username: amyme123
 linkedin_username: amy-m-elliott

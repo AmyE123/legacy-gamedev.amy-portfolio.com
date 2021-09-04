@@ -83,25 +83,20 @@ usemathjax: true
 <img src="/assets/img/posts/JGXUnannouncedMmorpg/tea.png" style="object-fit: cover; height: 200px; width: 100%; object-position: 0 60%">
 <h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Conclusion</h3>
 <p>Overall, I&rsquo;ve learnt many things working on Jagex&rsquo;s unannounced MMORPG team for 2 months during my internship. It may not seem like a long time, but within those two months I&rsquo;ve learnt many programming skills, different tools, and the different types of roles in the games industry. I&rsquo;ve also noticed a boost in my confidence, speaking skills and capability to learn and adapt to new things.</p>
-<p>This internship has made me realise what my goal is for the future: I hope to one day grow my skills in <strong>programming</strong> and <strong>leadership</strong> so I can become a <strong>Senior Programmer</strong>!</p>
+<p>This internship has made me realise what my goal is for the future: I hope to one day grow my skills in <strong>programming</strong> and <strong>leadership</strong> so I can become a <strong>Lead Programmer</strong>!</p>
 <hr>
 <h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Next - The Final Month Of My Internship.</h3>
-<div class="row">
-	{% for post in site.categories.jagex %}
-        {% if post.title == "What I’ve learnt working on RuneScape." %}
-            <div class="card blog-post" style="border-radius: 50px; width: 100% !important">
-                <div class="card-body center">
-                    <!-- <img src="{{site.url}}{{site.baseurl}}/assets/img/{{ site.author_logo }}" class="author-profile-img"> -->
-                    <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}" style="padding: 0px">
-                        <h4 class="card-title">{{ post.title }}</h4>
-                    </a>
-                    <hr>
-                    <h6 class="card-subtitle mb-2 text-muted">{{ post.date | date: "%b %-d, %Y" }}</h6>
-                    <p class="card-text">{{ post.summary }} </p>
-                </div>
-            </div>
-        {% else %}
-           
-        {% endif %}
-	{% endfor %}
+
+<div class="row" style="padding: 20px">
+  <div class="card blog-post" style="border-radius: 50px; width: 100% !important">
+    <a href="/blog/my-time-working-on-runecape" style="padding: 0px" target="_blank">
+      <div class="card-body center">
+              <h4 class="card-title">My Time Working On Old School RuneScape's Engine Team</h4>
+          <hr>
+          <h6 class="card-subtitle mb-2 text-muted">Aug 17, 2021</h6>
+          <p class="card-text">I was given the opportunity to work on engine programming for Old School RuneScape’s C++ Client, this helped me learn lots about how game engines work.</p>
+      </div>
+    </a>
+  </div>
 </div>
+<br/>
