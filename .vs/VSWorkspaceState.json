@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_includes",
-    "\\_posts"
+    "\\_includes"
   ],
-  "SelectedNode": "\\_posts\\2021-08-17-my-time-working-on-runescape.md",
+  "SelectedNode": "\\_layouts\\blog.html",
   "PreviewInSolutionExplorer": false
 }
