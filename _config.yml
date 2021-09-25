@@ -23,11 +23,11 @@ urls:
 
 author_logo: profile.png
 author: Amy Elliott
-author_bio: Hi! My name is Amy, and I'm a big fan of technical and creative exeperimentation, I do this by participating in Gamejams and small projects in my spare time. <br />
-            One day I hope to have developed a game for every single game genre, using as many different skills as possible. <br />
-            I love learning new things, from game engines and programming all the way to fun projects using an Arduino. <br />
-            I aspire to expand my knowledge of programming through hard work and self-directed study and my ultimate goal is to have a breadth of knowledge in every field of the games industry and excel in programming. <br />
-            I am motivated to bring accessibility to video games to support people with different disabilities as I believe there is currently a lack of accessible video games and accessories.
+author_bio: Hi! My name is Amy, and I’m a programmer based in the UK! I love playing and making video games and recently entering the games industry has only increased my interest in games development.<br />
+            I’m a big fan of technical and creative experimentation, and I do this by participating in gamejams and small projects in my spare time. With these small projects and gamejams, I try out as many different things as I can, including developing games from genres I’ve not made games for before and pushing my creativity (both technical and artistic) as far as possible. <br />
+            I love learning new things, from game engines and programming all the way to maths and fun projects using an Arduino.<br />
+            A goal of mine is to try and get younger and diverse people interested in games development and to achieve this, I’ve mentored students to help them develop games, been into high schools to talk to students about the games industry, and I’ve also appeared as a panelist in a few live streams, like the Women in Games Expo. <br />
+            Another goal of mine is to try and bring more accessibility to video games, to support people with different disabilities as I believe there is currently a lack of accessible video games and accessories. <br />
 author_email: "amy.elliott2002@yahoo.co.uk"
 author_location: United Kingdom
 author_website_url: "https://amy-portfolio.com"
@@ -49,6 +49,13 @@ author_work_experiences:
               designation: Game Enginner Intern 
               description: Worked on Programming for MMORPGs in pre-production, and live products in a Triple-A Industry environment.
               visibility: true  
+            - company_name: Game Development Mentor
+              company_logo: mentor.png
+              company_url: http://gamedev.amy-portfolio.com/
+              work_duration: Sept 2021 - Present
+              designation: Freelance
+              description: I've been mentoring a student to teach them about Game Development, from making a game design document all the way to finishing up a game which they've designed!
+              visibility: true
             - company_name: Submarine Simulator for The Royal Navy
               company_logo: rn.png
               company_url: https://www.royalnavy.mod.uk/careers/roles-and-specialisations/services/submarine-service
