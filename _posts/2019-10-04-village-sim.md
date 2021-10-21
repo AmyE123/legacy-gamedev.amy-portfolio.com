@@ -70,10 +70,6 @@ usemathjax: true
 <!--- This is the Embed of the game, followed by a collapsible with the gallery, which starts as open -->
 <!--- --------------------------------------------------------------------------------------------------------- -->
 <div style="text-align: center;"> <iframe frameborder="0" src="https://itch.io/embed-upload/3491873?color=333333" allowfullscreen="" width="980" height="650"><a href="https://horsehead.itch.io/village-simulation-game";  width="100%">Play Village Simulation Game on itch.io</a></iframe> </div>
-<div class="control-card">  
-    <h4 style="text-align: center;">Controls</h4>
-    <p style="text-align: center;">This game is played with the mouse. Click on objects in the world to instruct your villager to interact with them. By collecting enough resources you can start to build things, and attract more villagers.</p>
-</div>
 <hr>
 
 <h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Gallery & Screenshots</h3>
