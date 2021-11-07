@@ -169,7 +169,7 @@ blockquote {
  /* width */
 ::-webkit-scrollbar {
     width: 5px;
-    z-index: 1000;
+    z-index: 10000 !important;
 }
 
   /* Track */
@@ -405,38 +405,35 @@ header {
     margin-top: 10px !important;
 }
 .card {
-    margin: 20px !important;
-    //padding: 20px !important;
-    padding: 20px;
+    margin: 10px !important;
+    padding: 15px;
     background-color: var(--card-background-color) !important;
 }
 
 .libcard {
-    margin: 20px !important;
-    //padding: 20px !important;
-    padding: 20px;
+    margin: 10px !important;
+    padding: 15px;
     background-color: #292929f5 !important;
 }
 
 .widcard {
-    margin: 20px !important;
-    padding: 20px;
+    margin: 10px !important;
+    padding: 15px;
     background-color: white;
     text-align: center;
     border-radius: 25px;
 }
 
 .blogtopcard {
-    margin: 20px !important;
-    //padding: 20px !important;
-    padding: 20px;
+    margin: 10px !important;
+    padding: 15px;
     background-color: #1c1c1efc !important;
 }
 
 //This is the status-card for the blogs
 .status-card {
-    margin: 20px !important;
-    padding: 20px !important;
+    margin: 5px !important;
+    padding: 5px !important;
     //width: fit-content !important;
     // background-color: var(--card-background-color) !important;
     border: dashed;
@@ -446,8 +443,8 @@ header {
 
 //This is the control-card for the blogs
 .control-card {
-    margin: 20px !important;
-    padding: 20px !important;
+    margin: 5px !important;
+    padding: 5px !important;
     //width: fit-content !important;
     // background-color: var(--card-background-color) !important;
     border: dashed;
@@ -493,6 +490,30 @@ header {
     color: white !important;
     width: 33.3%;
     box-sizing: border-box;
+}
+
+.status-button {
+    font-size: small !important;
+    padding: .1rem .5rem !important;
+    display: inline !important;
+    background-color: darkslategrey !important;
+    margin: 10px !important;
+}
+
+.image-heading {
+    object-fit: cover !important;
+    height: 400px;
+    width: 100% !important;
+    object-position: 50% 50% !important;
+}
+
+.table-mobile {
+    max-width: 100%;
+    overflow: auto;
+}
+
+.a-text {
+    padding: 0px !important;
 }
 
 #lib-pic{
@@ -957,11 +978,6 @@ header {
     .offset-md-1 {
     margin-left: 3.333333% !important;
     }
-    // #topNav{
-    //     padding-left: 100px;
-    //     padding-right: 100px;
-    //     background-color: var(--nav-color) !important;
-    // }
 }
 
 #profile-card {
@@ -991,7 +1007,6 @@ header {
     }
     #header-nav{
         float: right;
-        margin-inline-start: 45px;
     }
     #navigation{
         margin-top:50px;

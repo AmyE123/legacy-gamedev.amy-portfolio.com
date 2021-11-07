@@ -12,66 +12,55 @@ keywords: villagesim, village, sim, indie
 permalink: /blog/village-simulator/
 usemathjax: true
 ---
-<!---Keep this here-->
-<!---Part of the collapsible group items // Ref: https://codepen.io/nhembram/pen/XKEJJp -->
-<script>
-     $('.panel-collapse').on('show.bs.collapse', function () {
-        $(this).siblings('.panel-heading').addClass('active');
-      });
 
-      $('.panel-collapse').on('hide.bs.collapse', function () {
-        $(this).siblings('.panel-heading').removeClass('active');
-      });
-</script>
-
-<!--- This HR is nice to have here, to seperate the status of the game -->
 <hr>
+<!--- ------------------ -->
+<!--- Status of the game -->
+<!--- ------------------ -->
+<div class="table-mobile">
+    <table>
+        <tr>
+            <th style="border: 0px !important">Status:</th>
+            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Done</small></th>
+        </tr>
+        <tr>
+            <th style="border: 0px !important">Project Type:</th> 
+            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Game Jam</small></th>
+        </tr>
+        <tr>
+            <th style="border: 0px !important">Development Duration:</th>
+            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">72 Hours</small></th>
+        </tr>
+        <tr>
+            <th style="border: 0px !important">Software Used:</th>
+            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Unity</small><small class="btn btn-col status-button">Photoshop</small></th>
+        </tr>
+        <tr>
+            <th style="border: 0px !important">Primary Roles:</th>
+            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Programming</small><small class="btn btn-col status-button">UI</small><small class="btn btn-col status-button">Design</small></th>
+        </tr>
+    </table>
+</div>
 
 
-<!--- -------------------------------------------------------------- -->
-<!--- This is for the status of the game, every game should have one -->
-<!--- -------------------------------------------------------------- -->
-<table>
-    <tr>
-        <th style="border: 0px !important">Status:</th>
-        <th style="text-align:right; border: 0px !important"><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">Done</small></th>
-    </tr>
-    <tr>
-        <th style="border: 0px !important">Project Type:</th> 
-        <th style="text-align:right; border: 0px !important"><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">Game Jam</small></th>
-    </tr>
-    <tr>
-        <th style="border: 0px !important">Development Duration:</th>
-        <th style="text-align:right; border: 0px !important"><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">72 Hours</small></th>
-    </tr>
-    <tr>
-        <th style="border: 0px !important">Software Used:</th>
-        <th style="text-align:right; border: 0px !important"><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">Unity</small><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">Photoshop</small></th>
-    </tr>
-    <tr>
-        <th style="border: 0px !important">Primary Roles:</th>
-        <th style="text-align:right; border: 0px !important"><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">Programming</small><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">UI</small><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">Design</small></th>
-    </tr>
-</table>
-
-
-<!--- This HR is nice to have here, to seperate the status of the game -->
 <hr>
-
-<!--- -------------------------------------------------------------------- -->
-<!--- This is for the main description of the game, this is very important -->
-<!--- -------------------------------------------------------------------- -->
+<!--- ---------------------------- -->
+<!--- Main description of the game -->
+<!--- ---------------------------- -->
 <div class = "card">
     <h2 style="text-align: center;">About Village Simulator</h2>
     <p style="text-align: center;">Village Simulator is a.. well you guessed it, it's a village simulator! This was designed around the theme 'Start with nothing' and was made for Ludum Dare 45. This game was made with a team of 2, including me, and my friend Joe. <br /> As our team was small, both me and Joe worked on a bit of everything so we could get the game done in time. <br /> This game helped me understand more about scriptable objects in Unity.</p>
 </div>
 
-<!--- --------------------------------------------------------------------------------------------------------- -->
-<!--- This is the Embed of the game, followed by a collapsible with the gallery, which starts as open -->
-<!--- --------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------ -->
+<!--- Embed or Youtube Footage of the game -->
+<!--- ------------------------------------ -->
 <div style="text-align: center;"> <iframe frameborder="0" src="https://itch.io/embed-upload/3491873?color=333333" allowfullscreen="" width="980" height="650"><a href="https://horsehead.itch.io/village-simulation-game";  width="100%">Play Village Simulation Game on itch.io</a></iframe> </div>
-<hr>
 
+<hr>
+<!--- ------------------------------------ -->
+<!--- Gallery and screenshots for the game -->
+<!--- ------------------------------------ -->
 <h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Gallery & Screenshots</h3>
 <div class="panel-heading active" role="tab" id="headingOne">
     <h2 class="panel-title" style="word-wrap: normal; padding: 15px; background-color: #1b1b1b">
@@ -125,18 +114,21 @@ usemathjax: true
 </div>
 
 <hr>
+<!--- ------------------------------------------------------- -->
+<!--- Development overviews for the game, to give an insight. -->
+<!--- ------------------------------------------------------- -->
 <h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Development Overview</h3>
 <p>This was the first Ludum Dare Gamejam which me and Joe entered in October of 2019, it was a 72-hour Gamejam, and we decided to get a good amount of sleep each night which meant we were working for about 48-hours of work time for our team of two. <br /> We wanted to try something different for this Gamejam, so we decided to try out a simulation game. <br /> Since it was just me and Joe developing the game for this Gamejam, this was something that none of us have done before so it really pushed our knowledge and abilities.  <br /> We were both really proud of our outcome since we learnt how to make a simulation game and people actually enjoyed playing it! <br /> The way the game works is we split the simulation from the presentation, all of the simulation would happen separately and independently from the game objects in the scenes, and then those 3D models would just have to replicate the underlying state, this allowed for very easy speed control implementation.</p>
 
 <h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Inspiration & UI For The Game</h3>
-<img src="/assets/img/posts/VillageSim/uiinspo.png" style="object-fit: cover; height: 400px; width: 100%; object-position: 0 50%">
+<img class="image-heading" src="/assets/img/posts/VillageSim/uiinspo.png">
 <p>We were both inspired by The Sims with their radical menus for actions, so we made it so when you click on something which can be interacted with, a list of possible interactions would pop up, which made adding new interactions simple, since all we would need to do is add new items to that list.<br />
 Near the end of the first day, the UI began to get worked on, we were looking at different types of UI to use but we were very inspired from the complex-but-sleek UI in the 2013 SimCity game, the UI was made so we could add new buildings and shelves without needing to lay out any additional UI, but in the end we never had the time to fill up the shelves so they didn’t have too much in them anyway, but it still looked really nice anyway!<br />
 We used ScriptableObjects a lot to define the properties of our elements on the prefabs.
 Each SimulationEvent had a slot for a SimulationProperties (Which was the Scriptable Object), this would show up on the screen whenever the player selected “More Info” on the radical UI. All of these properties would be changed from inside the editor.</p>
 
 <h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Rabbit-Hole System</h3>
-<img src="/assets/img/posts/VillageSim/rabbithole.png" style="object-fit: cover; height: 400px; width: 100%; object-position: 0 50%">
+<img class="image-heading" src="/assets/img/posts/VillageSim/rabbithole.png">
 <p>Most of our second day was spent getting a lot of the content in, like the 3D models and animations, we then also decided to implement a “rabbit hole” system, this too was borrowed from The Sims, where you would send your sims off to a location and they would disappear to do that, like when you send them to school or work, and when they come back, there would be some UI pop-up with text which explained what they done in their day, this allowed us to add world-building without needing all the content, I personally had a lot of fun writing out these little scenarios!</p>
 
 <h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Final Day</h3>
@@ -144,13 +136,12 @@ Each SimulationEvent had a slot for a SimulationProperties (Which was the Script
 We decided that the most important thing to get in first was progression, so that the player would have a reason to carry on playing, so we decided to check what buildings the player has crafted and progress from there, unlocking more buildings and villagers for the player to handle. <br />
 When the deadline was growing closer, we still had far too much we had to do, for example if a villager was hungry or tired or upset, there would be no effect on the game, so we quickly made a system for making the villagers pass out when their lacks are low. <br />
 Overall we were both very happy with how this game turned out, I personally really love how the game looks, it looks really sleek and clean, and it’s a very simple and easy game to pick up and play, we definitely planned way more than what we got done, but this is all part of leaning!</p>
+
 <hr>
-        
-<div class = "card">
-    <h3>Game Jam Participants</h3>
-    <p>This game was made by me and Joe Shanahan, we submitted it as a Team Horsehead game</p>
-    <p>You can read more information about the team here:</p>
-    <a href="/blog/authors/teamhorsehead" target="_blank" class="btn btn-dark btn-lg">Team Horsehead</a>
-</div>
+<!--- ------- -->
+<!--- Credits -->
+<!--- ------- -->
+<h3 style="text-align:center">Game Jam Participants</h3>
+<p style="text-align:center">This game was made by me and Joe Shanahan, we submitted it as a <a class = "a-text" href="/blog/authors/teamhorsehead" target="_blank">Team Horsehead</a> game</p> 
 
 <hr>

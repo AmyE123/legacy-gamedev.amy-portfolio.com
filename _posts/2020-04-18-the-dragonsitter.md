@@ -12,65 +12,54 @@ keywords: dragonsitter, gamejam, here
 permalink: /blog/the-dragonsitter/
 usemathjax: true
 ---
-<!---Keep this here-->
-<!---Part of the collapsible group items // Ref: https://codepen.io/nhembram/pen/XKEJJp -->
-<script>
-     $('.panel-collapse').on('show.bs.collapse', function () {
-        $(this).siblings('.panel-heading').addClass('active');
-      });
 
-      $('.panel-collapse').on('hide.bs.collapse', function () {
-        $(this).siblings('.panel-heading').removeClass('active');
-      });
-</script>
-
-<!--- This HR is nice to have here, to seperate the status of the game -->
 <hr>
+<!--- ------------------ -->
+<!--- Status of the game -->
+<!--- ------------------ -->
+<div class="table-mobile">
+    <table>
+        <tr>
+            <th style="border: 0px !important">Status:</th>
+            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Done</small></th>
+        </tr>
+        <tr>
+            <th style="border: 0px !important">Project Type:</th> 
+            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Game Jam</small></th>
+        </tr>
+        <tr>
+            <th style="border: 0px !important">Development Duration:</th>
+            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">72 Hours</small></th>
+        </tr>
+        <tr>
+            <th style="border: 0px !important">Software Used:</th>
+            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Unity</small><small class="btn btn-col status-button">Photoshop</small><small class="btn btn-col status-button">Maya</small></th>
+        </tr>
+        <tr>
+            <th style="border: 0px !important">Primary Roles:</th>
+            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Programming</small><small class="btn btn-col status-button">UI</small><small class="btn btn-col status-button">Design</small><small class="btn btn-col status-button">3D</small></th>
+        </tr>
+    </table>
+</div>
 
-
-<!--- -------------------------------------------------------------- -->
-<!--- This is for the status of the game, every game should have one -->
-<!--- -------------------------------------------------------------- -->
-<table>
-    <tr>
-        <th style="border: 0px !important">Status:</th>
-        <th style="text-align:right; border: 0px !important"><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">Done</small></th>
-    </tr>
-    <tr>
-        <th style="border: 0px !important">Project Type:</th> 
-        <th style="text-align:right; border: 0px !important"><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">Game Jam</small></th>
-    </tr>
-    <tr>
-        <th style="border: 0px !important">Development Duration:</th>
-        <th style="text-align:right; border: 0px !important"><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">72 Hours</small></th>
-    </tr>
-    <tr>
-        <th style="border: 0px !important">Software Used:</th>
-        <th style="text-align:right; border: 0px !important"><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">Unity</small><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">Photoshop</small><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">Maya</small></th>
-    </tr>
-    <tr>
-        <th style="border: 0px !important">Primary Roles:</th>
-        <th style="text-align:right; border: 0px !important"><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">Programming</small><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">UI</small><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">Design</small><small class="btn btn-col" style="font-size: small; padding: .1rem .5rem; display:inline; background-color: darkslategrey; margin: 10px">3D</small></th>
-    </tr>
-</table>
-
-
-<!--- This HR is nice to have here, to seperate the status of the game -->
 <hr>
-
-<!--- -------------------------------------------------------------------- -->
-<!--- This is for the main description of the game, this is very important -->
-<!--- -------------------------------------------------------------------- -->
+<!--- ---------------------------- -->
+<!--- Main description of the game -->
+<!--- ---------------------------- -->
 <div class = "card">
     <h2 style="text-align: center;">About The Dragonsitter</h2>
     <p style="text-align: center;">The Dragonsitter is a Tamagotchi inspired game, made for the 'Keep it alive' theme. I ended up working on all sorts of things for this game, including programming, 3D and art. <br />This game was made with a team of 4, including me. <br />This game was great fun to plan out and produce, I felt like we worked very well as a team to make this!</p>
 </div>
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- This is the Embed or Youtube Footage of the game, followed by controls and a collapsible with the gallery, which starts as open -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------ -->
+<!--- Embed or Youtube Footage of the game -->
+<!--- ------------------------------------ -->
 <div style="text-align: center;"><iframe frameborder="0" src="https://itch.io/embed-upload/2159156?color=333333" allowfullscreen="" width="980" height="688"><a href="https://horsehead.itch.io/keep-it-alive">Play The Dragonsitter on itch.io</a></iframe></div>
+
 <hr>
+<!--- ------------------------------------ -->
+<!--- Gallery and screenshots for the game -->
+<!--- ------------------------------------ -->
 <h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Gallery & Screenshots</h3>
 <div class="panel-heading active" role="tab" id="headingOne">
     <h2 class="panel-title" style="word-wrap: normal; padding: 15px; background-color: #1b1b1b">
@@ -110,13 +99,17 @@ usemathjax: true
         </div>
     </div>
 </div>
+
 <hr>
+<!--- ------------------------------------------------------- -->
+<!--- Development overviews for the game, to give an insight. -->
+<!--- ------------------------------------------------------- -->
 <h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Development Overview</h3>
-<img src="/assets/img/posts/TheDragonsitter/tamagotchi.png" style="object-fit: cover; height: 400px; width: 100%; object-position: 0 50%">
+<img class="image-heading" src="/assets/img/posts/TheDragonsitter/tamagotchi.png">
 <p>Our team of 4 entered this Gamejam in April of 2020, this Gamejam was a 72 -hour Gamejam, and much like our other Ludum Dare gamejam entry (Village Simulator) – We decided to each get a good amount of sleep each night, resulting on us working on the game each day for 12 or so hours, 48 hours in total.<br />
 For this Gamejam, the theme was ‘Keep it alive’ – and that reminded most of our team of Tamagotchis! So that is where planning for this game began.</p>
 <h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Planning and Concepting</h3>
-<img src="/assets/img/posts/TheDragonsitter/2.png" style="object-fit: cover; height: 400px; width: 100%; object-position: 0 50%">
+<img class="image-heading" src="/assets/img/posts/TheDragonsitter/2.png">
 <p>Our planning was mostly done on a document we all had access to over a Skype call, writing down random words, and pictures, and a list of words, and once we done that, we had our idea. <br />
 The idea of our game is similar to Tamagotchi and Sims, since you have to take care and keep alive both your Tamagotchi and Sim, and we already had an idea how to do some of the mechanics which would be required since we had made the Village Simulator game previously.<br />
 For the main ‘thing’ we had to keep alive, we all began making suggestions on animals and creatures which we all really liked from other games, we had the Chocobo from Final Fantasy suggested, along with some Pokemon (most notably Snorlax!) and Valoo from Wind Waker.<br />
@@ -125,55 +118,16 @@ Taking these ideas, I began to sketch up some quick concept sketches of an anima
 <p>For the UI in the game, we referenced code which was used for our Village Simulation game to have a radical crafting menu, since we felt like this looks the best, our crafting menu was certainly lacking though, due to the restrictions on time, we could only manage to get the fire and the 2 straw beds for the dragon into the menu, and the fire was the only thing with functionality. <br />
 Our other UI interfaces involved the inventory at the bottom middle, the dragon’s needs at the bottom right and the date along with notifications on the top left, the notifications have similar functionality to the notifications in the Village Simulator game too. These UI elements were made with Scriptable Objects so it’s not hard to modify properties of the UI.</p>
 <h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Weather System</h3>
-<img src="/assets/img/posts/TheDragonsitter/g4.gif" style="object-fit: cover; height: 400px; width: 100%; object-position: 0 50%">
+<img class="image-heading" src="/assets/img/posts/TheDragonsitter/g4.gif">
 <p>Particles were used a bit more in this game, for example, the dragon’s reaction particles and the weather particles, these were all pretty important to have in the game because the dragon’s reaction particles let the player know if their input has been put in or not, and the weather particles are there mostly for aesthetics, but they do serve a purpose, as if it’s snowing, the dragon gets colder faster, and if it’s raining the fire gets put out faster. – I personally wish we had more time to put in more particles, for example, a happy reaction particle for the dragon if their needs are high.<br /></p>  
-<hr>
-
-<div class = "card">
-    <h3>Game Jam Participants</h3>
-    <p>I've talked about Team Horsehead a lot in this blog, and you can read more information about the team here:</p>
-    <a href="/blog/authors/teamhorsehead" target="_blank" class="btn btn-dark btn-lg">Team Horsehead</a>
-</div>
-
 
 <hr>
+<!--- ------- -->
+<!--- Credits -->
+<!--- ------- -->
+<h3 style="text-align:center">Game Jam Participants</h3>
+<p style="text-align:center">This game was made by 4 members of the <a class = "a-text" href="/blog/authors/teamhorsehead" target="_blank">Team Horsehead</a> team, including me. <br /> You can see more information about the team on the <a class = "a-text" href="https://horsehead.itch.io/keep-it-alive" target="_blank">Itch.io page</a>.</p> 
 
-<!--- -------------------------------------------------------- -->
-<!--- This is another style of a collapsible which I could use -->
-<!--- -------------------------------------------------------- -->
-<!---
-<details> 
-    <summary>Some Words</summary> 
-    some text here
-</details>
--->
+<hr>
 
-
-<!--- ------------------------------------------------- -->
-<!--- Styleguide on how to use code to document my work -->
-<!--- ------------------------------------------------- -->
-<!---
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-or
-
-```javascript
-var a = 1;
-var b = 2;
-function sum (num1,num2){
-  return num1+num2;
-}
-var result = sum(a,b);
-```
-
-```c
-cout >> "fun" >> endl;
-```
--->
 
