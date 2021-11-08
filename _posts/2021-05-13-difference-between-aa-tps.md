@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "What's the difference between Action-Adventure and Third Person Shooters?"
+title:  "What's The Difference Between Action-Adventure & Third Person Shooters?"
 type: "Misc Blog"
 color: "background-color: #003261"
 summary: "This blog will compare and define the games Resident Evil 4, (2005) and Twilight Princess, (2006), and their respective genres."
@@ -12,17 +12,7 @@ keywords: residentevil4, zelda, twilight-princess
 permalink: /blog/difference-between-actionadventure-and-thirdpersonshooters/
 usemathjax: true
 ---
-<!---Keep this here-->
-<!---Part of the collapsible group items // Ref: https://codepen.io/nhembram/pen/XKEJJp -->
-<script>
-     $('.panel-collapse').on('show.bs.collapse', function () {
-        $(this).siblings('.panel-heading').addClass('active');
-      });
-
-      $('.panel-collapse').on('hide.bs.collapse', function () {
-        $(this).siblings('.panel-heading').removeClass('active');
-      });
-</script>
+<hr>
 <p>This blog will compare and define the games Resident Evil 4, (2005) and Twilight Princess, (2006), and their respective genres. These games both have multiple genres associated with them due to how broad they are in gameplay, but it is noticeably clear these games have a main genre for their chosen target audience.<br />
 Due to these games being so vast, they tend to draw unexpected audiences into new games and new genres, in this blog I discuss why this can have a positive and negative impact on the future of these genres.</p>
 
