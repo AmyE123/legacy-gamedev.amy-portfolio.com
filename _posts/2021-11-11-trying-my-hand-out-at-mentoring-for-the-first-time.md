@@ -66,4 +66,3 @@ usemathjax: true
     </a>
   </div>
 </div>
-<br/>
