@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Trying My Hand Out At Mentoring For The First Time."
+title:  "Helping Students With A Gamejam"
 type: "Personal Blog"
 color: "background-color: firebrick"
 summary: "I’ve always been interested in Education, so back in July I had found an opportunity to help students solve any problems with programming in a Gamejam using Twine, which is a tool I’ve not used before!"
@@ -9,13 +9,14 @@ date: '2021-11-13'
 category: ['personal', 'education', 'teaching', 'reflection', 'development', 'improvement']
 thumbnail: /assets/img/posts/SidefestMentoring/cover.png
 keywords: personal, education, teaching, reflection, development, improvement
-permalink: /blog/trying-my-hand-out-at-mentoring-for-the-first-time/
+permalink: /blog/helping-students-with-a-gamejam/
 usemathjax: true
 ---
 
 
 <img class="image-heading" src="/assets/img/posts/SidefestMentoring/intro.jpg">
-<p>I’ve always been interested to help out students with learning more about games development.<br />I had never done any games mentoring beforehand, and the mentoring knowledge I had, in general, was <em>very small</em> as I’m still a student at the moment. <br />I usually find that the best way to learn is to just <strong>do</strong> whatever it is you want to learn and <em>dive into the deep end</em>.<br />As I wanted to learn about mentoring, as soon as I heard about this opportunity online, I decided to apply straight away!</p>
+<p>I’ve always been interested to help out students with learning more about games development.<br /> </p>
+<p>I previously <a href="/wip" style="padding: 0px" target="_blank"> helped out some college students with designing and prototying a game </a>, and I enjoyed it so much that I decided to put myself forward to help some more students out a week or two later!</p>
 <p>What I was doing was helping a class of college students out with their own Gamejams, where they used <strong>Twine</strong> to make a game based around student loans.<br />My job was to help the students <strong>find resources</strong>, <strong>manage their workload</strong>, <strong>give feedback,</strong> and <strong>help solve any problems they had with programming</strong>!</p>
 <hr>
 <img class="image-heading" src="/assets/img/posts/SidefestMentoring/1.PNG" style="height: 200px !important">
@@ -48,7 +49,7 @@ usemathjax: true
   <div class="card blog-post" style="border-radius: 50px; width: 100% !important">
     <a href="/wip" style="padding: 0px" target="_blank">
       <div class="card-body center">
-              <h4 class="card-title">Guiding Students Through Design & Prototyping a Game</h4>
+              <h4 class="card-title">Guiding Students Through Designing & Prototyping a Game</h4>
           <hr>
           <h6 class="card-subtitle mb-2 text-muted">Jan 1, 2000</h6>
           <p class="card-text">Work In Progress Blog</p>
