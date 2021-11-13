@@ -3,9 +3,9 @@ layout: post
 title:  "Trying My Hand Out At Mentoring For The First Time."
 type: "Personal Blog"
 color: "background-color: firebrick"
-summary: "I’ve always been interested in Education, so I had found an opportunity to help students solve any problems with programming in a Gamejam using Twine, which is a tool I’ve not used before!"
+summary: "I’ve always been interested in Education, so back in July I had found an opportunity to help students solve any problems with programming in a Gamejam using Twine, which is a tool I’ve not used before!"
 author: amyelliott
-date: '2021-11-11'
+date: '2021-11-13'
 category: ['personal', 'education', 'teaching', 'reflection', 'development', 'improvement']
 thumbnail: /assets/img/posts/SidefestMentoring/cover.png
 keywords: personal, education, teaching, reflection, development, improvement
