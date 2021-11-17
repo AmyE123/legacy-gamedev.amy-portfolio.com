@@ -1,9 +1,9 @@
 ﻿---
 layout: post
-title:  "Helping Students With A Gamejam"
+title:  "Helping Students With Programming & Problem Solving."
 type: "Personal Blog"
 color: "background-color: firebrick"
-summary: "I’ve always been interested in Education, so back in July I had found an opportunity to help students solve any problems with programming in a Gamejam using Twine, which is a tool I’ve not used before!"
+summary: "Shortly after volunteering to mentor at an Into Games event, I had found an opportunity to help students solve any problems with programming in a Gamejam using Twine, which is a tool I’ve not used before!"
 author: amyelliott
 date: '2021-11-13'
 category: ['personal', 'education', 'teaching', 'reflection', 'development', 'improvement']
@@ -12,11 +12,23 @@ keywords: personal, education, teaching, reflection, development, improvement
 permalink: /blog/helping-students-with-a-gamejam/
 usemathjax: true
 ---
-
-
+<hr>
+<div class="table-mobile">
+    <table>
+            <tr>
+            <th style="border: 0px !important">Event:</th>
+            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">SideFest Twine GameJam</small></th>
+        </tr>
+        <tr>
+            <th style="border: 0px !important">Date of event:</th>
+            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">July</small><small class="btn btn-col status-button">2021</small></th>
+        </tr>
+    </table>
+</div>
+<hr>
 <img class="image-heading" src="/assets/img/posts/SidefestMentoring/intro.jpg">
-<p>I’ve always been interested to help out students with learning more about games development.<br /> </p>
-<p>I previously <a href="/wip" style="padding: 0px" target="_blank"> helped out some college students with designing and prototying a game </a>, and I enjoyed it so much that I decided to put myself forward to help some more students out a week or two later!</p>
+<p>Helping students out who are new to games development is something I love doing.<br /> </p>
+<p>I previously <a href="/blog/guiding-students-through-designing-prototying-a-game/" style="padding: 0px" target="_blank"> helped out some college students with designing and prototying a game </a>, and I enjoyed it so much that I decided to put myself forward to help some more students out a week or two later!</p>
 <p>What I was doing was helping a class of college students out with their own Gamejams, where they used <strong>Twine</strong> to make a game based around student loans.<br />My job was to help the students <strong>find resources</strong>, <strong>manage their workload</strong>, <strong>give feedback,</strong> and <strong>help solve any problems they had with programming</strong>!</p>
 <hr>
 <img class="image-heading" src="/assets/img/posts/SidefestMentoring/1.PNG" style="height: 200px !important">
@@ -26,7 +38,7 @@ usemathjax: true
 <p>I spent some time looking over Twine videos and playing around to get to understand it, and then looked into the documentation. It was well documented, so that was a good resource for me to use.</p>
 <p>There wasn’t much time between me applying to do this, and the gamejam starting, so I was <strong>learning along the way from helping out the students!</strong> And I learnt a lot!</p>
 <hr>
-<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">How to prepare a PowerPoint for teaching</h3>
+<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Preparing a PowerPoint for teaching</h3>
 <p>As well as helping out with problems the students had with Twine, I was tasked to make a PowerPoint to <strong>guide</strong> the students through <strong>how to upload their game to Itch.io</strong>.</p>
 <p>This was the PowerPoint I made:</p>
 <iframe src="https://onedrive.live.com/embed?cid=9594E849DC7FC39E&amp;resid=9594E849DC7FC39E%2156789&amp;authkey=ADrwnHHkruLe4lY&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="500px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
@@ -47,12 +59,12 @@ usemathjax: true
 
 <div class="row" style="padding: 20px">
   <div class="card blog-post" style="border-radius: 50px; width: 100% !important">
-    <a href="/wip" style="padding: 0px" target="_blank">
+    <a href="/blog/guiding-students-through-designing-prototying-a-game/" style="padding: 0px" target="_blank">
       <div class="card-body center">
               <h4 class="card-title">Guiding Students Through Designing & Prototyping a Game</h4>
           <hr>
-          <h6 class="card-subtitle mb-2 text-muted">Jan 1, 2000</h6>
-          <p class="card-text">Work In Progress Blog</p>
+          <h6 class="card-subtitle mb-2 text-muted">Nov 17, 2021</h6>
+          <p class="card-text">Back in July, I volunteered at Into Games to help a group of students with project management for designing and prototyping a mining game loop. This was my first ever mentoring experience.</p>
       </div>
     </a>
   </div>
