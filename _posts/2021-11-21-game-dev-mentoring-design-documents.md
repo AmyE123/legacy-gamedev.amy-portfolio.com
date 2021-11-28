@@ -21,8 +21,8 @@ usemathjax: true
 <p>In my time in the games industry, the senior and lead programmers have helped me out with any issues I’ve been having with my code and been really great mentors, and so I think doing something like this would help me out when I become a senior or lead programmer one day!</p>
 <hr>
 
-<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Setting Up A Games Dev Course</h3>
 <img class="image-heading" src="/assets/img/posts/GameDevMentoring/DesignDoc/2.png" style="height: 200px !important">
+<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Setting Up A Games Dev Course</h3>
 <p>As this is the first blog in the series of blogs I’ll be doing on my 1-to-1 mentoring sessions, I thought it would be good to talk about how I’ve organized and set up everything!</p>
 <p>The main objective for all of this is for me to <strong>help and guide students to making the games that they have always dreamt of making!</strong> Going through the entire process of a games’ development from start to finish, to see if any of the processes are things that the student enjoys doing!</p>
 <p>From the image on the header, you can see I’ve structured the course in a way to cover <strong>lots of different things!</strong> And although I haven’t had a job in some of these areas, I’m able to give a basic introduction to them as I have worked in them when making gamejams, and college/university projects, and I’ve also talked and worked with many people in many different roles to learn about their day-to-day life.</p>
@@ -38,8 +38,8 @@ usemathjax: true
 </div>
 <hr>
 
-<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Ideas Generation</h3>
 <img class="image-heading" src="/assets/img/posts/GameDevMentoring/DesignDoc/3.jpg" style="height: 200px !important">
+<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Ideas Generation</h3>
 <p>Before me and Thomas even began making a game design document, we needed to know what he wanted to make!</p>
 <p>For the first few sessions, we were doing ideas generation, and for this, he showed me his <strong>favorite games on Roblox</strong> and he pointed out his <strong>favorite mechanics within them</strong>, we also talked about his favorite <strong>hobbies</strong>, and looked through pictures on Pinterest, talking about what he liked and disliked about them, and from that, we had a long list of things that he liked!</p>
 <p>From this list, he made up a few ideas of games that he wants to make:</p>
@@ -54,15 +54,15 @@ usemathjax: true
 <p>In the end, Thomas picked the Prop Hunt idea.</p>
 <hr>
 
-<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Researching Other GDDs</h3>
 <img class="image-heading" src="/assets/img/posts/GameDevMentoring/DesignDoc/4.jpg" style="height: 200px !important">
+<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Researching Other GDDs</h3>
 <p>So Thomas had a better idea of what Game Design Documents are, and what is in them, I found some Game Design Documents online to show him!</p>
 <p>We went through a GDD for An Ants Life, one for a game titled Pierre, and a few others. And from this, we talked about <strong>what he likes from each of these</strong>, and <strong>why he thinks they’re important for a game to have</strong>.</p>
 <p>I made a template for Thomas to use for his own GDD which had everything which he needs for the game which he wants to make.</p>
 <hr>
 
-<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Making The GDD</h3>
 <img class="image-heading" src="/assets/img/posts/GameDevMentoring/DesignDoc/5.jpg" style="height: 200px !important">
+<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Making The GDD</h3>
 <p>When making the Game Design Document, he started by writing words, and bullet points for each written section in the document, it’s good to do this as it allows us to think about the overall design without thinking too deeply into each section.</p>
 <p>Starting off with the Game Overview section, me and Thomas had to discuss what exactly he wanted the game to be, as we knew it was a prop hunt game, but that was all at this point, so in this section, we had a <strong>look into other similar games</strong> and tried to talk about what their objectives were, and what features they had, and what we thought their target audience was, and so on… and with this information, we wrote down his ideas! <br />From his ideas, we began to add to the Game Overview section.</p>
 <p>Firstly, he wrote an introduction. For this, Thomas wrote about what the game is inspired by and a <strong>rough idea of how the game would play</strong>. And in relation to this, he began to break down in more detail what the game is like by writing the <strong>objectives</strong> and <strong>features</strong> of the game, we made this more like an <strong>open conversation</strong>, trying to imagine the game and what he would want it to be like.</p>
