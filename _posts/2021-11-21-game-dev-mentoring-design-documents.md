@@ -7,7 +7,7 @@ summary: "In this blog, I talk about my process of setting up a games developmen
 author: amyelliott
 date: '2021-11-21'
 category: ['personal', 'education', 'teaching', 'reflection', 'development', 'improvement']
-thumbnail: /assets/img/posts/wip.png
+thumbnail: /assets/img/posts/GameDevMentoring/DesignDoc/cover.png
 keywords: personal, education, teaching, reflection, development, improvement
 permalink: /blog/game-dev-mentoring/game-design-docs
 usemathjax: true
