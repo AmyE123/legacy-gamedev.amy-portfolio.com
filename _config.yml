@@ -360,11 +360,11 @@ author_personal_games:
               - game_thumbnail: /gamelib/capsays.png
                 game_title: Captain Says
                 game_release: 31st August, 2019            
-                game_blog: /wip
+                game_blog: /blog/captain-says/
                 tag1: Educational
                 tag2: Casual
                 tag3: Arcade
-                browser_playable: true
+                browser_playable: false
                 visibility: true 
               - game_thumbnail: /gamelib/onlyonerecruit.png
                 game_title: Only One Recruit
