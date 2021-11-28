@@ -51,6 +51,16 @@ usemathjax: true
 <p><strong>Git Bash</strong> and using Git commands was one of the big things which I've learned out of all the tools I've used. I've not really used Git with commands before, but I did use Git with UI, I liked using TurtoiseGit and GitHub Desktop previously. Now I know how Git works with some commands!</p>
 <p>I used <strong>C++</strong> when working on the <strong>Steam engine</strong>, and through doing a client-side ticket I've learned lots about <strong>logic, rendering, being efficient with my code, and how code efficiency compares between a live game and a game in pre-production.</strong><br />I also learned about the process of what the RuneScape content developers do through adding some <strong>RuneScript code</strong> which printed something in the game chatbox, and during another call with some content developers, I learned about how to add an NPC into the game with decision dialogue which either ended up with the player battling the NPC or starting a quest for the NPC.<br />This helped when it came to adding in sprites and packaging them as adding sprites was part of one of the tasks I was working on, and it is something content developers usually work with.</p>
 <hr>
+
+<img class="image-heading" src="/assets/img/posts/JGXRunescape/mention.PNG" style="height: 200px !important">
+<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">What I've done</h3>
+<p>One of the main things I've worked on when working on Old School RuneScape's engine team has been officially released on the Steam client! The <a href="https://secure.runescape.com/m=news/group-ironman?oldschool=1" target="_blank" style="padding:0px !important">newspost here</a> mentions this too!</p>
+<p>It's a volume slider for the title screen! </p>
+<p>This had to be coded from complete scratch, and I had to figure out the most efficient way to render in the volume bar sprites for changing the volume! <br />Doing this in the codebase meant I needed to learn about all the different systems to do with inserting sprites and saving data for the next time the player opens the client!</p>
+<div class="video-container" style="padding-top: 0px !important">
+    <iframe src="https://drive.google.com/file/d/1foSvjsgSucx8CZFhu_vlCnjHB73p9Fcg/preview" width="100%" frameborder="0"></iframe>
+</div>
+<hr>
 <img src="/assets/img/posts/JGXRunescape/3.jpg" style="object-fit: cover; height: 200px; width: 100%; object-position: 0 50%">
 <h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Extracurricular Activities & Work</h3>
 <p>There are lots of things that I&rsquo;ve done outside of my role which was fun to do with Jagex.<br />For example, a Tech Social, where lots of people got together from the tech teams and played games. We played a drawing game and a few online card games! This really helped me with meeting new people from other teams which I might have not met otherwise!</p>
