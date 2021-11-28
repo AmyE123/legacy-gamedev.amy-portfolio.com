@@ -98,5 +98,3 @@ usemathjax: true
 
 <hr>
 
-
-<hr>
