@@ -140,7 +140,7 @@ author_project_details:
                 project_title: Blocky Road
                 project_description: A hyper-casual puzzle game, made in 15 hours.
                 project_url: https://amy-elliott.itch.io/blockyroads
-                blog_url: https://amy-portfolio.com/blocky-road
+                blog_url: /blog/blocky-road/
                 date: 28th October, 2020
                 engine: unity.png
                 language: cs.png
@@ -279,7 +279,7 @@ author_personal_games:
               - game_thumbnail: /gamelib/toytactics.png
                 game_title: Toy Tactics
                 game_release: 4th October, 2021             
-                game_blog: /wip
+                game_blog: /blog/toy-tactics/
                 tag1: Tactics
                 tag2: Puzzles
                 tag3: Artifical Intelligence
@@ -288,7 +288,7 @@ author_personal_games:
               - game_thumbnail: /gamelib/tsh.png
                 game_title: Team Swap Heroes
                 game_release: 24th Febuary, 2020             
-                game_blog: /wip
+                game_blog: /blog/team-swap-heroes/
                 tag1: Teamwork
                 tag2: Puzzles
                 tag3: Time Race
@@ -297,7 +297,7 @@ author_personal_games:
               - game_thumbnail: /gamelib/airportgame.png
                 game_title: Airport - Lost & Found
                 game_release: 31st January, 2021             
-                game_blog: /wip
+                game_blog: /blog/airport-lost-and-found/
                 tag1: Crazy Taxi
                 tag2: Ragdoll
                 tag3: Time Race
@@ -306,7 +306,7 @@ author_personal_games:
               - game_thumbnail: /gamelib/intoodeep.png
                 game_title: In Too Deep
                 game_release: 27th April, 2021             
-                game_blog: /wip
+                game_blog: /blog/in-too-deep/
                 tag1: Mining
                 tag2: Tycoon
                 tag3: Survival
@@ -315,7 +315,7 @@ author_personal_games:
               - game_thumbnail: /gamelib/blocky.png
                 game_title: Blocky Road
                 game_release: 28th October, 2020            
-                game_blog: /wip
+                game_blog: /blog/blocky-road/
                 tag1: Hyper Casual
                 tag2: Teamwork
                 tag3: Puzzles
@@ -324,7 +324,7 @@ author_personal_games:
               - game_thumbnail: /gamelib/pop.png
                 game_title: Poppin Hoppin Unlockin
                 game_release: 12th November, 2020            
-                game_blog: /wip
+                game_blog: /blog/poppin-hoppin-unlockin/
                 tag1: Platformer
                 tag2: Fantasy
                 tag3: Puzzles
@@ -333,7 +333,7 @@ author_personal_games:
               - game_thumbnail: /gamelib/beatcity.png
                 game_title: Beat City
                 game_release: 20th Feburary, 2020            
-                game_blog: /wip
+                game_blog: /blog/beat-city/
                 tag1: Music & Rhythm
                 tag2: Cyberpunk
                 tag3: Competitive
@@ -342,7 +342,7 @@ author_personal_games:
               - game_thumbnail: /gamelib/ordos.png
                 game_title: Ordos - Order & Chaos
                 game_release: 12th May, 2020            
-                game_blog: /wip
+                game_blog: /blog/ordos/
                 tag1: Action
                 tag2: Combat Flight Simulator
                 tag3: Fantasy
@@ -351,7 +351,7 @@ author_personal_games:
               - game_thumbnail: /gamelib/westernrunner.png
                 game_title: Western Runner
                 game_release: November, 2019            
-                game_blog: /wip
+                game_blog: /blog/western-runner/
                 tag1: Endless Runner
                 tag2: Casual
                 tag3: Western
