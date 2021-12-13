@@ -73,56 +73,13 @@ usemathjax: true
 <div id="collapseGameplayScreenshot" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
     <div class="panel-body">
         <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/TeamSwapHeroes/1.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
+            <img src="/assets/img/posts/ToyTactics/1.jpg" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
         </div>
         <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/TeamSwapHeroes/2.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
+            <img src="/assets/img/posts/ToyTactics/2.jpg" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
         </div>
         <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/TeamSwapHeroes/3.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-    </div>
-</div>
-<div class="panel-heading active" role="tab" id="headingTwo">
-    <h2 class="panel-title" style="word-wrap: normal; padding: 15px; background-color: #1b1b1b">
-    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseLevDes" aria-expanded="true" aria-controls="collapseLevDes" style="font-size: 18px; padding: 0px !important">
-        Level Design
-    </a>
-    </h2>                                
-</div>
-<div id="collapseLevDes" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-    <div class="panel-body">
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/TeamSwapHeroes/L1.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/TeamSwapHeroes/L2.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/TeamSwapHeroes/L3.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/TeamSwapHeroes/L4.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-    </div>
-</div>
-<div class="panel-heading active" role="tab" id="headingThree">
-    <h2 class="panel-title" style="word-wrap: normal; padding: 15px; background-color: #1b1b1b">
-    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseConcArt" aria-expanded="true" aria-controls="collapseConcArt" style="font-size: 18px; padding: 0px !important">
-        Concept Art
-    </a>
-    </h2>                                
-</div>
-<div id="collapseConcArt" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-    <div class="panel-body">
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/TeamSwapHeroes/CharacterConcept.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/TeamSwapHeroes/Enemy.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/TeamSwapHeroes/Environment.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
+            <img src="/assets/img/posts/ToyTactics/3.jpg" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
         </div>
     </div>
 </div>
