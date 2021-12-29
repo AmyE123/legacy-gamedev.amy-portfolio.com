@@ -161,7 +161,7 @@ author_project_details:
                 project_title: Planesman Trainer
                 project_description: A submarine simulator game which was made for the Royal Navy's recruitment events
                 project_url: https://www.royalnavy.mod.uk/careers/roles-and-specialisations/services/submarine-service
-                blog_url: /wip
+                blog_url: /blog/sub-sim/
                 date: 9th April, 2021
                 engine: unity.png
                 language: cs.png
@@ -268,7 +268,7 @@ author_professional_games:
               - game_thumbnail: /gamelib/subsim.png
                 game_title: Submarine Simulator
                 game_release: 9th April, 2021          
-                game_blog: /wip
+                game_blog: /blog/sub-sim/
                 tag1: Teamwork
                 tag2: Simulator
                 tag3: Royal Navy

@@ -7,7 +7,7 @@ summary: "Submarine Simulator is a Simulator game made for the Royal Navy where 
 author: amyelliott
 date: '2021-04-09'
 category: ['game-development', 'royal-navy', 'unity']
-thumbnail: /assets/img/posts/subsim/cover.png
+thumbnail: /assets/img/posts/SubSim/cover.png
 keywords: royal-navy, simulator, teamwork
 permalink: /blog/sub-sim/
 usemathjax: true
