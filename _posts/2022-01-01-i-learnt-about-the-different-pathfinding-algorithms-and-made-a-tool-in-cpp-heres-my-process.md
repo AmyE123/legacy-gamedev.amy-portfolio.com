@@ -558,6 +558,10 @@ usemathjax: true
 <p>Within that iterator, I set the vertex integer to be the currently connected node I am checking, this is so I can check the status of each node, which is what I want to do next.</p>
 <p>If the node hasn’t been visited, set the node to visited and add them onto the queue.</p>
 <p>We repeat this process until we get to the destination node!</p>
+<h4 style="margin-top: 20px; margin-bottom: 20px">Video Showcase</h4>
+<div class="video-container" style="padding-top: 0px !important">
+    <iframe src="https://drive.google.com/file/d/1C8TiIuQeq4WS3JJyIAI0HcKs3fAvzNXC/preview" width="100%" height="500" frameborder="0"></iframe>
+</div>
 
 <hr>
 <img class="image-heading" src="/assets/img/posts/TOGA/8.jpg" style="height: 200px !important; object-position: 50% 40% !important;">
