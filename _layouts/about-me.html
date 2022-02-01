@@ -26,7 +26,7 @@ layout: default
                 <a class="social-link"
                    href="http://gitlab.com/{{ site.gitlab_username }}" target="_blank">
                     <i class="fab fa-gitlab"></i>
-                </a>                 
+                </a>
                 {% endif %} {% if site.medium_username %}
                 <a class="social-link"
                    href="http://medium.com/@{{ site.medium_username }}" target="_blank">
@@ -158,15 +158,7 @@ layout: default
                                             <img src="/assets/img/posts/icons/thumbnail/64pxSkills/git.png"><p>Git</p>
                                         </div>
                                         <div class="column-three">
-                                            <img src="/assets/img/posts/icons/thumbnail/64pxSkills/helixswarm.png"><p>Helix Swarm</p>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="column-two">
                                             <img src="/assets/img/posts/icons/thumbnail/64pxSkills/atlassian.png"><p>Atlassian Tools</p>
-                                        </div>
-                                        <div class="column-two">
-                                            <img src="/assets/img/posts/icons/thumbnail/64pxSkills/basecamp.png"><p>Basecamp</p>
                                         </div>
                                     </div>
                                 </div>
@@ -252,6 +244,13 @@ layout: default
             </div>
         </div>
 
+        <!--This is the Awards Card -->
+        <div class="card">
+            <h1 style="word-wrap: normal">Honours &amp; Awards</h1>
+
+            {%- include author_honours_awards.html -%}
+        </div>
+
         <!--This is the Gamejam Card, which includes all the Gamejams I've participated in-->
         <div class="card">
             <h1 style="word-wrap: normal">Gamejams</h1>
@@ -259,6 +258,7 @@ layout: default
             {%- include author_gamejams.html -%}
         </div>
     </div>
+
     <div class="col-lg-7">
         {% if site.author_bio %}
         <div class="card">
