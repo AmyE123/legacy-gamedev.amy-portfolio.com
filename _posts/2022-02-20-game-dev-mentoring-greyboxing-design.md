@@ -72,7 +72,7 @@ usemathjax: true
 </div>
 <hr>
 
-<img class="image-heading" src="/assets/img/posts/GameDevMentoring/LevelDesign/header5.PNG" style="height: 200px !important">
+<img class="image-heading" src="/assets/img/posts/GameDevMentoring/LevelDesign/header5.png" style="height: 200px !important">
 <h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Conclusion</h3>
 <p>As we were taking our time on greyboxing and design, I decided it was best if we stopped the greyboxing in the city, and leave the space and underwater greybox for later on, so we can focus on refining the hub world, the city, and prototyping mechanics for the game. I didn’t want it to be too overwhelming for Thomas.</p>
 <p>I’m really happy with how the greyboxing turned out! The outdoors hub world is my favorite, Thomas has done such a great job!</p>
