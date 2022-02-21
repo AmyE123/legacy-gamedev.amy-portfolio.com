@@ -6,7 +6,7 @@ color: "background-color: seagreen"
 summary: "Submarine Simulator is a Simulator game made for the Royal Navy where you play the role of both the planesman and the periscope operator."
 author: amyelliott
 date: '2021-04-09'
-category: ['game-development', 'royal-navy', 'unity']
+category: ['game-development', 'unity']
 thumbnail: /assets/img/posts/SubSim/cover.png
 keywords: royal-navy, simulator, teamwork
 permalink: /blog/sub-sim/
