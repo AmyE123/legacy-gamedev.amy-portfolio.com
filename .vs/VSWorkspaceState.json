@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\categories",
+    "\\_data",
+    "\\_includes",
     "\\_posts",
     "\\_sass"
   ],
-  "SelectedNode": "\\_posts\\2021-08-17-my-time-working-on-runescape.md",
+  "SelectedNode": "\\_posts\\2021-04-09-submarine-sim.md",
   "PreviewInSolutionExplorer": false
 }
