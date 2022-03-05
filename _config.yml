@@ -49,6 +49,13 @@ author_work_experiences:
               designation: Game Enginner Intern 
               description: Worked on Programming for MMORPGs in pre-production, and live products in a Triple-A Industry environment.
               visibility: true  
+            - company_name: Game Dev London
+              company_logo: gdl.png
+              company_url: https://www.gamedev.london/
+              work_duration: Feb 2021 - Present
+              designation: Host & Producer 
+              description: Managing, creating, and hosting the content, production, and delivery of podcasts. The Game Dev London Podcast aims to support the UK games industry with knowledge and stories.
+              visibility: true  
             - company_name: Game Development Mentor
               company_logo: mentor.png
               company_url: http://gamedev.amy-portfolio.com/
