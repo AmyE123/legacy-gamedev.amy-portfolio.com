@@ -56,11 +56,11 @@ author_work_experiences:
               designation: Host & Producer 
               description: Managing, creating, and hosting the content, production, and delivery of podcasts. The Game Dev London Podcast aims to support the UK games industry with knowledge and stories.
               visibility: true  
-            - company_name: Game Development Mentor
+            - company_name: Game Development Mentoring
               company_logo: mentor.png
               company_url: http://gamedev.amy-portfolio.com/
               work_duration: Sept 2021 - Present
-              designation: Freelance
+              designation: Freelance Mentoring
               description: I've been mentoring a student to teach them about Game Development, from making a game design document all the way to finishing up a game which they've designed!
               visibility: true
             - company_name: Submarine Simulator for The Royal Navy

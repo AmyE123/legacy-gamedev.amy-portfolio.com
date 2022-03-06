@@ -6,7 +6,7 @@ color: "background-color: firebrick"
 summary: "One morning, I woke up to an email titled 'Welcome to Jagex Games Studio' - I could barely believe it!"
 author: amyelliott
 date: '2021-07-17'
-category: ['personal', 'jagex', 'reflection', 'development', 'improvement']
+category: ['personal', 'jagex', 'unreal-engine', 'reflection', 'development', 'improvement']
 thumbnail: /assets/img/posts/JGXUnannouncedMmorpg/cover.png
 keywords: personal, jagex, reflection, development, improvement
 permalink: /blog/what-ive-learnt-working-on-jagexs-unannounced-mmorpg/
