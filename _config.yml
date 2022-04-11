@@ -251,7 +251,7 @@ author_professional_games:
               - game_thumbnail: /gamelib/sumo.png
                 game_title: Unannounced Game
                 game_release: Ongoing              
-                game_blog: /wip
+                game_blog: /blog/six-months-at-sumo/
                 tag1: Sumo Digital
                 tag2: '???'
                 tag3: '???'
@@ -283,6 +283,15 @@ author_professional_games:
 
 # Personal Games
 author_personal_games:
+              - game_thumbnail: /gamelib/parcelrun.png
+                game_title: Parcel Run
+                game_release: 5th April, 2022             
+                game_blog: /blog/parcel-run/
+                tag1: Time Race
+                tag2: Funny
+                tag3: Competitive
+                browser_playable: true
+                visibility: true 
               - game_thumbnail: /gamelib/toytactics.png
                 game_title: Toy Tactics
                 game_release: 4th October, 2021             
