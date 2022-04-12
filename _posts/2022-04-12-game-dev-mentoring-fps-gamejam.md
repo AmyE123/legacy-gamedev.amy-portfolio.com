@@ -7,7 +7,7 @@ summary: "After working on his prophunt game for a while, Thomas wanted to try o
 author: amyelliott
 date: '2022-04-12'
 category: ['mentoring', 'teaching']
-thumbnail: /assets/img/posts/GameDevMentoring/FPSGamejams/cover.png
+thumbnail: /assets/img/posts/GameDevMentoring/FpsGamejams/cover.png
 keywords: mentoring, education, teaching, reflection, development, improvement
 permalink: /blog/game-dev-mentoring/fps-gamejam
 usemathjax: true
