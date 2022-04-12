@@ -4,7 +4,7 @@ title: Mentoring
 permalink: /blog/categories/mentoring/
 ---
 
-<h5> Other Mentoring work: </h5>
+<h5> Mentoring blog posts: </h5>
 
 <div class="row">
 	{% for post in site.categories.mentoring %}
