@@ -11,6 +11,7 @@ thumbnail: /assets/img/posts/GameDevMentoring/LevelDesign/cover.png
 keywords: mentoring, education, teaching, reflection, development, improvement
 permalink: /blog/game-dev-mentoring/greyboxing-design
 usemathjax: true
+hidden: true
 ---
 <img class="image-heading" src="/assets/img/posts/GameDevMentoring/LevelDesign/1.jpg">
 <p>This blog is a continuation of my previous blog where I talked about making a Game Design Document with Thomas for the game which he wanted to make! I recommend that you read that one before this.</p>

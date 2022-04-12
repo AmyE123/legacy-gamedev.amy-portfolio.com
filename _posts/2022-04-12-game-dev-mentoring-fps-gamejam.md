@@ -11,6 +11,7 @@ thumbnail: /assets/img/posts/GameDevMentoring/FpsGamejams/cover.png
 keywords: mentoring, education, teaching, reflection, development, improvement
 permalink: /blog/game-dev-mentoring/fps-gamejam
 usemathjax: true
+hidden: true
 ---
 <img class="image-heading" src="/assets/img/posts/GameDevMentoring/FpsGamejams/1.png">
 <p>This blog is part of a blog series where I talked about my Game Development Mentoring sessions! You can see all the different blogs in that series by clicking <a href="/blog/categories/mentoring" style="padding: 0px" target="_blank">here</a>.</p>

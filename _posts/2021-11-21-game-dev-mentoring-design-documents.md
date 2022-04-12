@@ -11,6 +11,7 @@ thumbnail: /assets/img/posts/GameDevMentoring/DesignDoc/cover.png
 keywords: mentoring, education, teaching, reflection, development, improvement
 permalink: /blog/game-dev-mentoring/game-design-docs
 usemathjax: true
+hidden: true
 ---
 <hr>
 <img class="image-heading" src="/assets/img/posts/GameDevMentoring/DesignDoc/1.png">
