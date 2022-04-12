@@ -1,14 +1,14 @@
 ﻿---
 layout: post
 title:  "Game Dev Mentoring - Greyboxing & Design"
-type: "Personal Blog"
-color: "background-color: firebrick"
+type: "Mentoring Blog"
+color: "background-color: #c36114"
 summary: "I’ve been mentoring Thomas in Games Development, and his next step after making his GDD was designing! I helped him with this process and in this blog, I talk about his work."
 author: amyelliott
 date: '2022-02-21'
-category: ['personal', 'education', 'teaching', 'reflection', 'development', 'improvement']
+category: ['mentoring', 'teaching']
 thumbnail: /assets/img/posts/GameDevMentoring/LevelDesign/cover.png
-keywords: personal, education, teaching, reflection, development, improvement
+keywords: mentoring, education, teaching, reflection, development, improvement
 permalink: /blog/game-dev-mentoring/greyboxing-design
 usemathjax: true
 ---

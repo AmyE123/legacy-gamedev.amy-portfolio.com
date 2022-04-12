@@ -6,7 +6,7 @@ color: "background-color: firebrick"
 summary: "I got invited back to my old college to talk to students studying Games Development at an industry day, this talk was a few months after my first talk, so I was able to reflect upon my speaking and presentation from then."
 author: amyelliott
 date: '2022-01-25'
-category: ['personal', 'education', 'teaching', 'reflection', 'development', 'improvement']
+category: ['personal', 'education', 'improvement']
 thumbnail: /assets/img/posts/CollegeTalk/Cover.png
 keywords: personal, education, teaching, reflection, development, improvement
 permalink: /blog/college-industry-talk/

@@ -6,7 +6,7 @@ color: "background-color: firebrick"
 summary: "Back in July, I volunteered at Into Games to help a group of students with project management for designing and prototyping a mining game loop. This was my first ever mentoring experience."
 author: amyelliott
 date: '2021-11-17'
-category: ['personal', 'education', 'teaching', 'reflection', 'development', 'improvement']
+category: ['personal', 'education', 'improvement']
 thumbnail: /assets/img/posts/IntoGamesMentoring/cover.png
 keywords: personal, education, teaching, reflection, development, improvement
 permalink: /blog/guiding-students-through-designing-prototying-a-game/

@@ -1,14 +1,14 @@
 ﻿---
 layout: post
 title:  "Game Dev Mentoring - Design Documents"
-type: "Personal Blog"
-color: "background-color: firebrick"
+type: "Mentoring Blog"
+color: "background-color: #c36114"
 summary: "In this blog, I talk about my process of setting up a games development course for a student I've began mentoring 1 to 1, and the process of helping him make a design document for a game which he wants to make."
 author: amyelliott
 date: '2021-11-21'
-category: ['personal', 'education', 'teaching', 'reflection', 'development', 'improvement']
+category: ['mentoring', 'teaching']
 thumbnail: /assets/img/posts/GameDevMentoring/DesignDoc/cover.png
-keywords: personal, education, teaching, reflection, development, improvement
+keywords: mentoring, education, teaching, reflection, development, improvement
 permalink: /blog/game-dev-mentoring/game-design-docs
 usemathjax: true
 ---

@@ -6,7 +6,7 @@ color: "background-color: firebrick"
 summary: "I was given the opportunity to work on engine programming for Old School RuneScape’s C++ Client, this helped me learn lots about how game engines work."
 author: amyelliott
 date: '2021-08-17'
-category: ['personal', 'jagex', 'reflection', 'development', 'improvement']
+category: ['personal', 'jagex', 'development', 'improvement']
 thumbnail: /assets/img/posts/JGXRunescape/cover.jpg
 keywords: personal, jagex, reflection, development, improvement
 permalink: /blog/my-time-working-on-runecape/

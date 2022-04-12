@@ -6,7 +6,7 @@ color: "background-color: firebrick"
 summary: "In August, I started my year-long placement at Sumo Leamington, and in that time, I’ve learned and done so much at work!"
 author: amyelliott
 date: '2022-03-06'
-category: ['personal', 'sumo-digital', 'reflection', 'development', 'improvement']
+category: ['personal', 'sumo-digital', 'development', 'improvement']
 thumbnail: /assets/img/posts/SumoDigital/SixMonthsBlog/cover.png
 keywords: personal, sumo-digital, reflection, development, improvement
 permalink: /blog/six-months-at-sumo
