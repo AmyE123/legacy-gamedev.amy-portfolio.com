@@ -3,7 +3,7 @@ layout: post
 title:  "Game Dev Mentoring - Making FPS Gamejams"
 type: "Mentoring Blog"
 color: "background-color: #c36114"
-summary: "I’ve been mentoring Thomas in Games Development, and his next step after making his GDD was designing! I helped him with this process and in this blog, I talk about his work."
+summary: "After working on his prophunt game for a while, Thomas wanted to try out different game ideas, and so I helped him with making some of his own FPS Gamejam Games inspired by some games he enjoyed playing!"
 author: amyelliott
 date: '2022-04-12'
 category: ['mentoring', 'teaching']
