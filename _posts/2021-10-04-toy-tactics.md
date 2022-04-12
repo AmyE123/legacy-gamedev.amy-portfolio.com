@@ -21,14 +21,14 @@ usemathjax: true
     <table>
         <tr>
             <th style="border: 0px !important">Status:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Done</small></th>
+            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Refactoring</small></th>
         </tr>
         <tr>
             <th style="border: 0px !important">Project Type:</th> 
             <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Game Jam</small></th>
         </tr>
         <tr>
-            <th style="border: 0px !important">Development Duration:</th>
+            <th style="border: 0px !important">Gamejam Duration:</th>
             <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">72 Hours</small></th>
         </tr>
         <tr>
@@ -42,6 +42,15 @@ usemathjax: true
     </table>
 </div>
 
+<hr>
+<!--- ---- -->
+<!--- REPO -->
+<!--- ---- -->
+<div style="text-align:center">
+    <a href="https://github.com/amye123/toy-tactics" target="_blank"> 
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amye123&repo=toy-tactics&show_owner=true&theme=dark" alt="Toy Tactics's GitHub Repo" style="width:100%;">
+    </a>
+</div>
 
 <hr>
 <!--- ---------------------------- -->
