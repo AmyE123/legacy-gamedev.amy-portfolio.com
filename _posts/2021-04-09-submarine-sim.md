@@ -13,7 +13,6 @@ permalink: /blog/sub-sim/
 usemathjax: true
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->

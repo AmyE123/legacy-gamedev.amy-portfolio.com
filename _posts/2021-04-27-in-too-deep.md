@@ -13,7 +13,6 @@ permalink: /blog/in-too-deep/
 usemathjax: true
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->

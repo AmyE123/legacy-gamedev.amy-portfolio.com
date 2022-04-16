@@ -13,7 +13,6 @@ permalink: /blog/boxy-see-boxy-do/
 usemathjax: true
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->

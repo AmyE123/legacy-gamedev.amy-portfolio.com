@@ -13,7 +13,6 @@ permalink: /blog/poppin-hoppin-unlockin/
 usemathjax: true
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->

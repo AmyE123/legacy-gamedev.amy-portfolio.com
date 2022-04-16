@@ -13,7 +13,6 @@ permalink: /blog/aqua-adventure/
 usemathjax: true
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->

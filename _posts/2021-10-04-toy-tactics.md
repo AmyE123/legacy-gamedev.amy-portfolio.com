@@ -11,9 +11,10 @@ thumbnail: /assets/img/posts/ToyTactics/cover.png
 keywords: tactics, puzzles, gamejam, artificialintelligence
 permalink: /blog/toy-tactics/
 usemathjax: true
+hasRepository: true
+repo: "AmyE123/Toy-Tactics"
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->
@@ -40,16 +41,6 @@ usemathjax: true
             <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Programming</small><small class="btn btn-col status-button">AI</small></th>
         </tr>
     </table>
-</div>
-
-<hr>
-<!--- ---- -->
-<!--- REPO -->
-<!--- ---- -->
-<div style="text-align:center">
-    <a href="https://github.com/amye123/toy-tactics" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amye123&repo=toy-tactics&show_owner=true&theme=dark" alt="Toy Tactics's GitHub Repo" style="width:100%;">
-    </a>
 </div>
 
 <hr>

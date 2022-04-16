@@ -13,7 +13,6 @@ permalink: /blog/captain-says/
 usemathjax: true
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->

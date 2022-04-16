@@ -287,6 +287,7 @@ author_personal_games:
                 game_title: Parcel Run
                 game_release: 5th April, 2022             
                 game_blog: /blog/parcel-run/
+                has_repository: true
                 tag1: Time Race
                 tag2: Funny
                 tag3: Competitive
@@ -296,6 +297,7 @@ author_personal_games:
                 game_title: Toy Tactics
                 game_release: 4th October, 2021             
                 game_blog: /blog/toy-tactics/
+                has_repository: true
                 tag1: Tactics
                 tag2: Puzzles
                 tag3: Artifical Intelligence

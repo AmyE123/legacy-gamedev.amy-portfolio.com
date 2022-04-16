@@ -13,7 +13,6 @@ permalink: /blog/driven-round-the-loop/
 usemathjax: true
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->

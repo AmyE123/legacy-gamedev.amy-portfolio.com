@@ -13,7 +13,6 @@ permalink: /blog/airport-lost-and-found/
 usemathjax: true
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->

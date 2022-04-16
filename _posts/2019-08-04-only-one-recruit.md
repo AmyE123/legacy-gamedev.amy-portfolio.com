@@ -13,7 +13,6 @@ permalink: /blog/only-one-recruit/
 usemathjax: true
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->

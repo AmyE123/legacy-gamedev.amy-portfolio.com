@@ -13,7 +13,6 @@ permalink: /blog/village-simulator/
 usemathjax: true
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->

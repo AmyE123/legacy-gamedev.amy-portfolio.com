@@ -13,7 +13,6 @@ permalink: /blog/team-swap-heroes/
 usemathjax: true
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->

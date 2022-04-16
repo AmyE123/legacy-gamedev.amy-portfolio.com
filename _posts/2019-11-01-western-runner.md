@@ -13,7 +13,6 @@ permalink: /blog/western-runner/
 usemathjax: true
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->

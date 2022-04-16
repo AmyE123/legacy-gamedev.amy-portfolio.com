@@ -3,7 +3,7 @@ layout: post
 title:  "Parcel Run"
 type: "Game Development Blog"
 color: "background-color: seagreen"
-summary: "In the near future, delivering parcels is a crime! Only a select few corporations are allowed and you’re not one of them! This was designed around the theme 'Delay The Inevitable' <small>(Ludum Dare 50)</small>"
+summary: "In the near future, delivering parcels is a crime! This was designed around the theme 'Delay The Inevitable' <small>(Ludum Dare 50)</small>"
 author: amyelliott
 date: '2022-04-05'
 category: ['game-development', 'game-jam', 'unity']
@@ -11,9 +11,10 @@ thumbnail: /assets/img/posts/ParcelRun/cover.png
 keywords: timerace, funny, competitive, gamejam
 permalink: /blog/parcel-run/
 usemathjax: true
+hasRepository: true
+repo: "AmyE123/Parcel-Run"
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->
@@ -41,7 +42,6 @@ usemathjax: true
         </tr>
     </table>
 </div>
-
 
 <hr>
 <!--- ---------------------------- -->

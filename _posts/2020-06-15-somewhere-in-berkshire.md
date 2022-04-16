@@ -13,7 +13,6 @@ permalink: /blog/somewhere-in-berkshire/
 usemathjax: true
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->

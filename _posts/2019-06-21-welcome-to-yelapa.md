@@ -13,7 +13,6 @@ permalink: /blog/welcome-to-yelapa/
 usemathjax: true
 ---
 
-<hr>
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->
