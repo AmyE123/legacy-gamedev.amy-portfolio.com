@@ -11,6 +11,8 @@ thumbnail: /assets/img/posts/BlockyRoad/cover.png
 keywords: hypercasual, gamejam, teamwork, puzzles
 permalink: /blog/blocky-road/
 usemathjax: true
+hasRepository: true
+repo: "AmyE123/Blocky-Road"
 ---
 
 <!--- ------------------ -->

@@ -47,7 +47,7 @@ author_work_experiences:
               company_url: https://www.jagex.com/en-GB/
               work_duration: May 2021 - Aug 2021
               designation: Game Enginner Intern 
-              description: Worked on Programming for MMORPGs in pre-production, and live products in a Triple-A Industry environment.
+              description: <a href="https://runescape.wiki/w/Mod_Grimoire" target="_blank">My Runescape Wiki Page</a> | <a href="https://oldschool.runescape.wiki/w/Mod_Grimoire" target="_blank">My Old School Runescape Wiki Page</a> <br> Worked on Programming for MMORPGs in pre-production, and live products in a Triple-A Industry environment.
               visibility: true  
             - company_name: Game Dev London
               company_logo: gdl.png
@@ -334,6 +334,7 @@ author_personal_games:
                 game_title: Blocky Road
                 game_release: 28th October, 2020            
                 game_blog: /blog/blocky-road/
+                has_repository: true
                 tag1: Hyper Casual
                 tag2: Teamwork
                 tag3: Puzzles
@@ -379,6 +380,7 @@ author_personal_games:
                 game_title: Captain Says
                 game_release: 31st August, 2019            
                 game_blog: /blog/captain-says/
+                has_repository: true
                 tag1: Educational
                 tag2: Casual
                 tag3: Arcade
