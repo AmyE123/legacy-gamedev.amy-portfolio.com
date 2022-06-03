@@ -105,6 +105,24 @@ author_education_details:
 
 # Projects
 author_project_details:
+              - project_thumbnail: sumo.png
+                project_title: Unannounced Game
+                project_description: Worked on the gameplay programming team to help create an exciting new game!
+                project_url: https://leamington.sumo-digital.com/
+                blog_url: /blog/six-months-at-sumo
+                date: August, 2021
+                engine: unity.png
+                language: cs.png
+                published: sumo.png
+                role: Placement Programmer
+                team: https://leamington.sumo-digital.com/
+                dev: Sumo Leamington
+                bp: <ul> 
+                        <li>Worked and maintained the AI in the game, as one of the main AI programmers</li>
+                        <li>Worked on many unannounced, but awesome gameplay mechanics! - Hopefully I can share more of this later!</li>
+                        <li>Worked closely with the analytics team to implement analytics events</li>
+                     </ul>
+                visibility: true 
               - project_thumbnail: oldschoolrunescape.png
                 project_title: OldSchool RuneScape
                 project_description: Worked on the engine team to support the operation and on-going enhancement of the RuneScape engine and associated systems.
@@ -141,27 +159,6 @@ author_project_details:
                         <li>Used Unreal Engine & C++ to learn the best industry practices</li>
                         <li>Wrote code using networking & replication</li>
                         <li>Worked with different diciplines on the development team</li>
-                     </ul>
-                visibility: true   
-              - project_thumbnail: blocky.png
-                project_title: Blocky Road
-                project_description: A hyper-casual puzzle game, made in 15 hours.
-                project_url: https://amy-elliott.itch.io/blockyroads
-                blog_url: /blog/blocky-road/
-                date: 28th October, 2020
-                engine: unity.png
-                language: cs.png
-                published: itch.png
-                role: Solo Project
-                team: http://gamedev.amy-portfolio.com/blog/authors/amyelliott
-                dev: Amy Elliott
-                bp: <ul> 
-                        <li>Programmed a two-way puzzle system:</li-ph>
-                            <ul>
-                                <li>Made sure there were different challenges on each side.</li>
-                                <li>The puzzles can't be solved without the help from the opposite side.</li>
-                            </ul>
-                        <li>Inspired by mobile games like Crossy Road and Monument Valley</li>
                      </ul>
                 visibility: true
               - project_thumbnail: subsim.png
