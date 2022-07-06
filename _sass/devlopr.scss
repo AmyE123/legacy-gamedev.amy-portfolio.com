@@ -251,6 +251,14 @@ th {
     padding: 10px;
 }
 
+.center-img-full {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding: 10px;
+}
+
 tr:nth-child(even) {
     background-color: #1c1c1e;
 }
