@@ -312,7 +312,7 @@ author_personal_games:
               - game_thumbnail: /gamelib/readytoroll.png
                 game_title: Ready To Roll
                 game_release: 17th July, 2022           
-                game_blog: /wip
+                game_blog: /blog/ready-to-roll/
                 tag1: Strategy
                 tag2: Bakery
                 tag3: Time Race
