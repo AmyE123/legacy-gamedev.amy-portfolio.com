@@ -60,12 +60,12 @@ usemathjax: true
     </a>
   </div>
   <div class="card blog-post" style="border-radius: 50px; width: 100% !important">
-    <a href="/wip" style="padding: 0px" target="_blank">
+    <a href="/blog/i-gave-a-talk-in-person-for-the-first-time" style="padding: 0px" target="_blank">
       <div class="card-body center">
               <h4 class="card-title">Being a Guest Speaker At a Highschool</h4>
           <hr>
-          <h6 class="card-subtitle mb-2 text-muted">Jan 1, 2000</h6>
-          <p class="card-text">Work In Progress Blog</p>
+          <h6 class="card-subtitle mb-2 text-muted">Dec 14, 2021</h6>
+          <p class="card-text">I delivered a talk to students in my old high school, this was my first time talking in front of a large audience in person, as up to this point, a lot of the stuff I had done was online due to covid!</p>
       </div>
     </a>
   </div>
