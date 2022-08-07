@@ -11,6 +11,8 @@ thumbnail: /assets/img/posts/SubSim/cover.png
 keywords: royal-navy, simulator, teamwork
 permalink: /blog/sub-sim/
 usemathjax: true
+personalProject: false
+hidden: true
 ---
 
 <!--- ------------------ -->

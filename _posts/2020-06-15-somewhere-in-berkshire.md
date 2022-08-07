@@ -11,6 +11,9 @@ thumbnail: /assets/img/posts/SomewhereInBerkshire/cover.png
 keywords: dragonsitter, gamejam, here
 permalink: /blog/somewhere-in-berkshire/
 usemathjax: true
+genre: ['Adventure', 'Walking Simulator']
+browser_playable: true
+hidden: true
 ---
 
 <!--- ------------------ -->

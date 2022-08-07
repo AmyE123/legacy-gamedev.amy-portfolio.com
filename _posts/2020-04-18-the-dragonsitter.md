@@ -11,6 +11,9 @@ thumbnail: /assets/img/posts/TheDragonsitter/1.png
 keywords: dragonsitter, gamejam, here
 permalink: /blog/the-dragonsitter/
 usemathjax: true
+browser_playable: true
+genre: ['Digital Pet', 'Fantasy']
+hidden: true
 ---
 
 <!--- ------------------ -->

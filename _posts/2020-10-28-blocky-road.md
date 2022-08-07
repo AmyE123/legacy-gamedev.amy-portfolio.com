@@ -11,8 +11,12 @@ thumbnail: /assets/img/posts/BlockyRoad/cover.png
 keywords: hypercasual, gamejam, teamwork, puzzles
 permalink: /blog/blocky-road/
 usemathjax: true
+genre: ['Hypercasual', 'Teamwork', 'Puzzles']
 hasRepository: true
 repo: "AmyE123/Blocky-Road"
+ghReadme: "https://github-readme-stats.vercel.app/api/pin/?username=AmyE123&repo=Blocky-Road&show_owner=true&theme=darcula"
+browser_playable: true
+hidden: true
 ---
 
 <!--- ------------------ -->

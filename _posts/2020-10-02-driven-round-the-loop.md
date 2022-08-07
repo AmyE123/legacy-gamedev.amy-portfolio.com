@@ -11,6 +11,9 @@ thumbnail: /assets/img/posts/DrivenRoundTheLoop/cover.png
 keywords: funny, gamejam, cars
 permalink: /blog/driven-round-the-loop/
 usemathjax: true
+genre: ['Puzzles', 'Casual', 'Cars']
+browser_playable: true
+hidden: true
 ---
 
 <!--- ------------------ -->

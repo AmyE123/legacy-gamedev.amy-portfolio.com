@@ -11,10 +11,13 @@ thumbnail: /assets/img/posts/ToyTactics/cover.png
 keywords: tactics, puzzles, gamejam, artificialintelligence
 permalink: /blog/toy-tactics/
 usemathjax: true
+genre: ['Tactics', 'Artifical Intelligence', 'Puzzles', 'Worms']
 hasRepository: true
 repo: "AmyE123/Toy-Tactics"
+ghReadme: "https://github-readme-stats.vercel.app/api/pin/?username=AmyE123&repo=Toy-Tactics&show_owner=true&theme=darcula"
+browser_playable: true
+hidden: true
 ---
-
 <!--- ------------------ -->
 <!--- Status of the game -->
 <!--- ------------------ -->

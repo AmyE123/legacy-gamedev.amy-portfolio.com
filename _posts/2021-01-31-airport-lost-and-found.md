@@ -11,6 +11,9 @@ thumbnail: /assets/img/posts/Airport/cover.png
 keywords: crazytaxi, gamejam, ragdoll, timerace
 permalink: /blog/airport-lost-and-found/
 usemathjax: true
+genre: ['Crazy Taxi', 'Time Race']
+browser_playable: true
+hidden: true
 ---
 
 <!--- ------------------ -->

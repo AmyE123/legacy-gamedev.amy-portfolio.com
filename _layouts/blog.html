@@ -22,11 +22,12 @@ layout: default
                         <h6 class="card-subtitle mb-2 text-muted" style="word-wrap: normal">{{ post.date | date: "%b %-d, %Y" }}</h6>
                         <p class="card-text" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;">{{ post.summary }} </p>
 
-                        
+
                         {% if post.hasRepository == true %}
                         <hr>
                         <a class="social-link" href="http://github.com/{{ post.repo }}" target="_blank" style="padding: 0px !important; color: #b3b3b3 !important">
-                            <h6 class="card-subtitle mb-2" style="background-color: #1c1c1e; padding: 5px; border: dashed; border-color: black; text-align: center; margin: 5px; word-wrap: normal">GitHub Repository &nbsp                       
+                            <h6 class="card-subtitle mb-2" style="background-color: #1c1c1e; padding: 5px; border: dashed; border-color: black; text-align: center; margin: 5px; word-wrap: normal">
+                                GitHub Repository &nbsp
                                 <i class="fab fa-github"></i>
                             </h6>
                         </a>

@@ -11,6 +11,8 @@ urls:
       url: /
     - text: About
       url: /about
+    - text: Projects
+      url: /projects
     - text: Blogs
       url: /blog
     - text: Game Library
@@ -252,7 +254,7 @@ author_project_details:
 
 # Professional Games
 author_professional_games:
-              - game_thumbnail: /gamelib/sumo.png
+              - game_thumbnail: /projects/sumo.png
                 game_title: Unannounced Game
                 game_release: Ongoing              
                 game_blog: /blog/six-months-at-sumo/
@@ -260,7 +262,7 @@ author_professional_games:
                 tag2: '???'
                 tag3: '???'
                 visibility: true 
-              - game_thumbnail: /gamelib/alteredgene.png
+              - game_thumbnail: /projects/alteredgene.png
                 game_title: Unannounced Game
                 game_release: Ongoing              
                 game_blog: http://alteredgene.co.uk/
@@ -268,7 +270,7 @@ author_professional_games:
                 tag2: '???'
                 tag3: '???'
                 visibility: true 
-              - game_thumbnail: /gamelib/oldschoolrunescape.png
+              - game_thumbnail: /projects/osrs.png
                 game_title: Old School Runescape
                 game_release: August, 2021              
                 game_blog: /blog/my-time-working-on-runecape/
@@ -276,7 +278,7 @@ author_professional_games:
                 tag2: Jagex
                 tag3: MMORPG
                 visibility: true 
-              - game_thumbnail: /gamelib/jagex.png
+              - game_thumbnail: /projects/jagex.png
                 game_title: Unannounced Triple-A MMORPG
                 game_release: August, 2021            
                 game_blog: /blog/what-ive-learnt-working-on-jagexs-unannounced-mmorpg/
@@ -284,7 +286,7 @@ author_professional_games:
                 tag2: Jagex
                 tag3: MMORPG
                 visibility: true  
-              - game_thumbnail: /gamelib/subsim.png
+              - game_thumbnail: /projects/subsim.png
                 game_title: Submarine Simulator
                 game_release: 9th April, 2021          
                 game_blog: /blog/sub-sim/

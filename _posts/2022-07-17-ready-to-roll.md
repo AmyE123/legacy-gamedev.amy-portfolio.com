@@ -11,6 +11,9 @@ thumbnail: /assets/img/posts/ReadyToRoll/cover.png
 keywords: timerace, bakery, strategy, gamejam
 permalink: /blog/ready-to-roll/
 usemathjax: true
+genre: ['Time Race', 'Baking']
+browser_playable: true
+hidden: true
 ---
 
 <!--- ------------------ -->

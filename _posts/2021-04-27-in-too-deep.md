@@ -11,6 +11,9 @@ thumbnail: /assets/img/posts/InTooDeep/cover.png
 keywords: mining, gamejam, tycoon, survival
 permalink: /blog/in-too-deep/
 usemathjax: true
+genre: ['Mining', 'Tycoon', 'Survival', 'Action']
+browser_playable: true
+hidden: true
 ---
 
 <!--- ------------------ -->

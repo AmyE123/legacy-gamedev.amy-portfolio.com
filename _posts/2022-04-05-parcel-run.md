@@ -11,8 +11,12 @@ thumbnail: /assets/img/posts/ParcelRun/cover.png
 keywords: timerace, funny, competitive, gamejam
 permalink: /blog/parcel-run/
 usemathjax: true
+genre: ['Time Race', 'Funny', 'Competitive']
 hasRepository: true
 repo: "AmyE123/Parcel-Run"
+ghReadme: "https://github-readme-stats.vercel.app/api/pin/?username=AmyE123&repo=Parcel-Run&show_owner=true&theme=darcula"
+browser_playable: true
+hidden: true
 ---
 
 <!--- ------------------ -->
