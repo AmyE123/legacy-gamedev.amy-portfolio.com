@@ -254,14 +254,25 @@ author_project_details:
 author_professional_games:
               - game_thumbnail: /projects/sumo.png
                 game_title: Unannounced Game
+                game_studio: Sumo Leamington
                 game_release: Ongoing              
                 game_blog: /blog/six-months-at-sumo/
                 tag1: Sumo Digital
                 tag2: '???'
                 tag3: '???'
+                visibility: true
+              - game_thumbnail: /projects/alteredgene.png
+                game_title: Unannounced Game
+                game_studio: Altered Gene
+                game_release: Ongoing              
+                game_blog: http://alteredgene.co.uk/
+                tag1: Altered Gene
+                tag2: '???'
+                tag3: '???'
                 visibility: true 
               - game_thumbnail: /projects/alteredgene.png
                 game_title: Unannounced Game
+                game_studio: Altered Gene
                 game_release: Ongoing              
                 game_blog: http://alteredgene.co.uk/
                 tag1: Altered Gene
@@ -270,6 +281,7 @@ author_professional_games:
                 visibility: true 
               - game_thumbnail: /projects/osrs.png
                 game_title: Old School Runescape
+                game_studio: Jagex
                 game_release: August, 2021              
                 game_blog: /blog/my-time-working-on-runecape/
                 tag1: AAA
@@ -278,6 +290,7 @@ author_professional_games:
                 visibility: true 
               - game_thumbnail: /projects/jagex.png
                 game_title: Unannounced Triple-A MMORPG
+                game_studio: Jagex
                 game_release: August, 2021            
                 game_blog: /blog/what-ive-learnt-working-on-jagexs-unannounced-mmorpg/
                 tag1: AAA
@@ -286,6 +299,7 @@ author_professional_games:
                 visibility: true  
               - game_thumbnail: /projects/subsim.png
                 game_title: Submarine Simulator
+                game_studio: UoP & The Royal Navy
                 game_release: 9th April, 2021          
                 game_blog: /blog/sub-sim/
                 tag1: Teamwork
