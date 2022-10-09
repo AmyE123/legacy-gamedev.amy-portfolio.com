@@ -1,0 +1,128 @@
+<div class="jumbotron" style="text-align: center;">
+    <!---------------------------------------->
+    <!--MASTHEAD VIDEO ON BACKGROUND-->
+    <!---------------------------------------->
+    <video id="video-background" autoplay muted playsinline loop>
+        <source src="{{ page.showreel }}" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <script>document.getElementById('myvideo').play();</script>
+
+    <!---------------------------------------->
+    <!--TEXT AND PROFILE PICTURE-->
+    <!---------------------------------------->
+    <img class="author-profile-img" src="{{ page.icon }}" />
+    <p class="jumbotron-game-title">{{ page.title }}</p>
+    <p class="lead">{{ page.heading }}</p>
+</div>
+
+
+<div class="col-lg-8 offset-md-2">
+    <article class="card" itemscope itemtype="http://schema.org/BlogPosting">
+        <div class="card-header">
+            <h2>About the game</h2>
+            <p class="post-meta">{{ page.summary }}</p>
+            <p> Credits:
+                {% for credit in page.credits %}
+                <small class="btn btn-col status-button">{{credit}}</small>
+                {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
+            </p>
+            <hr>
+            <div class="table-mobile">
+                <table>
+                    <tr>
+                        <th style="border: 0px !important">Status:</th>
+                        <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">{{page.status}}</small></th>
+                    </tr>
+                    <tr>
+                        <th style="border: 0px !important">Project Type:</th>
+                        <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">{{page.projecttype}}</small></th>
+                    </tr>
+                    <tr>
+                        <th style="border: 0px !important">Development Duration:</th>
+                        <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">{{page.duration}}</small></th>
+                    </tr>
+                    <tr>
+                        <th style="border: 0px !important">Tools Used:</th>
+                        <th style="text-align:right; border: 0px !important">
+                            {% for tool in page.tools %}
+                            <small class="btn btn-col status-button">{{tool}}</small>
+                            {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
+                        </th>
+                    </tr>
+                    <tr>
+                        <th style="border: 0px !important">Primary Roles:</th>
+                        <th style="text-align:right; border: 0px !important">
+                            {% for role in page.roles %}
+                            <small class="btn btn-col status-button">{{role}}</small>
+                            {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
+                        </th>
+                    </tr>
+                </table>
+            </div>
+
+            {% if page.hasRepository == true %}
+            <hr>
+
+            <div style="position: fixed; right: 0; bottom: 0; z-index: 1000000; padding: 10px !important;">
+                <a href="http://github.com/{{ page.repo }}" target="_blank">
+                    <img src="{{ page.ghReadme }}">
+                </a>
+            </div>
+            {% endif %}
+
+        </div>
+
+        <div class="card-body" itemprop="articleBody">
+            <!---------------------------------------->
+            <!--GAME EMBED-->
+            <!---------------------------------------->
+            <div style="text-align: center; padding: 20px"> <iframe frameborder="0" src="{{ page.gameembed }}?color=1c1c1e" allowfullscreen="" width="1000" height="700"><a href="{{ game.itch }}">Play {{ game.title }} on itch.io</a></iframe> </div>
+            <hr>
+
+            <!--- ------------------------------------ -->
+            <!--- Gallery and screenshots for the game -->
+            <!--- ------------------------------------ -->
+            <h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Gallery & Screenshots</h3>
+            <div class="panel-heading active" role="tab" id="headingOne">
+                <h2 class="panel-title" style="word-wrap: normal; padding: 15px; background-color: #1b1b1b">
+                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseGameplayScreenshot" aria-expanded="true" aria-controls="collapseGameplayScreenshot" style="font-size: 18px; padding: 0px !important">
+                        Gameplay Screenshots
+                    </a>
+                </h2>
+            </div>
+            <div id="collapseGameplayScreenshot" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+                <div class="panel-body">
+                    {% for photo in page.screenshots %}
+                    <div class="widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
+                        <img src="{{photo}}" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
+                    </div>
+                    {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
+                </div>
+            </div>
+
+            <hr>
+
+            {{ content }}
+            <br />
+            <!-- Author box -->
+            {% assign author = site.data.authors[page.author] %}
+            {% if author %}
+            {% include author.html %}
+            {% endif %}
+        </div>
+        {%- if site.hyvor_talk_website_id -%}
+        <div class="comments">
+            {%- include hyvor_comments.html -%}
+        </div>
+        {%- endif -%}
+
+        <!-- begin wwww.htmlcommentbox.com -->
+        <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Box</a> is loading comments...</div>
+        <link rel="stylesheet" type="text/css" href="https://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
+        <script type="text/javascript" id="hcb">/*<!--*/ if (!window.hcb_user) { hcb_user = {}; } (function () { var s = document.createElement("script"), l = hcb_user.PAGE || ("" + window.location).replace(/'/g, "%27"), h = "https://www.htmlcommentbox.com"; s.setAttribute("type", "text/javascript"); s.setAttribute("src", h + "/jread?page=" + encodeURIComponent(l).replace("+", "%2B") + "&mod=%241%24wq1rdBcg%24.Re8qDUVFFOP1uYbkFzGm." + "&opts=16798&num=10&ts=1627120083655"); if (typeof s != "undefined") document.getElementsByTagName("head")[0].appendChild(s); })(); /*-->*/</script>
+        <!-- end www.htmlcommentbox.com -->
+
+    </article>
+</div>
+{%- include contact_me_footer.html -%}
