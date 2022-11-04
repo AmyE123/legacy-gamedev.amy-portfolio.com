@@ -252,11 +252,20 @@ author_project_details:
 
 # Professional Games
 author_professional_games:
+              - game_thumbnail: /projects/alteredgene.png
+                game_title: Unannounced Game
+                game_studio: Altered Gene
+                game_release: Ongoing              
+                game_blog: http://alteredgene.co.uk/
+                tag1: Altered Gene
+                tag2: '???'
+                tag3: '???'
+                visibility: true 
               - game_thumbnail: /projects/sumo.png
                 game_title: Unannounced Game
                 game_studio: Sumo Leamington
                 game_release: Ongoing              
-                game_blog: /blog/six-months-at-sumo/
+                game_blog: /blog/six-months-at-sumo
                 tag1: Sumo Digital
                 tag2: '???'
                 tag3: '???'
@@ -271,12 +280,12 @@ author_professional_games:
                 tag3: '???'
                 visibility: true 
               - game_thumbnail: /projects/alteredgene.png
-                game_title: Unannounced Game
+                game_title: Unannounced Math Game
                 game_studio: Altered Gene
                 game_release: Ongoing              
                 game_blog: http://alteredgene.co.uk/
                 tag1: Altered Gene
-                tag2: '???'
+                tag2: 'Educational'
                 tag3: '???'
                 visibility: true 
               - game_thumbnail: /projects/osrs.png

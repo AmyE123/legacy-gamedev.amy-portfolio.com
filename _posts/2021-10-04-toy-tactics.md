@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: game
 title:  "Toy Tactics"
 type: "Game Development Blog"
 color: "background-color: seagreen"
@@ -7,7 +7,7 @@ summary: "Toy Tactics is a tactics game where you play against artificial intell
 author: amyelliott
 date: '2021-10-04'
 category: ['game-development', 'game-jam', 'unity']
-thumbnail: /assets/img/posts/ToyTactics/cover.png
+thumbnail: https://am3pap005files.storage.live.com/y4m06IOAj9MZhVusdWlDKjUID7tcvQ40c2zgNqwAN9g1XFCBF7Ww6LJyGMP0Ju462tfKdgcix_OSzMhxgg3WL4ZS7M0CNVZi4zbRjg0PK0kdN8-g2Z5AhUVyu21o3817FNbZna65Gqiyic4WO0D99MU5-CJp60QVHbJNTmqLgw6931G4Oyy4qS6R5ihdd4bKhvM?width=1920&height=1634&cropmode=none
 keywords: tactics, puzzles, gamejam, artificialintelligence
 permalink: /blog/toy-tactics/
 usemathjax: true
@@ -17,81 +17,16 @@ repo: "AmyE123/Toy-Tactics"
 ghReadme: "https://github-readme-stats.vercel.app/api/pin/?username=AmyE123&repo=Toy-Tactics&show_owner=true&theme=darcula"
 browser_playable: true
 hidden: true
+heading: "Don't let your army get defeated!"
+icon: https://am3pap005files.storage.live.com/y4m06IOAj9MZhVusdWlDKjUID7tcvQ40c2zgNqwAN9g1XFCBF7Ww6LJyGMP0Ju462tfKdgcix_OSzMhxgg3WL4ZS7M0CNVZi4zbRjg0PK0kdN8-g2Z5AhUVyu21o3817FNbZna65Gqiyic4WO0D99MU5-CJp60QVHbJNTmqLgw6931G4Oyy4qS6R5ihdd4bKhvM?width=1920&height=1634&cropmode=none
+showreel: /assets/vid/toytactics-showreel.mp4
+itch: https://horsehead.itch.io/toy-tactics
+gameembed: https://itch.io/embed-upload/4641599
+status: "Refactoring"
+projecttype: "Game Jam"
+duration: "72 Hours"
+tools: ['Unity']
+roles: ['Programming', 'Level-Design', 'AI']
+credits: ['Amy Elliott', 'Joe Shanahan']
+screenshots: ['https://am3pap005files.storage.live.com/y4mtpSq84XLXpghqNG62WdntMXzDcKNLp6YXeqOuTOLWoapQFADQ_dpPYSQi1kIIy9fqp2SuINky1WZSVyq2CRszh2AWxQTKd9RH53CIsFmqKNq_REHUIn4H3ycezMNbw66i7Lu71fRvtWyYSNOEo8pOirc2sF0coAV2zP2DTmoGKoHhDxUG3h0VC3eY4bu5RKf?width=800&height=500&cropmode=none', 'https://am3pap005files.storage.live.com/y4mIFgtXoA_Kq-knrCh5-84p7US1DGP4AM06q5WGMNXAzmjPKaBGSuN3rZCwd2MV9Cac-LENy3gjVki61tpzVwzEoolh_OMnG0cnQiatcLQxXFr7bwOYfc0sIiOq6-aqqENlsmwi5VLWPGObJ__at-wpR321FS5CTkLBaJOsedwtIp94I0TBOqMPAy9965fVJvu?width=800&height=500&cropmode=none', 'https://am3pap005files.storage.live.com/y4mP2JwicPr8anoi2ZvnQX3iW3F2zUVoUkIqTVdkzlNv_Ei8VaXQ48Q2La9m2bbmx4OOiMw1tKxmqmA485vxNQ8ch96ngihAynuqU5lzM0DeieBZtWymG4nYAiO8MaPtthICKk0q95scTbg136tmauEGoZJkC4jTWEFLq2V35s_h6OQUvIN5GbzG7G3AdvF9ALR?width=800&height=500&cropmode=none']
 ---
-<!--- ------------------ -->
-<!--- Status of the game -->
-<!--- ------------------ -->
-<div class="table-mobile">
-    <table>
-        <tr>
-            <th style="border: 0px !important">Status:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Refactoring</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Project Type:</th> 
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Game Jam</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Gamejam Duration:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">72 Hours</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Software Used:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Unity</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Primary Roles:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Programming</small><small class="btn btn-col status-button">AI</small></th>
-        </tr>
-    </table>
-</div>
-
-<hr>
-<!--- ---------------------------- -->
-<!--- Main description of the game -->
-<!--- ---------------------------- -->
-<div class = "card">
-    <h2 style="text-align: center;">About Toy Tactics</h2>
-    <p style="text-align: center;">Toy Tactics is a tactics game where you play against artificial intelligent soliders trying to defeat your army! This was designed around the theme 'Unstable' for Ludum Dare 49</p>
-</div>
-
-<!--- ------------------------------------ -->
-<!--- Embed or Youtube Footage of the game -->
-<!--- ------------------------------------ -->
-<div style="text-align: center;"> <iframe frameborder="0" src="https://itch.io/embed-upload/4641599?color=333333" allowfullscreen="" width="980" height="650"><a href="https://horsehead.itch.io/toy-tactics">Play Toy Tactics on itch.io</a></iframe> </div>
-
-<hr>
-
-<!--- ------------------------------------ -->
-<!--- Gallery and screenshots for the game -->
-<!--- ------------------------------------ -->
-<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Gallery & Screenshots</h3>
-<div class="panel-heading active" role="tab" id="headingOne">
-    <h2 class="panel-title" style="word-wrap: normal; padding: 15px; background-color: #1b1b1b">
-    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseGameplayScreenshot" aria-expanded="true" aria-controls="collapseGameplayScreenshot" style="font-size: 18px; padding: 0px !important">
-        Gameplay Screenshots
-    </a>
-    </h2>                                
-</div>
-<div id="collapseGameplayScreenshot" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-    <div class="panel-body">
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/ToyTactics/1.jpg" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/ToyTactics/2.jpg" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/ToyTactics/3.jpg" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-    </div>
-</div>
-
-<hr>
-<!--- ------- -->
-<!--- Credits -->
-<!--- ------- -->
-<h3 style="text-align:center">Game Jam Participants</h3>
-<p style="text-align:center">This game was made by me and Joe Shanahan, we submitted it as a <a class = "a-text" href="/blog/authors/teamhorsehead" target="_blank">Team Horsehead</a> game</p> 
-
-<hr>
