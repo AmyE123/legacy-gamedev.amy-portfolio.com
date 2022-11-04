@@ -278,7 +278,7 @@ author_professional_games:
                 tag1: Altered Gene
                 tag2: '???'
                 tag3: '???'
-                visibility: true 
+                visibility: false 
               - game_thumbnail: /projects/alteredgene.png
                 game_title: Unannounced Math Game
                 game_studio: Altered Gene
