@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: game
 title:  "Submarine Simulator"
 type: "Game Development Blog"
 color: "background-color: seagreen"
@@ -7,59 +7,24 @@ summary: "Submarine Simulator is a Simulator game made for the Royal Navy where 
 author: amyelliott
 date: '2021-04-09'
 category: ['game-development', 'unity']
-thumbnail: /assets/img/posts/SubSim/cover.png
+thumbnail: https://am3pap005files.storage.live.com/y4mQidLrZSYqfHIT3CMXk6UII_SsbkhGIieAtardfMgqiPPLYENt5J6OxcAZLl2zjTI5V1X9qVBeOZH5_lmFbwhST9StMWgmh0iM_eV9IwNmVvb3R2HRcDBROSxSN61wLAKhVyH9_Lso130FapOCIQTjHWBEiD4-ggN695duNN1DTlgWoylUcqTl8QzikdoO9zW?width=1920&height=1634&cropmode=none
 keywords: royal-navy, simulator, teamwork
 permalink: /blog/sub-sim/
 usemathjax: true
 personalProject: false
 hidden: true
+heading: "Learn about a planesman and periscope operator's job in a submarine!"
+icon: https://am3pap005files.storage.live.com/y4mQidLrZSYqfHIT3CMXk6UII_SsbkhGIieAtardfMgqiPPLYENt5J6OxcAZLl2zjTI5V1X9qVBeOZH5_lmFbwhST9StMWgmh0iM_eV9IwNmVvb3R2HRcDBROSxSN61wLAKhVyH9_Lso130FapOCIQTjHWBEiD4-ggN695duNN1DTlgWoylUcqTl8QzikdoO9zW?width=1920&height=1634&cropmode=none
+showreel: /assets/vid/submariner-showreel.mp4
+gamevideo: https://www.youtube.com/embed/7uA4zyfMEME
+status: "Done"
+projecttype: "Client Project"
+duration: "~4 Months"
+tools: ['Unity']
+roles: ['Lead Programmer']
+credits: ['Amy Elliott', 'Gabriel Stott', 'Ethan oHanlon', 'Liam Peachey', 'Rob Cole', 'Aurora Nicolas', 'George Rose']
 ---
 
-<!--- ------------------ -->
-<!--- Status of the game -->
-<!--- ------------------ -->
-<div class="table-mobile">
-    <table>
-        <tr>
-            <th style="border: 0px !important">Status:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Done</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Project Type:</th> 
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Client Project</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Development Duration:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">~4 Months</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Software Used:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Unity</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Primary Roles:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Lead Programmer</small></th>
-        </tr>
-    </table>
-</div>
-
-<hr>
-<!--- ---------------------------- -->
-<!--- Main description of the game -->
-<!--- ---------------------------- -->
-<div class = "card">
-    <h2 style="text-align: center;">About Submarine Simulator</h2>
-    <p style="text-align: center;">Submarine Simulator is a planesman and periscope operator simulator where you must identify different vessels in the sea.<br />This was made as a University project as the Royal Navy as our clients, and they wanted this for their Royal Navy Recruitment Events. It was great fun to make this, and it helped us learn more about how to work with clients to deliver a project based on their specification. </p>
-</div>
-
-<!--- ------------------------------------ -->
-<!--- Embed or Youtube Footage of the game -->
-<!--- ------------------------------------ -->
-<div class="video-container" style="padding-top: 0px !important">
-    <iframe src="https://www.youtube.com/embed/7uA4zyfMEME?controls=0" width="100%" height="500" frameborder="0"></iframe>
-</div>
-
-<hr>
 <!--- -------------------- -->
 <!--- More info about game -->
 <!--- -------------------- -->
@@ -77,11 +42,3 @@ hidden: true
         </div>
     </div>
 </div>
-
-<!--- ------------------------------------------------------- -->
-<!--- Development overviews for the game, to give an insight. -->
-<!--- ------------------------------------------------------- -->
-<hr>
-<h3 style="text-align:center">Full Development Blog</h3>
-<p style="text-align:center">I've written part of my development blog but I've not put it together yet, and so it's a work in progress.</p> 
-<hr>

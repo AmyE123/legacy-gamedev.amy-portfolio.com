@@ -74,12 +74,26 @@
         </div>
 
         <div class="card-body" itemprop="articleBody">
+
+            {% if page.gameembed == true %}
             <!---------------------------------------->
             <!--GAME EMBED-->
             <!---------------------------------------->
             <div style="text-align: center; padding: 20px"> <iframe frameborder="0" src="{{ page.gameembed }}?color=1c1c1e" allowfullscreen="" width="1000" height="700"><a href="{{ game.itch }}">Play {{ game.title }} on itch.io</a></iframe> </div>
             <hr>
+            {% endif %}
 
+            {% if page.gamevideo != null %}
+            <!--- ------------------------------------ -->
+            <!--- Embed or Youtube Footage of the game -->
+            <!--- ------------------------------------ -->
+            <div class="video-container" style="padding-top: 0px !important">
+                <iframe src="{{ page.gamevideo }}?controls=0" width="100%" height="500" frameborder="0"></iframe>
+            </div>
+            <hr>
+            {% endif %}
+
+            {% if page.screenshots != null %}
             <!--- ------------------------------------ -->
             <!--- Gallery and screenshots for the game -->
             <!--- ------------------------------------ -->
@@ -100,8 +114,8 @@
                     {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
                 </div>
             </div>
-
             <hr>
+            {% endif %}
 
             {{ content }}
             <br />
