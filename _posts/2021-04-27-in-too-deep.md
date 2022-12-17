@@ -18,6 +18,7 @@ heading: "Try to get as deep as you can in this cave system!"
 icon: https://am3pap005files.storage.live.com/y4miXRu561_F2Nq6b-i33z7j5NIa6vTwyV8YCBgw7ViO52CAeqrIqoT9vNjuoF9ao1ks--ZtkUQLI8nVurncXIOhypvstknKQ2O1fjr66fK1zI3f65_mnQhgzepFAl18fJdysyzWgnwwtmwln3oMnv4rgg3_mtuTz9jMRH--LDqos7HYeF8bGWTTPWKHSJHrTWk?width=1228&height=1341&cropmode=none
 showreel: /assets/vid/intoodeep-showreel.mp4
 itch: https://horsehead.itch.io/in-too-deep
+isgameembed: true
 gameembed: https://itch.io/embed-upload/3733407
 status: "Done"
 projecttype: "Game Jam"

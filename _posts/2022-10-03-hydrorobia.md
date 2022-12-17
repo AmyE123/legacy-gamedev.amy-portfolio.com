@@ -18,6 +18,7 @@ heading: "A cute robot game"
 icon: https://am3pap005files.storage.live.com/y4mbcvXqNnnOmhx1DgKnxjHce1c_jJ7MXzGr38lq23zCKpjuAOgyk0ssHSfl62M7blZJomcwrvlM0_O99sUdtQv--XC4hqVpRpSr1zIUOayBPhc0OT9P4upNQXvCloBM6ZCYr9qBga9Y9JggEtvN2QAXUUrCQv7U5MHrSNmcbE8lYIQt7jaJlZY6PgyI1FLr_l0?width=1024&height=1024&cropmode=none
 showreel: /assets/vid/hydrorobia-showreel.mp4
 itch: https://horsehead.itch.io/hydrorobia
+isgameembed: true
 gameembed: https://itch.io/embed-upload/6603569
 status: "Done"
 projecttype: "Game Jam"

@@ -18,6 +18,7 @@ heading: "A... Dice Bakery?"
 icon: https://am3pap005files.storage.live.com/y4mAxGdBvYvQOJEPS9GLSVbE5mZ4pus8s-cH6DpXUX8mO6ZtMLINvKkoncU0lBch8SNuxOetLPhaYdynw8eAGX1JIR2MtpmLh5zj3mnbqFjTIWQ0R9unSQ10cG-Z9MNq8_XrO8N_j4cSCiKjHhxZ7ItjnAsbmU0VhaodUcrOJSFa44DADdzGyKcIf1nVA_g_56b?width=368&height=368&cropmode=none
 showreel: /assets/vid/readytoroll-showreel.mp4
 itch: https://horsehead.itch.io/ready-to-roll
+isgameembed: true
 gameembed: https://itch.io/embed-upload/6182152
 status: "Done"
 projecttype: "Game Jam"

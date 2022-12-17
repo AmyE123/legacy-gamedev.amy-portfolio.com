@@ -21,6 +21,7 @@ heading: "Don't let your army get defeated!"
 icon: https://am3pap005files.storage.live.com/y4m06IOAj9MZhVusdWlDKjUID7tcvQ40c2zgNqwAN9g1XFCBF7Ww6LJyGMP0Ju462tfKdgcix_OSzMhxgg3WL4ZS7M0CNVZi4zbRjg0PK0kdN8-g2Z5AhUVyu21o3817FNbZna65Gqiyic4WO0D99MU5-CJp60QVHbJNTmqLgw6931G4Oyy4qS6R5ihdd4bKhvM?width=1920&height=1634&cropmode=none
 showreel: /assets/vid/toytactics-showreel.mp4
 itch: https://horsehead.itch.io/toy-tactics
+isgameembed: true
 gameembed: https://itch.io/embed-upload/4641599
 status: "Refactoring"
 projecttype: "Game Jam"
