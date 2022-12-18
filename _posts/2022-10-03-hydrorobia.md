@@ -9,7 +9,7 @@ date: '2022-10-03'
 category: ['game-development', 'game-jam', 'unity']
 thumbnail: https://am3pap005files.storage.live.com/y4mHyqdFMhgjfhkIV72iR6WXA_UJ8gt0RDHeJf3ujInLxuOy5HemYdwZxeMdzXtWpXb-nVf_NGyztNJL5FETSr464smSxI9utku8gugvVuMp_4V8tq6V9uoG2zx0jaqzo7xz22gNxzvq4lnaXCYpm9cEiPeVxpAgBMnzga_uanhpsk8tvpXLEmDPyQ9j4UTaWui?width=1920&height=1634&cropmode=none
 keywords: timerace, platforming, puzzle, gamejam
-permalink: /blog/hyrdrorobia/
+permalink: /games/hyrdrorobia/
 usemathjax: true
 genre: ['Time Race', 'Platforming', 'Puzzle']
 browser_playable: true

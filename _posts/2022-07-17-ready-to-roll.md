@@ -9,7 +9,7 @@ date: '2022-07-17'
 category: ['game-development', 'game-jam', 'unity']
 thumbnail: https://am3pap005files.storage.live.com/y4m1HF4ilkGDsYpyxCqY8Vvx7pkOl1P3DFrHWe2jhQ68SHFq31Xu6ZcOHwSUQoaq-ye1tTJlfMJqaFyu26LlXPPRTnMIYp8makpBJvVuidXNvccpLpoWoAu5UvQE9z0g5Uad05MnllRNWj-kOV1lFWh5PTExZeFdW8ojSPtV8F4FS9traAGDeOAYVKNY2B9rK0Z?width=1920&height=1634&cropmode=none
 keywords: timerace, bakery, strategy, gamejam
-permalink: /blog/ready-to-roll/
+permalink: /games/ready-to-roll/
 usemathjax: true
 genre: ['Time Race', 'Baking']
 browser_playable: true
