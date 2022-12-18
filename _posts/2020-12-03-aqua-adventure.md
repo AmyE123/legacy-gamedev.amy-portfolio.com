@@ -9,7 +9,7 @@ date: '2020-12-03'
 category: ['game-development', 'game-jam', 'unity']
 thumbnail: /assets/img/posts/AquaAdventure/cover.png
 keywords: shoot, gamejam, retro, action
-permalink: /blog/aqua-adventure/
+permalink: /games/aqua-adventure/
 usemathjax: true
 genre: ['Shoot em up', 'Retro', 'Action']
 hidden: true

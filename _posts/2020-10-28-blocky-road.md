@@ -9,7 +9,7 @@ date: '2020-10-28'
 category: ['game-development', 'game-jam', 'solo', 'unity']
 thumbnail: /assets/img/posts/BlockyRoad/cover.png
 keywords: hypercasual, gamejam, teamwork, puzzles
-permalink: /blog/blocky-road/
+permalink: /games/blocky-road/
 usemathjax: true
 genre: ['Hypercasual', 'Teamwork', 'Puzzles']
 hasRepository: true

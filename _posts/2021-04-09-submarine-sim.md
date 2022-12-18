@@ -9,7 +9,7 @@ date: '2021-04-09'
 category: ['game-development', 'unity']
 thumbnail: https://am3pap005files.storage.live.com/y4mQidLrZSYqfHIT3CMXk6UII_SsbkhGIieAtardfMgqiPPLYENt5J6OxcAZLl2zjTI5V1X9qVBeOZH5_lmFbwhST9StMWgmh0iM_eV9IwNmVvb3R2HRcDBROSxSN61wLAKhVyH9_Lso130FapOCIQTjHWBEiD4-ggN695duNN1DTlgWoylUcqTl8QzikdoO9zW?width=1920&height=1634&cropmode=none
 keywords: royal-navy, simulator, teamwork
-permalink: /blog/sub-sim/
+permalink: /games/sub-sim/
 usemathjax: true
 personalProject: false
 hidden: true

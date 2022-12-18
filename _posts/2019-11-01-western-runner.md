@@ -9,7 +9,7 @@ date: '2019-11-01'
 category: ['game-development', 'solo', 'unreal-engine']
 thumbnail: /assets/img/posts/WesternRunner/cover.png
 keywords: endless-runner, casual, western
-permalink: /blog/western-runner/
+permalink: /games/western-runner/
 usemathjax: true
 genre: ['Endless Runner', 'Western']
 hidden: true

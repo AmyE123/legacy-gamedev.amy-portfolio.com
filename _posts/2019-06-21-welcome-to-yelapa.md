@@ -9,7 +9,7 @@ date: '2019-06-21'
 category: ['game-development', 'game-jam', 'unity']
 thumbnail: /assets/img/posts/WelcomeToYelapa/welcometoyelapa.PNG
 keywords: csharp, game design, design, level design, ui, ux, game jam
-permalink: /blog/welcome-to-yelapa/
+permalink: /games/welcome-to-yelapa/
 usemathjax: true
 genre: ['Puzzles', 'Adventure', 'Casual']
 browser_playable: true

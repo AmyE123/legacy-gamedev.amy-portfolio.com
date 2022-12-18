@@ -9,7 +9,7 @@ date: '2020-02-24'
 category: ['game-development', 'game-jam', 'unity']
 thumbnail: /assets/img/posts/TeamSwapHeroes/cover.png
 keywords: villagesim, village, sim, indie
-permalink: /blog/team-swap-heroes/
+permalink: /games/team-swap-heroes/
 usemathjax: true
 browser_playable: true
 genre: ['Teamwork', 'Puzzles']

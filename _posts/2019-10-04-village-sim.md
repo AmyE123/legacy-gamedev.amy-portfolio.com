@@ -9,7 +9,7 @@ date: '2019-10-04'
 category: ['game-development', 'game-jam', 'unity']
 thumbnail: /assets/img/posts/VillageSim/villagesimulator.png
 keywords: villagesim, village, sim, indie
-permalink: /blog/village-simulator/
+permalink: /games/village-simulator/
 usemathjax: true
 genre: ['Simulator', 'City Builder']
 browser_playable: true

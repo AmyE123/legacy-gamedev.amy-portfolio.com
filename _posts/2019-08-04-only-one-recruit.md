@@ -9,7 +9,7 @@ date: '2019-08-04'
 category: ['game-development', 'game-jam', 'unity']
 thumbnail: /assets/img/posts/OnlyOneRecruit/cover.png
 keywords: teamwork, gamejam, retro, puzzles
-permalink: /blog/only-one-recruit/
+permalink: /games/only-one-recruit/
 usemathjax: true
 genre: ['Teamwork', 'Puzzles', 'Retro']
 browser_playable: true

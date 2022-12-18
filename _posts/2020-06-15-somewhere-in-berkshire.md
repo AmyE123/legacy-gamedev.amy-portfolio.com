@@ -9,7 +9,7 @@ date: '2020-06-15'
 category: ['game-development', 'game-jam', 'unity']
 thumbnail: /assets/img/posts/SomewhereInBerkshire/cover.png
 keywords: dragonsitter, gamejam, here
-permalink: /blog/somewhere-in-berkshire/
+permalink: /games/somewhere-in-berkshire/
 usemathjax: true
 genre: ['Adventure', 'Walking Simulator']
 browser_playable: true

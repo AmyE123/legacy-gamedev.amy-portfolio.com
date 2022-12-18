@@ -9,7 +9,7 @@ date: '2021-04-27'
 category: ['game-development', 'game-jam', 'unity']
 thumbnail: https://am3pap005files.storage.live.com/y4mWI_yaqAN9u-OSRMhJomkB1fbv6nsGayABe4LAtyY5dJivL0qou5E6-Oni2wsz6ri3o_ofaxeiA7TAWmvins-Yedt2yNQqY5CfZT3tRdDa_XasnIpFjh_fW_5UnHbM0lgEqOdvOlE_2HuJILI6FOaW5jPvXww23UwC8UjOHOlQ79Jf4aQw2K4g78pCqTAqbSp?width=1920&height=1634&cropmode=none
 keywords: mining, gamejam, tycoon, survival
-permalink: /blog/in-too-deep/
+permalink: /games/in-too-deep/
 usemathjax: true
 genre: ['Mining', 'Tycoon', 'Survival', 'Action']
 browser_playable: true

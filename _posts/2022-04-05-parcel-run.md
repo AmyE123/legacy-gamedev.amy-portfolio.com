@@ -9,7 +9,7 @@ date: '2022-04-05'
 category: ['game-development', 'game-jam', 'unity']
 thumbnail: https://am3pap005files.storage.live.com/y4mHlu37o3pklG8pWnm8_pCxivumYfMIwl-WO4DU7GZmse9L0fu1EckVQRMOLMtGwkqImjyH-bA2UUQWVEpP44OqCplLAV4CteUIOHiqRoIH2vD0bs8uNFKqWmCWVMnha7oybSB4Ltxd2ItMKUyL5TO0eP6ea1GYwYE_N3lOwxC-A-hosYif3yWnpQac0O3oqRg?width=1920&height=1634&cropmode=none
 keywords: timerace, funny, competitive, gamejam
-permalink: /blog/parcel-run/
+permalink: /games/parcel-run/
 usemathjax: true
 genre: ['Time Race', 'Funny', 'Competitive']
 hasRepository: true

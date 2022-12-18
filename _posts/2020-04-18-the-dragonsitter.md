@@ -9,7 +9,7 @@ date: '2020-04-18'
 category: ['game-development', 'game-jam', 'unity']
 thumbnail: /assets/img/posts/TheDragonsitter/1.png
 keywords: dragonsitter, gamejam, here
-permalink: /blog/the-dragonsitter/
+permalink: /games/the-dragonsitter/
 usemathjax: true
 browser_playable: true
 genre: ['Digital Pet', 'Fantasy']

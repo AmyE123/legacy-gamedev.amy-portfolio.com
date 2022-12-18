@@ -9,7 +9,7 @@ date: '2020-10-02'
 category: ['game-development', 'game-jam', 'unity']
 thumbnail: /assets/img/posts/DrivenRoundTheLoop/cover.png
 keywords: funny, gamejam, cars
-permalink: /blog/driven-round-the-loop/
+permalink: /games/driven-round-the-loop/
 usemathjax: true
 genre: ['Puzzles', 'Casual', 'Cars']
 browser_playable: true

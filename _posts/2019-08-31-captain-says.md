@@ -9,7 +9,7 @@ date: '2019-08-31'
 category: ['game-development', 'game-jam', 'unity']
 thumbnail: /assets/img/posts/CapSays/cover.png
 keywords: educational, gamejam, casual, arcade
-permalink: /blog/captain-says/
+permalink: /games/captain-says/
 usemathjax: true
 genre: ['Educational', 'Casual']
 browser_playable: true

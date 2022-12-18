@@ -9,7 +9,7 @@ date: '2020-11-12'
 category: ['game-development', 'game-jam', 'unity']
 thumbnail: /assets/img/posts/PopHop/cover.png
 keywords: platformer, gamejam, fantasy, puzzles
-permalink: /blog/poppin-hoppin-unlockin/
+permalink: /games/poppin-hoppin-unlockin/
 usemathjax: true
 genre: ['Platformer', 'Fantasy']
 browser_playable: true
