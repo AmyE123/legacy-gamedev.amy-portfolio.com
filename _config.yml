@@ -38,16 +38,21 @@ author_work_experiences:
             - company_name: Sumo Digital
               company_logo: sumo.png
               company_url: https://leamington.sumo-digital.com/
-              work_duration: Aug 2021 - Present
+              work_duration: Aug 2021 - Aug 2022
               designation: Placement Programmer
-              description: Working on Programming.
+              description: I worked on an unannounced game in Unity using C#.
+
+              hasdes2: true
+              work_duration2: Aug 2022 - Present
+              designation2: Junior Programmer
+              description2: 
               visibility: true    
             - company_name: Altered Gene
               company_logo: ag.png
               company_url: http://alteredgene.co.uk/
               work_duration: July 2022 - Present
               designation: Freelance Programmer
-              description: Working on Programming.
+              description: I'm currently working on programming for multiple internal game projects. <br /> Altered Gene is a remote development studio headquartered in the UK. Our mission is to craft omni-channel games and experiences using the core pillars of story, quality, and accessibility.
               visibility: true    
             - company_name: Jagex
               company_logo: jagex.png

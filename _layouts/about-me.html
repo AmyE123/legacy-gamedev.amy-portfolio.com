@@ -288,12 +288,16 @@ layout: default
                          class="company-logo" />
                 </div>
                 <div class="col-md-6">
-                    <h4 class="experience-title">{{ exp.designation }}</h4>
                     <h6 class="experience-info">{{ exp.company_name}} </h6>
+                    <hr>
+                    {% if exp.hasdes2 == true %}
+                    <h4 class="experience-title">{{ exp.designation2 }}</h4>
+                    <small class="experience-info">{{ exp.work_duration2 }}</small>
+                    <p class="experience-desc">{{ exp.description2 }}</p>                  
+                    {% endif %}
+                    <h4 class="experience-title">{{ exp.designation }}</h4>
                     <small class="experience-info">{{ exp.work_duration}}</small>
                     <p class="experience-desc">{{ exp.description }}</p>
-
-                    <!--<p><a href="{{exp.company_url}}" style="padding-left:0px">{{ exp.company_url}}</a></p>-->
                 </div>
             </div>
             <br />
