@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: game
 title:  "Airport - Lost & Found"
 type: "Game Development Blog"
 color: "background-color: seagreen"
@@ -7,100 +7,24 @@ summary: "Airport - Lost & Found is a crazy-taxi inspired game designed around t
 author: amyelliott
 date: '2021-01-31'
 category: ['game-development', 'game-jam', 'unity']
-thumbnail: /assets/img/posts/Airport/cover.png
+thumbnail: https://am3pap005files.storage.live.com/y4moNKkSajIZjH92VzFIFxU7h2dEdtkeZavf01vchmgwFf9ZzP6Y7bHqODagFEN8NLWH-eMUDir2CCbPfCVyoSRnAiNW-297nBUHqkGnTxN1dBm6MUM6ubfxpGaoHHOZPEyJIIDlNWtm39MUViT9RTWZv89H6eP5HX0sMCHG899S6NTrPuKzm9PO0CU5zQ0oPBA?width=1920&height=1634&cropmode=none
 keywords: crazytaxi, gamejam, ragdoll, timerace
 permalink: /games/airport-lost-and-found/
 usemathjax: true
 genre: ['Crazy Taxi', 'Time Race']
 browser_playable: true
 hidden: true
+heading: "Think Crazy Taxi, but in an airport, with bags."
+icon: https://am3pap005files.storage.live.com/y4moNKkSajIZjH92VzFIFxU7h2dEdtkeZavf01vchmgwFf9ZzP6Y7bHqODagFEN8NLWH-eMUDir2CCbPfCVyoSRnAiNW-297nBUHqkGnTxN1dBm6MUM6ubfxpGaoHHOZPEyJIIDlNWtm39MUViT9RTWZv89H6eP5HX0sMCHG899S6NTrPuKzm9PO0CU5zQ0oPBA?width=1920&height=1634&cropmode=none
+showreel: /assets/vid/airport-showreel.mp4
+itch: https://horsehead.itch.io/airport-lost-found-division
+isgameembed: true
+gameembed: https://itch.io/embed-upload/3288801
+status: "Done"
+projecttype: "Game Jam"
+duration: "72 Hours"
+tools: ['Unity']
+roles: ['Programming', 'Art', 'Level Design']
+credits: ['Amy Elliott', 'Joe Shanahan', 'Erin Somervail', 'Scott Richards', 'Tash Briggs', 'Christian Elliott']
+screenshots: ['https://am3pap005files.storage.live.com/y4ma9j28VJh0_NAfcswmtKlu6p05tgQA_de2gTvIJngTjmxB2qcIgmwZJfBw4dIPpM2nC6UXYMZxyEAgXXbHVfBGZLLWUf4Lxn1tO5A05QSQPxehJkR9WAEsaTbNtpi658dPzz7kwCoDVy61sh4WDVeUlL3WzwN_rtrQ7p8F-9Ykk2CoLnJlVGqJtCz-AnvsO7V?width=946&height=532&cropmode=none', 'https://am3pap005files.storage.live.com/y4m6whmyGG30Btm1r6B-5T3Dtrbm7-d2t9CM1TypEY9Ij5S6DB6FIC8fXmbzjsKO8cmi-tbkzKIz77zSB4VzpYR9KBeI51AmmM68kF5hEzuTd5p6T_cmXFMyW2eah_qPTQfRp6Lx2tCqhEBL0n7EB3VI-p1k0NnoWt3FKs6ahxZLUH0YfLXzNz1GpGhJ-3nFIGd?width=938&height=533&cropmode=none', 'https://am3pap005files.storage.live.com/y4mI6eDq6T8VfigS_A5pC9t-ApFYYP1imLXZmz_z0TE8CxOdfQW6Y7qn92ZhRGJmWlScFti8SbNsctRq-ws1koG8iblfr4mp-EeJgDVKm7pw5AyWzldygFW8yEKE5bd2t2C4Y9rGHaVtrAtyoP6xQFAqF7v0ttaq9wiptTU7qykPboko2h6k5rKi-0p2M8F6RYF?width=940&height=526&cropmode=none', 'https://am3pap005files.storage.live.com/y4mPHVou6xqysF9dfqCs46xJQg_6UbYd4Q_umz75llzNPR51ohxvhG1--TG4m7k47_fmTERRhZ4KEL_XbF9evyj_2oJ6wL5Un4OdDMzXHhgOmvBK4j0rZi6VJLRqlw3kOS4TdUZGrWrm6wmp6t1Vrxi8MElPVFFiGxf3zvQU9dYbc1v14wF4Wy8c2UuWNnug-vO?width=938&height=526&cropmode=none', 'https://am3pap005files.storage.live.com/y4mPHVou6xqysF9dfqCs46xJQg_6UbYd4Q_umz75llzNPR51ohxvhG1--TG4m7k47_fmTERRhZ4KEL_XbF9evyj_2oJ6wL5Un4OdDMzXHhgOmvBK4j0rZi6VJLRqlw3kOS4TdUZGrWrm6wmp6t1Vrxi8MElPVFFiGxf3zvQU9dYbc1v14wF4Wy8c2UuWNnug-vO?width=938&height=526&cropmode=none', 'https://am3pap005files.storage.live.com/y4mHD_JJXxCeMQdw4I8Z_qoOqbBjgKbLAYq-bC_wSrpWSHju2ZlJDrf1uS8GZHcTHmgrK108ezIllxWfQRgSeRoMKVRWsDwDXmTuYtcHnEDX1Hzz_pbj01aRicgfPOVPUIjntHckJfTogcFbSL2tYb-HFgl-gNTYNJ8Vozo8awQN9zx3so3ohrFNtGYP_QGhp2C?width=943&height=531&cropmode=none']
 ---
-
-<!--- ------------------ -->
-<!--- Status of the game -->
-<!--- ------------------ -->
-<div class="table-mobile">
-    <table>
-        <tr>
-            <th style="border: 0px !important">Status:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Done</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Project Type:</th> 
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Game Jam</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Development Duration:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">48 Hours</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Software Used:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Unity</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Primary Roles:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Programming</small><small class="btn btn-col status-button">Level Design</small><small class="btn btn-col status-button">Sound FX/Music</small></th>
-        </tr>
-    </table>
-</div>
-
-<hr>
-<!--- ---------------------------- -->
-<!--- Main description of the game -->
-<!--- ---------------------------- -->
-<div class = "card">
-    <h2 style="text-align: center;">About Airport - Lost & Found</h2>
-    <p style="text-align: center;">Airport - Lost & Found is a crazy-taxi inspired game designed around the theme 'Lost & Found' made for Global Gamejam 2021. </p>
-    <p style="text-align: center;">You're working in an airport, and you have to find people's bags! They're rather small-brained so they can't remember where they've left their precious belongings. The airport is packed full of people, so you're going to have to jump over things to get people their belongings on time...</p>
-</div>
-
-<!--- ------------------------------------ -->
-<!--- Embed or Youtube Footage of the game -->
-<!--- ------------------------------------ -->
-<div style="text-align: center;"><iframe frameborder="0" src="https://itch.io/embed-upload/3288801?color=333333" allowfullscreen="" width="1000" height="700"><a href="https://horsehead.itch.io/airport-lost-found-division">Play Airport - Lost &amp; Found Division on itch.io</a></iframe></div>
-
-<hr>
-
-<!--- ------------------------------------ -->
-<!--- Gallery and screenshots for the game -->
-<!--- ------------------------------------ -->
-<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Gallery & Screenshots</h3>
-<div class="panel-heading active" role="tab" id="headingOne">
-    <h2 class="panel-title" style="word-wrap: normal; padding: 15px; background-color: #1b1b1b">
-    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseGall" aria-expanded="true" aria-controls="collapseGall" style="font-size: 18px; padding: 0px !important">
-        Gameplay Screenshots
-    </a>
-    </h2>                                
-</div>
-<div id="collapseGall" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-    <div class="panel-body">
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/Airport/1.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/Airport/2.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/Airport/3.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/Airport/4.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/Airport/5.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/Airport/6.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-    </div>
-</div>
-
-<hr>
-<!--- ------- -->
-<!--- Credits -->
-<!--- ------- -->
-<h3 style="text-align:center">Game Jam Participants</h3>
-<p style="text-align:center">This game was made by a team of 6 members, including me, and my little brother who I asked to join! This game was submitted as a <a class = "a-text" href="/blog/authors/teamhorsehead" target="_blank">Team Horsehead</a> game. <br /> You can see more information about the team on the <a class = "a-text" href="https://globalgamejam.org/2021/games/airport-game-9" target="_blank">Global Gamejam page</a> or <a class = "a-text" href="https://horsehead.itch.io/airport-lost-found-division" target="_blank">Itch.io page</a>.</p> 
-
-<hr>
-
