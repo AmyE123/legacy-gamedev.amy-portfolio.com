@@ -22,9 +22,9 @@ isgameembed: true
 gameembed: https://itch.io/embed-upload/3288801
 status: "Done"
 projecttype: "Game Jam"
-duration: "72 Hours"
+duration: "48 Hours"
 tools: ['Unity']
-roles: ['Programming', 'Art', 'Level Design']
+roles: ['Programming', 'Level Design', 'Sound FX/Music']
 credits: ['Amy Elliott', 'Joe Shanahan', 'Erin Somervail', 'Scott Richards', 'Tash Briggs', 'Christian Elliott']
 screenshots: ['https://am3pap005files.storage.live.com/y4ma9j28VJh0_NAfcswmtKlu6p05tgQA_de2gTvIJngTjmxB2qcIgmwZJfBw4dIPpM2nC6UXYMZxyEAgXXbHVfBGZLLWUf4Lxn1tO5A05QSQPxehJkR9WAEsaTbNtpi658dPzz7kwCoDVy61sh4WDVeUlL3WzwN_rtrQ7p8F-9Ykk2CoLnJlVGqJtCz-AnvsO7V?width=946&height=532&cropmode=none', 'https://am3pap005files.storage.live.com/y4m6whmyGG30Btm1r6B-5T3Dtrbm7-d2t9CM1TypEY9Ij5S6DB6FIC8fXmbzjsKO8cmi-tbkzKIz77zSB4VzpYR9KBeI51AmmM68kF5hEzuTd5p6T_cmXFMyW2eah_qPTQfRp6Lx2tCqhEBL0n7EB3VI-p1k0NnoWt3FKs6ahxZLUH0YfLXzNz1GpGhJ-3nFIGd?width=938&height=533&cropmode=none', 'https://am3pap005files.storage.live.com/y4mI6eDq6T8VfigS_A5pC9t-ApFYYP1imLXZmz_z0TE8CxOdfQW6Y7qn92ZhRGJmWlScFti8SbNsctRq-ws1koG8iblfr4mp-EeJgDVKm7pw5AyWzldygFW8yEKE5bd2t2C4Y9rGHaVtrAtyoP6xQFAqF7v0ttaq9wiptTU7qykPboko2h6k5rKi-0p2M8F6RYF?width=940&height=526&cropmode=none', 'https://am3pap005files.storage.live.com/y4mPHVou6xqysF9dfqCs46xJQg_6UbYd4Q_umz75llzNPR51ohxvhG1--TG4m7k47_fmTERRhZ4KEL_XbF9evyj_2oJ6wL5Un4OdDMzXHhgOmvBK4j0rZi6VJLRqlw3kOS4TdUZGrWrm6wmp6t1Vrxi8MElPVFFiGxf3zvQU9dYbc1v14wF4Wy8c2UuWNnug-vO?width=938&height=526&cropmode=none', 'https://am3pap005files.storage.live.com/y4mPHVou6xqysF9dfqCs46xJQg_6UbYd4Q_umz75llzNPR51ohxvhG1--TG4m7k47_fmTERRhZ4KEL_XbF9evyj_2oJ6wL5Un4OdDMzXHhgOmvBK4j0rZi6VJLRqlw3kOS4TdUZGrWrm6wmp6t1Vrxi8MElPVFFiGxf3zvQU9dYbc1v14wF4Wy8c2UuWNnug-vO?width=938&height=526&cropmode=none', 'https://am3pap005files.storage.live.com/y4mHD_JJXxCeMQdw4I8Z_qoOqbBjgKbLAYq-bC_wSrpWSHju2ZlJDrf1uS8GZHcTHmgrK108ezIllxWfQRgSeRoMKVRWsDwDXmTuYtcHnEDX1Hzz_pbj01aRicgfPOVPUIjntHckJfTogcFbSL2tYb-HFgl-gNTYNJ8Vozo8awQN9zx3so3ohrFNtGYP_QGhp2C?width=943&height=531&cropmode=none']
 ---
