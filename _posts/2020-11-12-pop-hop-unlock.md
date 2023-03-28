@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: game
 title:  "Poppin' Hoppin' Unlockin'"
 type: "Game Development Blog"
 color: "background-color: seagreen"
@@ -14,62 +14,22 @@ usemathjax: true
 genre: ['Platformer', 'Fantasy']
 browser_playable: true
 hidden: true
+heading: "A Wizard who must complete the levels, but is absolutely terrified!"
+icon: https://am3pap005files.storage.live.com/y4mORkBFSrecnhIg-1K82VsC-XrzqDYbG9WN5uCg3MERQCzBDhWrqaOILscLIEtizqcu0dGd8qjCTeXA9BdZ9-jlFdD8p6xDd22viqAoDzHN2bFFFXPoDE8i6S0oaO2V_qeTp3LbV1TvcaPATXNzu_2RvIekQYecxW0SN1B195YAz2ukBX-1f1IRB7fI6ZeXcp1?width=1920&height=1634&cropmode=none
+showreel: /assets/vid/pophop-showreel.mp4
+itch: https://horsehead.itch.io/poppin-hoppin-unlockin
+isgameembed: true
+gameembed: https://itch.io/embed-upload/2958857
+status: "Done"
+projecttype: "Game Jam"
+duration: "2 Weeks (14 Hours Work Time)"
+tools: ['Unity']
+roles: ['Project Management', 'Group Lead', 'Programming']
+credits: ['Amy Elliott', 'Gabriel Stott', 'Cam Hill', 'Rob Cole', 'Mohamed Elfayomy', 'Luke Carr', 'Ben Webb', 'Bryce Reading']
 ---
-
-<!--- ------------------ -->
-<!--- Status of the game -->
-<!--- ------------------ -->
-<div class="table-mobile">
-    <table>
-        <tr>
-            <th style="border: 0px !important">Status:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Done</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Project Type:</th> 
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Game Jam</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Development Duration:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">2 Weeks (14 Hours Work Time)</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Software Used:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Unity</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Primary Roles:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Project Management</small><small class="btn btn-col status-button">Group Lead</small><small class="btn btn-col status-button">Programming</small></th>
-        </tr>
-    </table>
-</div>
-
-<hr>
-<!--- ---------------------------- -->
-<!--- Main description of the game -->
-<!--- ---------------------------- -->
-<div class = "card">
-    <h2 style="text-align: center;">About Poppin' Hoppin' Unlockin'</h2>
-    <p style="text-align: center;">This game is a platformer, specifically a fantasy platformer, as that was our chosen theme for the gamejam.<br />During the gamejam, I lead the group and made sure there was work for everyone to do, I also worked on the programming for some of the core gameplay mechanics I was put with a team of 8 people, including myself. I learned a lot about how to manage a team and evenly distribute work, using project management tools, I also managed everyone's working hours so they don't work above the development time of 14 hours.</p>
-</div>
-
-<!--- ------------------------------------ -->
-<!--- Embed or Youtube Footage of the game -->
-<!--- ------------------------------------ -->
-<div style="text-align: center;"><iframe frameborder="0" src="https://itch.io/embed-upload/2958857?color=333333" allowfullscreen="" width="980" height="688"><a href="https://amy-elliott.itch.io/poppin-hoppin-unlockin">Play Poppin' Hoppin' Unlockin' on itch.io</a></iframe></div>
 
 <!--- ------------------------------------------------------- -->
 <!--- Development overviews for the game, to give an insight. -->
 <!--- ------------------------------------------------------- -->
-<hr>
 <h3 style="text-align:center">Full Development Blog</h3>
 <p style="text-align:center">You can read the full development blog for the game <a class = "a-text" href="https://amyelliottuop.wordpress.com/technical-game-development-tdemo/game-4-06-11-20/" target="_blank">here</a>.</p> 
-<hr>
-
-<!--- ------- -->
-<!--- Credits -->
-<!--- ------- -->
-<h3 style="text-align:center">Game Jam Participants</h3>
-<p style="text-align:center">This game was made by a team of 8 members, including me. <br /> You can see more information about the team on the <a class = "a-text" href="https://amy-elliott.itch.io/poppin-hoppin-unlockin" target="_blank">Itch.io page</a>.</p> 
-
-<hr>
