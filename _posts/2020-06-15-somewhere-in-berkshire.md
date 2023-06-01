@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: game
 title:  "Somewhere In Berkshire"
 type: "Game Development Blog"
 color: "background-color: seagreen"
@@ -7,87 +7,36 @@ summary: "Somewhere in Berkshire is an exploration game designed to fit around a
 author: amyelliott
 date: '2020-06-15'
 category: ['game-development', 'game-jam', 'unity']
-thumbnail: /assets/img/posts/SomewhereInBerkshire/cover.png
-keywords: dragonsitter, gamejam, here
+thumbnail: https://am3pap005files.storage.live.com/y4mHnUSsXRn4gWyziRIdGzR1iDttV8e0IkrSnVbfon7PqfnNYsU-C5kzuyHM1_1wrQb4Z80ERH4cuayb61jaMLZKUGjo1DlYOizGdkxwbAuroLHaYljhiakTXQH7dLBXCSFdTincl1_0STfNJOpE2mOGQxzbFOCSwdr0GuTAiZv2EloNG5DzjvB7PaqdEzWqNtW?width=1920&height=1634&cropmode=none
+keywords: gamejam, walkingsim, berkshire
 permalink: /games/somewhere-in-berkshire/
 usemathjax: true
 genre: ['Adventure', 'Walking Simulator']
 browser_playable: true
 hidden: true
+heading: "Walk through a small village and discover secrets."
+icon: https://am3pap005files.storage.live.com/y4mHnUSsXRn4gWyziRIdGzR1iDttV8e0IkrSnVbfon7PqfnNYsU-C5kzuyHM1_1wrQb4Z80ERH4cuayb61jaMLZKUGjo1DlYOizGdkxwbAuroLHaYljhiakTXQH7dLBXCSFdTincl1_0STfNJOpE2mOGQxzbFOCSwdr0GuTAiZv2EloNG5DzjvB7PaqdEzWqNtW?width=1920&height=1634&cropmode=none
+showreel: 
+itch: https://horsehead.itch.io/somewhere-in-berkshire
+isgameembed: true
+gameembed: https://itch.io/embed-upload/2385357
+status: "Done"
+projecttype: "Game Jam"
+duration: "72 Hours"
+tools: ['Unity', 'Photoshop']
+roles: ['Programming', 'Design', 'UI', 'Shaders', 'Art']
+credits: ['Amy Elliott', 'Joe Shanahan', 'Scott Richards', 'Melina Sputz', 'Louise Hunnisett']
+screenshots: ['/assets/img/posts/SomewhereInBerkshire/berkshire.gif', '/assets/img/posts/SomewhereInBerkshire/berkshire2.gif', '/assets/img/posts/SomewhereInBerkshire/berkshire3.gif', '/assets/img/posts/SomewhereInBerkshire/berkshire4.gif']
 ---
 
-<!--- ------------------ -->
-<!--- Status of the game -->
-<!--- ------------------ -->
-<div class="table-mobile">
-    <table>
-        <tr>
-            <th style="border: 0px !important">Status:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Done</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Project Type:</th> 
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Game Jam</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Development Duration:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">72 Hours</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Software Used:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Unity</small><small class="btn btn-col status-button">Photoshop</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Primary Roles:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Programming</small><small class="btn btn-col status-button">UI</small><small class="btn btn-col status-button">Design</small><small class="btn btn-col status-button">Shaders</small><small class="btn btn-col status-button">Art</small></th>
-        </tr>
-    </table>
-</div>
 
-<hr>
 <!--- ---------------------------- -->
 <!--- Main description of the game -->
 <!--- ---------------------------- -->
-<div class = "card">
-    <h2 style="text-align: center;">About Somewhere In Berkshire</h2>
-    <p style="text-align: center;">Somewhere in Berkshire is an exploration game designed to fit around a few randomly selected tricky themes. The three themes were picked randomly from Wikipedia. <br /> The themes which were picked for this were: The 1999 Saskatchewan Scott Tournament of Hearts, Bockhampton Berkshire, and finally a Professor called Jillian Banfield. In this gamejam, I worked with Team Horsehead, there was 5 of us on the team, including me. I mostly worked on Programming, Design, UI Shaders and Art for the game. <br />Through making this game I learnt a lot more about shaders in Unity.</p>
-</div>
-
-<!--- ------------------------------------ -->
-<!--- Embed or Youtube Footage of the game -->
-<!--- ------------------------------------ -->
-<div style="text-align: center;"><iframe frameborder="0" src="https://itch.io/embed-upload/2385357?color=333333" allowfullscreen="" width="980" height="688"><a href="https://horsehead.itch.io/somewhere-in-berkshire">Play Somewhere in Berkshire on itch.io</a></iframe></div>
+<p>Somewhere in Berkshire is an exploration game designed to fit around a few randomly selected tricky themes. The three themes were picked randomly from Wikipedia. <br /> The themes which were picked for this were: The 1999 Saskatchewan Scott Tournament of Hearts, Bockhampton Berkshire, and finally a Professor called Jillian Banfield. In this gamejam, I worked with Team Horsehead, there was 5 of us on the team, including me. I mostly worked on Programming, Design, UI Shaders and Art for the game. <br />Through making this game I learnt a lot more about shaders in Unity.</p>
 
 <hr>
-<!--- ------------------------------------ -->
-<!--- Gallery and screenshots for the game -->
-<!--- ------------------------------------ -->
-<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Gallery & Screenshots</h3>
-<div class="panel-heading active" role="tab" id="headingOne">
-    <h2 class="panel-title" style="word-wrap: normal; padding: 15px; background-color: #1b1b1b">
-    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseGall" aria-expanded="true" aria-controls="collapseGall" style="font-size: 18px; padding: 0px !important">
-        Gameplay GIFs
-    </a>
-    </h2>                                
-</div>
-<div id="collapseGall" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-    <div class="panel-body">
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/SomewhereInBerkshire/berkshire.gif" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/SomewhereInBerkshire/berkshire2.gif" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/SomewhereInBerkshire/berkshire3.gif" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/SomewhereInBerkshire/berkshire4.gif" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-    </div>
-</div>
 
-<hr>
 <!--- ------------------------------------------------------- -->
 <!--- Development overviews for the game, to give an insight. -->
 <!--- ------------------------------------------------------- -->
