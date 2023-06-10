@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: game
 title:  "Team Swap Heroes"
 type: "Game Development Blog"
 color: "background-color: seagreen"
@@ -7,83 +7,27 @@ summary: "Team Swap Heroes is a teamwork-based game. This was designed around th
 author: amyelliott
 date: '2020-02-24'
 category: ['game-development', 'game-jam', 'unity']
-thumbnail: /assets/img/posts/TeamSwapHeroes/cover.png
-keywords: villagesim, village, sim, indie
+thumbnail: https://am3pap005files.storage.live.com/y4mCeg7VLfImyR6NHnwuz91FNJzHL1Sx6j9zXIcUsJpEbYI4SQAf46EtLc_lUDu_YVIBvNm5tRFRsJXjdSSM_-Dc5W6ELW56-vKdmu8lvmszJMpo4liHrPCbxVCT4YTQ7B_MeeRLsFcNugZUcmahb6ohckr7iyozrXcMCDvw-dxtqKwI2zS6M_Ll11KOxDlGYWF?width=1920&height=1634&cropmode=none
+keywords: teamwork, puzzle
 permalink: /games/team-swap-heroes/
 usemathjax: true
 browser_playable: true
 genre: ['Teamwork', 'Puzzles']
 hidden: true
+heading: "Complete puzzles with a team of yourself! Looping over and over!"
+icon: https://am3pap005files.storage.live.com/y4mCeg7VLfImyR6NHnwuz91FNJzHL1Sx6j9zXIcUsJpEbYI4SQAf46EtLc_lUDu_YVIBvNm5tRFRsJXjdSSM_-Dc5W6ELW56-vKdmu8lvmszJMpo4liHrPCbxVCT4YTQ7B_MeeRLsFcNugZUcmahb6ohckr7iyozrXcMCDvw-dxtqKwI2zS6M_Ll11KOxDlGYWF?width=1920&height=1634&cropmode=none
+showreel: 
+itch: https://horsehead.itch.io/team-swap-heroes
+isgameembed: true
+gameembed: https://itch.io/embed-upload/1985152
+status: "Done"
+projecttype: "Game Jam"
+duration: "48 Hours"
+tools: ['Unity', 'Photoshop', 'Paint Tool Sai']
+roles: ['Programming', 'Level Design', 'Design']
+credits: ['Amy Elliott', 'Joe Shanahan']
+screenshots: ['https://am3pap005files.storage.live.com/y4mHJeVNqwMLoECLmB5vfmsV7sUGVRchAtj49KDqCtUs2DVNrN0ytfYg1HwyXjAOF1wCinZxT8Zire4PUGSpeUgNtyJcfa3Ce9f7abDoBSbcvvO8eaUHBjrahIJjCW3NRW9ixPPjFWzEcl0hYU2VvWmbuC4VxA74hZn2j9cSrCXKImL_97G4kxRaihLAaa7Aksx?width=1139&height=637&cropmode=none', 'https://am3pap005files.storage.live.com/y4mPatbbxEye0e3__nGlckkwtVDLkGtK_czJW0H1N80_KwWPBFQA-luAfM14pMYSuv27PFpo1JiVC8pNLzAJrAvkSMA0cbgHFO4fIlLRE9QrObWgJuPgtG90lkE-LxixPAb1t5Zj9LF12Nzql_dpcuCpU7rVQB8w6Fj-w_OCWyc3UmWj8qRNGHQ6gcriZBDG442?width=1135&height=640&cropmode=none', 'https://am3pap005files.storage.live.com/y4m-Vc-GlnnUPtVfGlW9wbtHgV_CM3uRMdEMeOvGMNBM_O-1da1TGIH_OnP8ZWHULcCx5ZZ7AznPx2ZTNACr_3aGdyDioT8KpbaipZJ5SreE0nl6VXhH0jah5tXn1jlJI7Mlgn0E6TmTgR6OsrTLq89nKS2rc3JWN3pxt6WvWKFwbjqyqOmkEs31ZntzReU7H-Z?width=1133&height=640&cropmode=none']
 ---
-
-<!--- ------------------ -->
-<!--- Status of the game -->
-<!--- ------------------ -->
-<div class="table-mobile">
-    <table>
-        <tr>
-            <th style="border: 0px !important">Status:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Done</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Project Type:</th> 
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Game Jam</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Development Duration:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">48 Hours</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Software Used:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Unity</small><small class="btn btn-col status-button">Photoshop</small><small class="btn btn-col status-button">Paint Tool Sai</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Primary Roles:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Programming</small><small class="btn btn-col status-button">Level Design</small><small class="btn btn-col status-button">Design</small></th>
-        </tr>
-    </table>
-</div>
-
-
-<hr>
-<!--- ---------------------------- -->
-<!--- Main description of the game -->
-<!--- ---------------------------- -->
-<div class = "card">
-    <h2 style="text-align: center;">About Team Swap Heroes</h2>
-    <p style="text-align: center;">Team Swap Heroes is a teamwork-based game that was made for Minijam 48. I took multiple roles in this project due to our small team, implementing a few gameplay mechanics, and taking a lead on the concept designs for the game, I also contributed to level design.<br />This game was made with a team of 2, me and my friend Joe Shanahan.<br />This project helped me understand more about level design, specifically how to make levels that are fun AND challenging to complete.</p>
-</div>
-
-<!--- ------------------------------------ -->
-<!--- Embed or Youtube Footage of the game -->
-<!--- ------------------------------------ -->
-<div style="text-align: center;"> <iframe frameborder="0" src="https://itch.io/embed-upload/1985152?color=333333" allowfullscreen="" width="980" height="650"><a href="https://horsehead.itch.io/team-swap-heroes">Play Team Swap Heroes on itch.io</a></iframe> </div>
-<hr>
-
-<!--- ------------------------------------ -->
-<!--- Gallery and screenshots for the game -->
-<!--- ------------------------------------ -->
-<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Gallery & Screenshots</h3>
-<div class="panel-heading active" role="tab" id="headingOne">
-    <h2 class="panel-title" style="word-wrap: normal; padding: 15px; background-color: #1b1b1b">
-    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseGameplayScreenshot" aria-expanded="true" aria-controls="collapseGameplayScreenshot" style="font-size: 18px; padding: 0px !important">
-        Gameplay Screenshots
-    </a>
-    </h2>                                
-</div>
-<div id="collapseGameplayScreenshot" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-    <div class="panel-body">
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/TeamSwapHeroes/1.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/TeamSwapHeroes/2.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/TeamSwapHeroes/3.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-    </div>
-</div>
 <div class="panel-heading active" role="tab" id="headingTwo">
     <h2 class="panel-title" style="word-wrap: normal; padding: 15px; background-color: #1b1b1b">
     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseLevDes" aria-expanded="true" aria-controls="collapseLevDes" style="font-size: 18px; padding: 0px !important">
@@ -127,12 +71,3 @@ hidden: true
         </div>
     </div>
 </div>
-
-<hr>
-<!--- ------- -->
-<!--- Credits -->
-<!--- ------- -->
-<h3 style="text-align:center">Game Jam Participants</h3>
-<p style="text-align:center">This game was made by me and Joe Shanahan, we submitted it as a <a class = "a-text" href="/blog/authors/teamhorsehead" target="_blank">Team Horsehead</a> game</p> 
-
-<hr>
