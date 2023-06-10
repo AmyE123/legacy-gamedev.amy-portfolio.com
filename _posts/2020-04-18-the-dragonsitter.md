@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: game
 title:  "The Dragonsitter"
 type: "Game Development Blog"
 color: "background-color: seagreen"
@@ -7,62 +7,27 @@ summary: "The Dragonsitter is a Tamagotchi inspired game, made for the 'Keep it 
 author: amyelliott
 date: '2020-04-18'
 category: ['game-development', 'game-jam', 'unity']
-thumbnail: /assets/img/posts/TheDragonsitter/1.png
+thumbnail: https://am3pap005files.storage.live.com/y4mdtGGxzjC5aczK0ImPcRbdSoD-7X7wROw3ekh7YojIWnvZoMMNb9uEgIDSZcgV9WR9a3jWAk5jSpKD4NT_PdRIgY9boPq8eKjunnzLNpiUKP58Y22juQjLp5FMchCMoQBVkOr9w9uSuPnAYeA60NMcmL85h_RR5yF3ccqB-VmAVipotW1KnR9Eqx3-nDo2F4l?width=1920&height=1634&cropmode=none
 keywords: dragonsitter, gamejam, here
 permalink: /games/the-dragonsitter/
 usemathjax: true
 browser_playable: true
 genre: ['Digital Pet', 'Fantasy']
 hidden: true
+heading: "Take care of a dragon."
+icon: https://am3pap005files.storage.live.com/y4mdtGGxzjC5aczK0ImPcRbdSoD-7X7wROw3ekh7YojIWnvZoMMNb9uEgIDSZcgV9WR9a3jWAk5jSpKD4NT_PdRIgY9boPq8eKjunnzLNpiUKP58Y22juQjLp5FMchCMoQBVkOr9w9uSuPnAYeA60NMcmL85h_RR5yF3ccqB-VmAVipotW1KnR9Eqx3-nDo2F4l?width=1920&height=1634&cropmode=none
+showreel: 
+itch: https://horsehead.itch.io/keep-it-alive
+isgameembed: true
+gameembed: https://itch.io/embed-upload/2159156
+status: "Done"
+projecttype: "Game Jam"
+duration: "72 Hours"
+tools: ['Unity', 'Photoshop', 'Maya']
+roles: ['Programming', 'UI', 'Design', '3D']
+credits: ['Amy Elliott', 'Joe Shanahan', '+2 others']
+screenshots: ['/assets/img/posts/TheDragonsitter/g1.gif', '/assets/img/posts/TheDragonsitter/g2.gif', '/assets/img/posts/TheDragonsitter/g3.gif']
 ---
-
-<!--- ------------------ -->
-<!--- Status of the game -->
-<!--- ------------------ -->
-<div class="table-mobile">
-    <table>
-        <tr>
-            <th style="border: 0px !important">Status:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Done</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Project Type:</th> 
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Game Jam</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Development Duration:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">72 Hours</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Software Used:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Unity</small><small class="btn btn-col status-button">Photoshop</small><small class="btn btn-col status-button">Maya</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Primary Roles:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Programming</small><small class="btn btn-col status-button">UI</small><small class="btn btn-col status-button">Design</small><small class="btn btn-col status-button">3D</small></th>
-        </tr>
-    </table>
-</div>
-
-<hr>
-<!--- ---------------------------- -->
-<!--- Main description of the game -->
-<!--- ---------------------------- -->
-<div class = "card">
-    <h2 style="text-align: center;">About The Dragonsitter</h2>
-    <p style="text-align: center;">The Dragonsitter is a Tamagotchi inspired game, made for the 'Keep it alive' theme. I ended up working on all sorts of things for this game, including programming, 3D and art. <br />This game was made with a team of 4, including me. <br />This game was great fun to plan out and produce, I felt like we worked very well as a team to make this!</p>
-</div>
-
-<!--- ------------------------------------ -->
-<!--- Embed or Youtube Footage of the game -->
-<!--- ------------------------------------ -->
-<div style="text-align: center;"><iframe frameborder="0" src="https://itch.io/embed-upload/2159156?color=333333" allowfullscreen="" width="980" height="688"><a href="https://horsehead.itch.io/keep-it-alive">Play The Dragonsitter on itch.io</a></iframe></div>
-
-<hr>
-<!--- ------------------------------------ -->
-<!--- Gallery and screenshots for the game -->
-<!--- ------------------------------------ -->
-<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Gallery & Screenshots</h3>
 <div class="panel-heading active" role="tab" id="headingOne">
     <h2 class="panel-title" style="word-wrap: normal; padding: 15px; background-color: #1b1b1b">
     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseConceptArt" aria-expanded="true" aria-controls="collapseConceptArt" style="font-size: 18px; padding: 0px !important">
