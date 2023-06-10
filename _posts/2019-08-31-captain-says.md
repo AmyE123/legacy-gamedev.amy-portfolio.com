@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: game
 title:  "Captain Says"
 type: "Game Development Blog"
 color: "background-color: seagreen"
@@ -7,96 +7,24 @@ summary: "Captain Says is a educational game designed around the theme 'The Game
 author: amyelliott
 date: '2019-08-31'
 category: ['game-development', 'game-jam', 'unity']
-thumbnail: /assets/img/posts/CapSays/cover.png
+thumbnail: https://am3pap005files.storage.live.com/y4mQWbhn8cEXSxlviP8LCGFh13SRj7ljTQUcrxUQ2vcySkbdkTPIy-cP0WgIXKmqWP598RMBACklVrWG5hrePkhLmgTlzgIMzb6Iv3uU1WMRwT0KEyrsdbaY8OpvY1fbFNO-Yl1adaOv8EgUTXSyduYx91SEYFN3sClXZm_IbFgWj2DdOkPwKN3HO6ly6HACI54?width=1920&height=1634&cropmode=none
 keywords: educational, gamejam, casual, arcade
 permalink: /games/captain-says/
 usemathjax: true
 genre: ['Educational', 'Casual']
 browser_playable: true
 hidden: true
+heading: "Shoot the right shapes to get more points!"
+icon: https://am3pap005files.storage.live.com/y4mQWbhn8cEXSxlviP8LCGFh13SRj7ljTQUcrxUQ2vcySkbdkTPIy-cP0WgIXKmqWP598RMBACklVrWG5hrePkhLmgTlzgIMzb6Iv3uU1WMRwT0KEyrsdbaY8OpvY1fbFNO-Yl1adaOv8EgUTXSyduYx91SEYFN3sClXZm_IbFgWj2DdOkPwKN3HO6ly6HACI54?width=1920&height=1634&cropmode=none
+showreel: 
+itch: https://amy-elliott.itch.io/blockyroads
+isgameembed: false
+gamevideo: https://www.youtube.com/embed/jCQq_6hxVxk?controls=0
+status: "Done"
+projecttype: "Game Jam"
+duration: "1 Week"
+tools: ['Unity', 'Photoshop']
+roles: ['Programming', 'Design', 'UI']
+credits: ['Amy Elliott']
+screenshots: ['https://am3pap005files.storage.live.com/y4m8oxuxIMTMlwCwQODv730Cwmu1mMQ2PH2cj049cG4qcqndEEa6pqqJUyDmDGAZ4AKEaNxrS6yoQkXwDrC2myAaHsZqCG-VkBIvDBcLxefCQldSwbekHAjWnIcSkJT0UEy2ceygLQiEb3mzeZ3YJpKeBYRl0ROL5psoWDsSYIJqd9vEEgfpAWuq_RlzKIawTZr?width=1920&height=1080&cropmode=none', 'https://am3pap005files.storage.live.com/y4mvD7ZGuxz3Z7ZIQMJuk6PkjWDdNtysYjGWf-E9ow0p_VC7Hpa8tArs7kDNjlcna0yMUxYkWHB03VDVBwijwYzjre_c6QHu9LLCvwmabB5TIvo_1aNfcXtCr0Ky_hYZG7te_BVbo-v_Ozx_pSE_WcZwTyMqPGQiim4HrzcrJjhd090z45elxwrQR-ubyXzH7uI?width=1920&height=1080&cropmode=none', 'https://am3pap005files.storage.live.com/y4mpa1clsl97OucLoHHz2D7jox_XoQCe5nWVmhyb9TR7vo_ATEZngNyUqjzAj4eiEG6w8x0qeIJYb61G2s62YLfW5NIBaisThWVb8sBgpupOcJ5yJXxXfKLQ6NZ6vu9rnBO8KSQl47zruiM_ujVMN_w86FVGk8r9aK9zPiEmJ1zMBzIvocoC5gueKCWSEJBEHws?width=1920&height=1080&cropmode=none', 'https://am3pap005files.storage.live.com/y4m5mB6L48ozhPgoYTKD623AyTbgg9Cvmsxru5s5nNbtvtysObAp67eSiYDJv_CRxBfkSHOvzBP9YDgUW70aCeu_Kbz09CaPX8Jh3rNK2GeFotiNL-yml8pqSopWTALQ0WIfx_xipdKoCE7gn547cq57jezmW2z6MohBeit67ESZo7EAcwjJl4Xe_IKjmM7VLHt?width=1920&height=1080&cropmode=none', 'https://am3pap005files.storage.live.com/y4mKlncAMU271azsUGkWTsVGW3UEdF-s25LYHi82wBoXsB2yyq_cfqv7zityxfHAzC5nZjnmVLFMIX-d2186skEiBvBYg_C9RXqc8Dt-Ut38xoqAhqD8DnqEcdVnjBRrXGocO2oalOhc7up6HFi-NajqZK6Ag4s_e8fccqtx9_lZH0Q0SSU9ysORV4t77rLuKKl?width=1920&height=1080&cropmode=none']
 ---
-
-<!--- ------------------ -->
-<!--- Status of the game -->
-<!--- ------------------ -->
-<div class="table-mobile">
-    <table>
-        <tr>
-            <th style="border: 0px !important">Status:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Done</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Project Type:</th> 
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Game Jam</small><small class="btn btn-col status-button">Personal</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Development Duration:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">1 Week</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Software Used:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Unity</small><small class="btn btn-col status-button">Photoshop</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Primary Roles:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Programming</small><small class="btn btn-col status-button">UI</small><small class="btn btn-col status-button">Design</small></th>
-        </tr>
-    </table>
-</div>
-
-<hr>
-<!--- ---------------------------- -->
-<!--- Main description of the game -->
-<!--- ---------------------------- -->
-<div class = "card">
-    <h2 style="text-align: center;">About Captain Says</h2>
-    <p style="text-align: center;">Captain Says is a educational game designed around the theme 'The Game Is A Liar' originally made for PC for the Community GameJam, but later ported to mobile. The game was made with a team of two including me! <br /> I really enjoyed making this game, I didn't initially think of this game as an educational game, but now I have made it, I would love to remake it with education in mind. This game helped me understand more about how to publish my own games, and how to work with audio in Unity.</p>
-</div>
-
-<!--- ------------------------------------ -->
-<!--- Embed or Youtube Footage of the game -->
-<!--- ------------------------------------ -->
-<div class="video-container" style="padding-top: 0px !important">
-    <iframe src="https://www.youtube.com/embed/jCQq_6hxVxk" width="100%" height="500" frameborder="0"></iframe>
-</div>
-<hr>
-<!--- ------------------------------------ -->
-<!--- Gallery and screenshots for the game -->
-<!--- ------------------------------------ -->
-<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Gallery & Screenshots</h3>
-<div class="panel-heading active" role="tab" id="headingOne">
-    <h2 class="panel-title" style="word-wrap: normal; padding: 15px; background-color: #1b1b1b">
-    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseGall" aria-expanded="true" aria-controls="collapseGall" style="font-size: 18px; padding: 0px !important">
-        Gameplay Screenshots
-    </a>
-    </h2>                                
-</div>
-<div id="collapseGall" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-    <div class="panel-body">
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/CapSays/1.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/CapSays/2.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/CapSays/3.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-                <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/CapSays/4.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-        <div class = "widcard" style="background-color: #1c1c1e; margin-bottom: 0px !important">
-            <img src="/assets/img/posts/CapSays/5.png" style="max-width: -webkit-fill-available; box-shadow: 0px 0px 20px #202022;">
-        </div>
-    </div>
-</div>
-
-<hr>
-<!--- ------- -->
-<!--- Credits -->
-<!--- ------- -->
-<h3 style="text-align:center">Game Jam Participants</h3>
-<p style="text-align:center">This game was made by a team of 2 members, including me. <br /> You can see more information about the game on the <a class = "a-text" href="https://amy-elliott.itch.io/captain-says" target="_blank">Itch.io page</a>.</p> 
-
-<hr>
-
