@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: game
 title:  "Western Runner"
 type: "Game Development Blog"
 color: "background-color: seagreen"
@@ -7,59 +7,25 @@ summary: "Western Runner is a simple runner game inspired by Subway Surfers wher
 author: amyelliott
 date: '2019-11-01'
 category: ['game-development', 'solo', 'unreal-engine']
-thumbnail: /assets/img/posts/WesternRunner/cover.png
+thumbnail: https://am3pap005files.storage.live.com/y4m_wJlGJJq26q2v2DtDsVVQJoFax1IWRIbVjrdCoz49pI4rmquGe3WCgNO5yPuQyD_IpkU5LbLgSdv2aUJQ379DfJcp4uh42tkvTVM5ydxhsS0P5H6FxuAD-AzE8ysNlzthxmzvNQPrPJ1H4c-EYM3iZHhg9PrMXhfoyDkCZKZ_qnKxYAg3-KBB1BkaLv_Vx7P?width=1920&height=1634&cropmode=none
 keywords: endless-runner, casual, western
 permalink: /games/western-runner/
 usemathjax: true
 genre: ['Endless Runner', 'Western']
 hidden: true
+heading: "Run endlessly through the hot desert!"
+icon: https://am3pap005files.storage.live.com/y4m_wJlGJJq26q2v2DtDsVVQJoFax1IWRIbVjrdCoz49pI4rmquGe3WCgNO5yPuQyD_IpkU5LbLgSdv2aUJQ379DfJcp4uh42tkvTVM5ydxhsS0P5H6FxuAD-AzE8ysNlzthxmzvNQPrPJ1H4c-EYM3iZHhg9PrMXhfoyDkCZKZ_qnKxYAg3-KBB1BkaLv_Vx7P?width=1920&height=1634&cropmode=none
+showreel: 
+isgameembed: false
+gamevideo: https://www.youtube.com/embed/im5OsADfwlc?controls=0
+status: "Done"
+projecttype: "Solo College Project"
+duration: "~1 Month"
+tools: ['Unreal Engine 4', 'Photoshop']
+roles: ['Visual Scripting (Blueprints)', 'Design']
+credits: ['Amy Elliott']
 ---
 
-<!--- ------------------ -->
-<!--- Status of the game -->
-<!--- ------------------ -->
-<div class="table-mobile">
-    <table>
-        <tr>
-            <th style="border: 0px !important">Status:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Done</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Project Type:</th> 
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Solo College Project</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Development Duration:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">~1 Month</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Software Used:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Unreal Engine 4</small><small class="btn btn-col status-button">Photoshop</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Primary Roles:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Visual Scripting</small><small class="btn btn-col status-button">Design</small></th>
-        </tr>
-    </table>
-</div>
-
-<hr>
-<!--- ---------------------------- -->
-<!--- Main description of the game -->
-<!--- ---------------------------- -->
-<div class = "card">
-    <h2 style="text-align: center;">About Western Runner</h2>
-    <p style="text-align: center;">Western Runner is a simple runner game inspired by Subway Surfers where you have to dodge the obstacles and collect money, designed around the theme 'Western'.<br />This was made for a college project which asked us to use Unreal Engine, and this was my first time using it, and as it was solo, I used some assets I found so I can focus on learning how to program in Unreal Engine's Blueprints.<br />Doing this project has taught me a lot about how to use Unreal Engine, and how to use Blueprints, although I'm not a big fan of visual scripting</p>
-</div>
-
-<!--- ------------------------------------ -->
-<!--- Embed or Youtube Footage of the game -->
-<!--- ------------------------------------ -->
-<div class="video-container" style="padding-top: 0px !important">
-    <iframe src="https://www.youtube.com/embed/im5OsADfwlc?controls=0" width="100%" height="500" frameborder="0"></iframe>
-</div>
-
-<hr>
 <!--- ------------------------------------ -->
 <!--- Gallery and screenshots for the game -->
 <!--- ------------------------------------ -->
@@ -128,5 +94,4 @@ hidden: true
 <h3 style="text-align:center">Full Development Blog</h3>
 <p style="text-align:center">You can read the full development blog for the game <a class = "a-text" href="https://portfolioamyelliott.wordpress.com/western-runner/" target="_blank">here</a>.</p> 
 
-<hr>
 
