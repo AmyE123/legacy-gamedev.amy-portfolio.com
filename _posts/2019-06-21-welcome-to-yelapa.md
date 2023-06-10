@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: game
 title:  "Welcome To Yelapa"
 type: "Game Development Blog"
 color: "background-color: seagreen"
@@ -7,62 +7,26 @@ summary: "Welcome To Yelapa is a Legend of Zelda inspired puzzle game, and it wa
 author: amyelliott
 date: '2019-06-21'
 category: ['game-development', 'game-jam', 'unity']
-thumbnail: /assets/img/posts/WelcomeToYelapa/welcometoyelapa.PNG
+thumbnail: https://am3pap005files.storage.live.com/y4mPpTqoOavDKNi0vhsYWNFrDoc4Dw-uktJFUae-buOA-Jyvv45nS8dyx4ksJbSIdoY2sf5MmU9VBzPtP3OLnwt0ujDDckNZvXnS-MDwSdgSoyaxW55tOruPi-0yG4k7jjWElVL3TI7oKrkU7ZALfxucH7tkEe_srZAfrbH9XTY6MvAWqYY45wx9z-A5MYyLtxe?width=1920&height=1634&cropmode=none
 keywords: csharp, game design, design, level design, ui, ux, game jam
 permalink: /games/welcome-to-yelapa/
 usemathjax: true
 genre: ['Puzzles', 'Adventure', 'Casual']
 browser_playable: true
 hidden: true
+heading: "A Zelda-inspired game, based on some very strange themes."
+icon: https://am3pap005files.storage.live.com/y4mPpTqoOavDKNi0vhsYWNFrDoc4Dw-uktJFUae-buOA-Jyvv45nS8dyx4ksJbSIdoY2sf5MmU9VBzPtP3OLnwt0ujDDckNZvXnS-MDwSdgSoyaxW55tOruPi-0yG4k7jjWElVL3TI7oKrkU7ZALfxucH7tkEe_srZAfrbH9XTY6MvAWqYY45wx9z-A5MYyLtxe?width=1920&height=1634&cropmode=none
+showreel: 
+itch: https://horsehead.itch.io/gamejam-2019
+isgameembed: true
+gameembed: https://itch.io/embed-upload/1501772
+status: "Done"
+projecttype: "Game Jam"
+duration: "5 Days"
+tools: ['Unity', 'Photoshop', 'Tiled']
+roles: ['Design', 'Level Design', 'UI']
+credits: ['Amy Elliott', 'Joe Shanahan', 'Scott Richards', 'Oliver Thurston']
 ---
-
-<!--- ------------------ -->
-<!--- Status of the game -->
-<!--- ------------------ -->
-<div class="table-mobile">
-    <table>
-        <tr>
-            <th style="border: 0px !important">Status:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Done</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Project Type:</th> 
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Game Jam</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Development Duration:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">5 Days</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Software Used:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Unity</small><small class="btn btn-col status-button">Photoshop</small><small class="btn btn-col status-button">Tiled</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Primary Roles:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Design</small><small class="btn btn-col status-button">Level Design</small><small class="btn btn-col status-button">UI</small></th>
-        </tr>
-    </table>
-</div>
-
-<hr>
-<!--- ---------------------------- -->
-<!--- Main description of the game -->
-<!--- ---------------------------- -->
-<div class = "card">
-    <h2 style="text-align: center;">About Welcome To Yelapa</h2>
-    <p style="text-align: center;">Welcome To Yelapa is a Legend of Zelda inspired puzzle game, and it was made for the first gamejam I participated in! <br /> For this gamejam, I met Team Horsehead members like Joe, Oliver and Scott, and meeting them started me on my amazing game development journey! <br /> I learnt so much, and met so many amazing friends during this gamejam, it was truly a life changing experience for me.</p>
-</div>
-
-<!--- ------------------------------------ -->
-<!--- Embed or Youtube Footage of the game -->
-<!--- ------------------------------------ -->
-<div style="text-align: center;"><iframe frameborder="0" src="https://itch.io/embed-upload/1501772?color=333333" allowfullscreen="" width="1044" height="664"><a href="https://horsehead.itch.io/gamejam-2019">Play Welcome to Yelapa on itch.io</a></iframe> </div>
-
-<hr>
-<!--- ------------------------------------ -->
-<!--- Gallery and screenshots for the game -->
-<!--- ------------------------------------ -->
-<h3 style="text-align:center; margin-top: 20px; margin-bottom: 20px">Gallery & Screenshots</h3>
 <div class="panel-heading active" role="tab" id="headingOne">
     <h2 class="panel-title" style="word-wrap: normal; padding: 15px; background-color: #1b1b1b">
     <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseConcTo3D" aria-expanded="true" aria-controls="collapseConcTo3D" style="font-size: 18px; padding: 0px !important">
@@ -156,14 +120,3 @@ Doing this meant that we could make maps quickly and apply assets which was usef
 <h5>Day 3, 4 and 5</h5>
 <i>This day is the last day which I wrote about, since the rest of the week was crunch-mode</i> <br />
 <p>On day 3, I worked on the health system for the game, it felt like a very big task for me to do since I wasn’t really confident with programming at that point, along with the players health, I worked on the health for the final boss, all the maps have been added at this point. <br /> For Days 4 and 5, we were mostly working on finishing the game and adding the levels to the game, I was learning a lot along the way, mostly about how source control works, and bits of programming.</p>
-
- 
-<hr>
-<!--- ------- -->
-<!--- Credits -->
-<!--- ------- -->
-<h3 style="text-align:center">Game Jam Participants</h3>
-<p style="text-align:center">This game was made by 4 members of the <a class = "a-text" href="/blog/authors/teamhorsehead" target="_blank">Team Horsehead</a> team, including me. <br /> You can see more information about the team on the <a class = "a-text" href="https://horsehead.itch.io/gamejam-2019" target="_blank">Itch.io page</a>.</p> 
-
-<hr>
-
