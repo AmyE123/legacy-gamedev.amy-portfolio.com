@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: game
 title:  "Village Simulator"
 type: "Game Development Blog"
 color: "background-color: seagreen"
@@ -7,59 +7,26 @@ summary: "Village Simulator is a.. well you guessed it, it's a village simulator
 author: amyelliott
 date: '2019-10-04'
 category: ['game-development', 'game-jam', 'unity']
-thumbnail: /assets/img/posts/VillageSim/villagesimulator.png
+thumbnail: https://am3pap005files.storage.live.com/y4mp-VRwU39jTvnSuAwTCNwsvjx-BOKq3rQJzqsHnR1HtcmKFmOqEBqEI3XTRgZ_3GBOSWCZi0B00Xjg86MnXEmkL2tb8LBgIXfEp-3ttDeuId7iiLLzc-Z5ZeaKIEmEtYireKNKPJG3oJISTb9hclRQ9rpENChneUCgY00wxiUgXErLexcZDYl_5t3cHt_d30P?width=1920&height=1634&cropmode=none
 keywords: villagesim, village, sim, indie
 permalink: /games/village-simulator/
 usemathjax: true
 genre: ['Simulator', 'City Builder']
 browser_playable: true
 hidden: true
+heading: "Maintain and take care of a village."
+icon: https://am3pap005files.storage.live.com/y4mp-VRwU39jTvnSuAwTCNwsvjx-BOKq3rQJzqsHnR1HtcmKFmOqEBqEI3XTRgZ_3GBOSWCZi0B00Xjg86MnXEmkL2tb8LBgIXfEp-3ttDeuId7iiLLzc-Z5ZeaKIEmEtYireKNKPJG3oJISTb9hclRQ9rpENChneUCgY00wxiUgXErLexcZDYl_5t3cHt_d30P?width=1920&height=1634&cropmode=none
+showreel: 
+itch: https://horsehead.itch.io/village-simulation-game
+isgameembed: true
+gameembed: https://itch.io/embed-upload/3491873
+status: "Done"
+projecttype: "Game Jam"
+duration: "72 Hours"
+tools: ['Unity', 'Photoshop']
+roles: ['Programming', 'Design', 'UI']
+credits: ['Amy Elliott', 'Joe Shanahan']
 ---
-
-<!--- ------------------ -->
-<!--- Status of the game -->
-<!--- ------------------ -->
-<div class="table-mobile">
-    <table>
-        <tr>
-            <th style="border: 0px !important">Status:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Done</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Project Type:</th> 
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Game Jam</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Development Duration:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">72 Hours</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Software Used:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Unity</small><small class="btn btn-col status-button">Photoshop</small></th>
-        </tr>
-        <tr>
-            <th style="border: 0px !important">Primary Roles:</th>
-            <th style="text-align:right; border: 0px !important"><small class="btn btn-col status-button">Programming</small><small class="btn btn-col status-button">UI</small><small class="btn btn-col status-button">Design</small></th>
-        </tr>
-    </table>
-</div>
-
-
-<hr>
-<!--- ---------------------------- -->
-<!--- Main description of the game -->
-<!--- ---------------------------- -->
-<div class = "card">
-    <h2 style="text-align: center;">About Village Simulator</h2>
-    <p style="text-align: center;">Village Simulator is a.. well you guessed it, it's a village simulator! This was designed around the theme 'Start with nothing' and was made for Ludum Dare 45. This game was made with a team of 2, including me, and my friend Joe. <br /> As our team was small, both me and Joe worked on a bit of everything so we could get the game done in time. <br /> This game helped me understand more about scriptable objects in Unity.</p>
-</div>
-
-<!--- ------------------------------------ -->
-<!--- Embed or Youtube Footage of the game -->
-<!--- ------------------------------------ -->
-<div style="text-align: center;"> <iframe frameborder="0" src="https://itch.io/embed-upload/3491873?color=333333" allowfullscreen="" width="980" height="650"><a href="https://horsehead.itch.io/village-simulation-game";  width="100%">Play Village Simulation Game on itch.io</a></iframe> </div>
-
-<hr>
 <!--- ------------------------------------ -->
 <!--- Gallery and screenshots for the game -->
 <!--- ------------------------------------ -->
@@ -138,12 +105,3 @@ Each SimulationEvent had a slot for a SimulationProperties (Which was the Script
 We decided that the most important thing to get in first was progression, so that the player would have a reason to carry on playing, so we decided to check what buildings the player has crafted and progress from there, unlocking more buildings and villagers for the player to handle. <br />
 When the deadline was growing closer, we still had far too much we had to do, for example if a villager was hungry or tired or upset, there would be no effect on the game, so we quickly made a system for making the villagers pass out when their lacks are low. <br />
 Overall we were both very happy with how this game turned out, I personally really love how the game looks, it looks really sleek and clean, and it’s a very simple and easy game to pick up and play, we definitely planned way more than what we got done, but this is all part of leaning!</p>
-
-<hr>
-<!--- ------- -->
-<!--- Credits -->
-<!--- ------- -->
-<h3 style="text-align:center">Game Jam Participants</h3>
-<p style="text-align:center">This game was made by me and Joe Shanahan, we submitted it as a <a class = "a-text" href="/blog/authors/teamhorsehead" target="_blank">Team Horsehead</a> game</p> 
-
-<hr>
