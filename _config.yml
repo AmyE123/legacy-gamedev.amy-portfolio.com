@@ -256,69 +256,40 @@ author_project_details:
                 visibility: false
 
 # Professional Games
-author_professional_games:
-              - game_thumbnail: /projects/alteredgene.png
-                game_title: Unannounced Game
-                game_studio: Altered Gene
-                game_release: Ongoing              
-                game_blog: http://alteredgene.co.uk/
-                tag1: Altered Gene
-                tag2: '???'
-                tag3: '???'
-                visibility: true 
+author_professional_games: 
               - game_thumbnail: /projects/sumo.png
                 game_title: Unannounced Game
                 game_studio: Sumo Leamington
                 game_release: Ongoing              
-                game_blog: /blog/six-months-at-sumo
-                tag1: Sumo Digital
-                tag2: '???'
-                tag3: '???'
+                further_info: true
+                further_info_tag: sumo
+                further_info_page: unannounced_sumo_project.html
                 visibility: true
               - game_thumbnail: /projects/alteredgene.png
-                game_title: Unannounced Game
+                game_title: Unannounced Games (4)
                 game_studio: Altered Gene
-                game_release: August, 2022              
-                game_blog: http://alteredgene.co.uk/
-                tag1: Altered Gene
-                tag2: '???'
-                tag3: '???'
-                visibility: false 
-              - game_thumbnail: /projects/alteredgene.png
-                game_title: Unannounced Math Game
-                game_studio: Altered Gene
-                game_release: September, 2022              
-                game_blog: http://alteredgene.co.uk/
-                tag1: Altered Gene
-                tag2: 'Educational'
-                tag3: '???'
-                visibility: true 
+                game_release: Ongoing          
+                further_info: true
+                further_info_tag: agall
+                further_info_page: unannounced_ag_projects.html
+                visibility: true
               - game_thumbnail: /projects/osrs.png
                 game_title: Old School Runescape
                 game_studio: Jagex
                 game_release: August, 2021              
                 game_blog: /blog/my-time-working-on-runecape/
-                tag1: AAA
-                tag2: Jagex
-                tag3: MMORPG
                 visibility: true 
               - game_thumbnail: /projects/jagex.png
                 game_title: Unannounced Triple-A MMORPG
                 game_studio: Jagex
                 game_release: August, 2021            
                 game_blog: /blog/what-ive-learnt-working-on-jagexs-unannounced-mmorpg/
-                tag1: AAA
-                tag2: Jagex
-                tag3: MMORPG
                 visibility: true  
               - game_thumbnail: /projects/subsim.png
                 game_title: Submarine Simulator
                 game_studio: UoP & The Royal Navy
                 game_release: 9th April, 2021          
-                game_blog: /blog/sub-sim/
-                tag1: Teamwork
-                tag2: Simulator
-                tag3: Royal Navy
+                game_blog: /games/sub-sim/
                 visibility: true  
 
 # social links

@@ -6,7 +6,7 @@ color: "background-color: firebrick"
 summary: "I attended West Coventry Academy to represent Sumo Digital. I helped run a game pitch day with some collegues."
 author: amyelliott
 date: '2022-07-13'
-category: ['personal', 'education']
+category: ['personal', 'education', 'sumo-digital']
 thumbnail: /assets/img/posts/GamePitchChallenge/cover.png
 keywords: personal, education
 permalink: /blog/gamepitchchallenge/

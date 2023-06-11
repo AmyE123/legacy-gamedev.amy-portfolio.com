@@ -1,0 +1,18 @@
+<p>I've been working on an unannounced game with <a href="https://leamington.sumo-digital.com/" target="_blank">Sumo Leamington</a>.</p>
+<p>Although I can't say much about the game itself at the moment, here are some blog posts which I have made in relation to my time at <a href="https://www.sumo-digital.com/" target="_blank">Sumo Digital</a>.</p>
+
+<div class="row">
+    {% for post in site.categories.sumo-digital %}
+    <div class="card blog-post" style="border-radius: 10px">
+        <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}" style="padding: 0px" target="_blank">
+            <img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{ post.thumbnail }}" alt="{{ post.title }}" style="border-radius: 10px">
+        </a>
+        <hr>
+        <div class="card-body center" style="padding: 0.1px !important">
+        <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}" style="padding: 0px" target="_blank">
+            <p class="card-title">{{ post.title }}</p>
+        </a>
+        </div>
+    </div>
+    {% endfor %}
+</div>

@@ -45,11 +45,38 @@ layout: default
                             <img class="card-img-top" src="{{site.baseurl}}/assets/img{{game.game_thumbnail}}" style="border-radius: 30px">
                         </a>
                         <div class="card-body center">
+                            {% if game.further_info == true %}
+                            <a href="" target="_blank" data-toggle="modal" data-target="#exampleModalLong{{game.further_info_tag}}" style="padding: 0px">
+                                <h4 class="card-title">{{game.game_title}}</h4>
+                            </a>
+                            {% else %}
                             <a href="{{site.baseurl}}{{game.game_blog}}" target="_blank" data-disqus-identifier="{{ post.url }}" style="padding: 0px">
                                 <h4 class="card-title">{{game.game_title}}</h4>
                             </a>
+                            {% endif %}
+
                             <h6 class="card-subtitle mb-2 text-muted">{{ game.game_release | date: "%b %-d, %Y" }}</h6>
                             <small class="btn btn-col" style="font-size: small; padding: .1rem .3rem; display:inline; background-color: dimgray">{{ game.game_studio }}</small>
+
+                            {% if game.further_info == true %}
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModalLong{{game.further_info_tag}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                                <div class="modal-dialog" role="document">
+                                    <div class="modal-content" style="background-color: #202022 !important">
+                                        <div class="modal-header" style="border-bottom-color: #2e2e2e !important">
+                                            <h5 class="modal-title" id="exampleModalLongTitle">Further Information</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            {%- include {{game.further_info_page}} -%}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endif %}
+
                         </div>
                     </div>
                     {% endif %} {% endfor %}
